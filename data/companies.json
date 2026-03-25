@@ -1,0 +1,197 @@
+{
+  "schema_version": "4.0",
+  "last_updated": "2026-03-25",
+  "scope": "Holistic Business & Technology Strategy",
+  "prepared_by": "Kumar Raju",
+  "companies": [
+    {
+      "company_name": "BNY Mellon",
+      "slug": "bny-mellon",
+      "company_type": "Custodian / Asset Servicer",
+      "headquarters": "New York, USA",
+      "strategy_intensity_score": 5,
+      "business_maturity_score": 5,
+      "technology_maturity_score": 5
+    },
+    {
+      "company_name": "Citi",
+      "slug": "citi",
+      "company_type": "Global Bank",
+      "headquarters": "New York, USA",
+      "strategy_intensity_score": 5,
+      "business_maturity_score": 4,
+      "technology_maturity_score": 4
+    },
+    {
+      "company_name": "HSBC",
+      "slug": "hsbc",
+      "company_type": "Universal Bank",
+      "headquarters": "London, UK",
+      "strategy_intensity_score": 5,
+      "business_maturity_score": 5,
+      "technology_maturity_score": 5
+    },
+    {
+      "company_name": "JP Morgan",
+      "slug": "jp-morgan",
+      "company_type": "Global Investment Bank",
+      "headquarters": "New York, USA",
+      "strategy_intensity_score": 5,
+      "business_maturity_score": 5,
+      "technology_maturity_score": 5
+    },
+    {
+      "company_name": "WisdomTree",
+      "slug": "wisdomtree",
+      "company_type": "Asset Manager / Digital Native",
+      "headquarters": "New York, USA",
+      "strategy_intensity_score": 5,
+      "business_maturity_score": 4,
+      "technology_maturity_score": 4
+    },
+    {
+      "company_name": "Fiserv",
+      "slug": "fiserv",
+      "company_type": "Payments / FinTech Infrastructure",
+      "headquarters": "Milwaukee, USA",
+      "strategy_intensity_score": 4,
+      "business_maturity_score": 4,
+      "technology_maturity_score": 4
+    },
+    {
+      "company_name": "Goldman Sachs",
+      "slug": "goldman-sachs",
+      "company_type": "Global Investment Bank",
+      "headquarters": "New York, USA",
+      "strategy_intensity_score": 4,
+      "business_maturity_score": 5,
+      "technology_maturity_score": 5
+    },
+    {
+      "company_name": "Morgan Stanley",
+      "slug": "morgan-stanley",
+      "company_type": "Investment Bank / Wealth Manager",
+      "headquarters": "New York, USA",
+      "strategy_intensity_score": 4,
+      "business_maturity_score": 5,
+      "technology_maturity_score": 4
+    },
+    {
+      "company_name": "State Street",
+      "slug": "state-street",
+      "company_type": "Custodian / Asset Servicer",
+      "headquarters": "Boston, USA",
+      "strategy_intensity_score": 4,
+      "business_maturity_score": 4,
+      "technology_maturity_score": 4
+    },
+    {
+      "company_name": "BNP Paribas",
+      "slug": "bnp-paribas",
+      "company_type": "Global Universal Bank",
+      "headquarters": "Paris, France",
+      "strategy_intensity_score": 3,
+      "business_maturity_score": 5,
+      "technology_maturity_score": 4
+    },
+    {
+      "company_name": "Barclays",
+      "slug": "barclays",
+      "company_type": "Universal Bank",
+      "headquarters": "London, UK",
+      "strategy_intensity_score": 3,
+      "business_maturity_score": 4,
+      "technology_maturity_score": 3
+    },
+    {
+      "company_name": "Fidelity International",
+      "slug": "fidelity-international",
+      "company_type": "Asset Manager",
+      "headquarters": "London, UK",
+      "strategy_intensity_score": 3,
+      "business_maturity_score": 4,
+      "technology_maturity_score": 3
+    },
+    {
+      "company_name": "Lloyds Banking Group",
+      "slug": "lloyds-banking-group",
+      "company_type": "Retail / Commercial Bank",
+      "headquarters": "London, UK",
+      "strategy_intensity_score": 3,
+      "business_maturity_score": 4,
+      "technology_maturity_score": 3
+    },
+    {
+      "company_name": "Northern Trust",
+      "slug": "northern-trust",
+      "company_type": "Custodian / Asset Manager",
+      "headquarters": "Chicago, USA",
+      "strategy_intensity_score": 3,
+      "business_maturity_score": 4,
+      "technology_maturity_score": 3
+    },
+    {
+      "company_name": "UBS",
+      "slug": "ubs",
+      "company_type": "Global Wealth Manager / Universal Bank",
+      "headquarters": "Zurich, Switzerland",
+      "strategy_intensity_score": 3,
+      "business_maturity_score": 5,
+      "technology_maturity_score": 4
+    },
+    {
+      "company_name": "American Express",
+      "slug": "american-express",
+      "company_type": "Card Network / Payments",
+      "headquarters": "New York, USA",
+      "strategy_intensity_score": 2,
+      "business_maturity_score": 4,
+      "technology_maturity_score": 3
+    },
+    {
+      "company_name": "NatWest",
+      "slug": "natwest",
+      "company_type": "Retail / Commercial Bank",
+      "headquarters": "London, UK",
+      "strategy_intensity_score": 2,
+      "business_maturity_score": 4,
+      "technology_maturity_score": 3
+    },
+    {
+      "company_name": "UOB",
+      "slug": "uob",
+      "company_type": "Regional Bank",
+      "headquarters": "Singapore",
+      "strategy_intensity_score": 2,
+      "business_maturity_score": 4,
+      "technology_maturity_score": 3
+    },
+    {
+      "company_name": "UniCredit",
+      "slug": "unicredit",
+      "company_type": "European Universal Bank",
+      "headquarters": "Milan, Italy",
+      "strategy_intensity_score": 2,
+      "business_maturity_score": 4,
+      "technology_maturity_score": 3
+    },
+    {
+      "company_name": "Citizens Financial Group",
+      "slug": "citizens",
+      "company_type": "Regional Bank",
+      "headquarters": "Providence, USA",
+      "strategy_intensity_score": 1,
+      "business_maturity_score": 3,
+      "technology_maturity_score": 3
+    },
+    {
+      "company_name": "Gen II",
+      "slug": "gen-ii",
+      "company_type": "Fund Administrator",
+      "headquarters": "New York, USA",
+      "strategy_intensity_score": 1,
+      "business_maturity_score": 3,
+      "technology_maturity_score": 2
+    }
+  ]
+}
