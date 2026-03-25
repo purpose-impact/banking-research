@@ -1,0 +1,38 @@
+{
+  "company_name": "Barclays",
+  "company_type": "Universal Bank",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "USA",
+    "Europe"
+  ],
+  "financials": {
+    "revenue": "~£26B annual",
+    "profit": "~£7B annual",
+    "employees": "~90,000",
+    "key_metric": "UK retail + US investment banking"
+  },
+  "overall_strategy_summary": "Barclays operates across UK retail banking, US/UK investment banking, and wealth management. Digital asset activity: UK Finance GBTD pilot, Ubyx stablecoin settlement investment, 10-bank stablecoin consortium participation, Ryan Hayward as Head of Digital Assets. Previously restricted retail crypto via credit cards. Broader strategy: investment banking growth (US focused), UK retail transformation, cost efficiency, and strategic review completion. Technology investment in trading platforms, digital banking, and risk management.",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3,
+  "slug": "barclays",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [],
+    "workforce_signals": ""
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [],
+  "analyst_judgment": {},
+  "evidence": [],
+  "last_updated": "2026-03-25",
+  "version": "1.0"
+}

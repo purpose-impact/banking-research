@@ -1,0 +1,37 @@
+{
+  "company_name": "UOB",
+  "company_type": "Regional Bank",
+  "headquarters": "Singapore",
+  "key_regions": [
+    "Singapore",
+    "ASEAN"
+  ],
+  "financials": {
+    "revenue": "~SGD 13B annual",
+    "profit": "~SGD 6B annual",
+    "employees": "~30,000",
+    "key_metric": "Major ASEAN franchise across 19 countries"
+  },
+  "overall_strategy_summary": "[PLACEHOLDER] UOB is a leading Southeast Asian bank with strong ASEAN franchise. Involved in Project Guardian (green bond tokenization with Northern Trust), Partior cross-border payment network. Broader strategy focuses on ASEAN connectivity, digital banking (TMRW), SME banking, wealth management, and sustainable finance. MAS regulatory environment is supportive of innovation.",
+  "strategy_intensity_score": 2,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3,
+  "slug": "uob",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [],
+    "workforce_signals": ""
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [],
+  "analyst_judgment": {},
+  "evidence": [],
+  "last_updated": "2026-03-25",
+  "version": "1.0"
+}
