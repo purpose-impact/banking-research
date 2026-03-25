@@ -1,0 +1,109 @@
+{
+  "company_name": "Citizens Financial Group",
+  "company_type": "Regional Bank",
+  "headquarters": "Providence, USA",
+  "key_regions": [
+    "USA"
+  ],
+  "financials": {
+    "revenue": "~$8B annual",
+    "profit": "~$1.5B annual",
+    "employees": "~17,000",
+    "key_metric": "Top 15 US bank by assets (~$220B)"
+  },
+  "overall_strategy_summary": "[PLACEHOLDER] Citizens is a large US regional bank focused on consumer and commercial banking. Limited visible digital asset strategy. Broader strategy focuses on fee income diversification, private banking growth, capital markets expansion, and digital banking transformation. Technology investment in mobile/digital channels and operational efficiency. Post-GENIUS Act positioning unclear.",
+  "strategy_intensity_score": 1,
+  "business_maturity_score": 3,
+  "technology_maturity_score": 3,
+  "slug": "citizens",
+  "business_segments": [
+    {
+      "name": "Consumer Banking",
+      "description": "Retail deposits, mortgages, auto lending, education lending, credit cards. Digital banking channels.",
+      "priority": "core"
+    },
+    {
+      "name": "Commercial Banking",
+      "description": "Middle market lending, treasury management, capital markets, trade finance, leasing.",
+      "priority": "core"
+    },
+    {
+      "name": "Private Banking / Wealth",
+      "description": "Emerging wealth and private banking franchise. Growing segment.",
+      "priority": "growth"
+    }
+  ],
+  "technology_strategy": {
+    "ai_and_genai": "[Limited public data] AI for credit decisions, fraud, customer service.",
+    "cloud": "[Limited public data] Cloud modernisation for digital banking.",
+    "digital_assets": "[PLACEHOLDER] No visible digital asset strategy. Post-GENIUS Act positioning unclear.",
+    "platforms": "Mobile and internet banking. Digital account opening."
+  },
+  "operating_model": {
+    "transformation": "Fee income diversification. Private banking growth. Capital markets expansion. Digital banking investment. Cost efficiency.",
+    "vendor_ecosystem": "[Requires validation]"
+  },
+  "people": {
+    "key_leaders": [],
+    "workforce_signals": ""
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [
+    "Private banking growth",
+    "Capital markets fee diversification",
+    "Digital banking modernisation",
+    "Post-GENIUS Act stablecoin positioning",
+    "SME banking technology"
+  ],
+  "risks": [
+    "Regional bank concentration risk",
+    "Interest rate sensitivity",
+    "Competition from JPMorgan Chase, Bank of America in retail",
+    "No digital asset strategy visible",
+    "Technology investment scale vs larger peers"
+  ],
+  "skills_gaps": [
+    "Digital assets awareness",
+    "AI/ML engineering",
+    "Cloud-native development",
+    "Wealth technology",
+    "Digital banking UX"
+  ],
+  "product_partnership_opportunities": [],
+  "open_questions": [
+    "Any blockchain/tokenization pilots?",
+    "Regulatory engagement?",
+    "Does Citizens have a digital asset strategy?",
+    "Technology partnerships?"
+  ],
+  "analyst_judgment": {
+    "strategy_posture": "[PLACEHOLDER] No visible digital asset strategy. Requires research.",
+    "likely_objectives": "[Requires validation]",
+    "not_prioritizing": "[Requires validation]",
+    "strongest_areas": "[Requires validation]",
+    "weakest_areas": "No visible strategy.",
+    "build_vs_buy_hypothesis": "[Requires validation]",
+    "watchlist_12_months": [
+      "Any digital asset announcements",
+      "Stablecoin positioning post-GENIUS Act"
+    ]
+  },
+  "evidence": [],
+  "last_updated": "2026-03-25",
+  "version": "1.0",
+  "process": {
+    "front_office": "[Requires validation]",
+    "middle_office": "[Requires validation]",
+    "back_office": "[Requires validation]",
+    "operating_model_maturity": "[Requires validation]"
+  },
+  "product": {
+    "products": [],
+    "revenue_intent": "[Requires validation]",
+    "buy_vs_build": "[Requires validation]"
+  },
+  "major_initiatives": [],
+  "ecosystem_partners": [],
+  "chain_or_platform_signals": [],
+  "competitive_position": "Top 15 US bank (~$220B assets). Growing from regional to super-regional. Private banking expansion. Behind on digital assets. Competing with PNC, Truist, US Bancorp, KeyBank."
+}

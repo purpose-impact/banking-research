@@ -1,0 +1,262 @@
+{
+  "company_name": "Fiserv",
+  "company_type": "Payments / FinTech Infrastructure",
+  "headquarters": "Milwaukee, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "financials": {
+    "revenue": "~$20B annual",
+    "profit": "$92.3B market cap",
+    "employees": "~40,000",
+    "key_metric": "10K FI clients, 6M merchant locations, 90B transactions/year"
+  },
+  "overall_strategy_summary": "Fiserv is a payments and banking technology infrastructure giant serving banks, credit unions, and merchants. The firm processes 90 billion transactions annually. Key strategic moves: FIUSD stablecoin launch (Solana, with Paxos/Circle/PayPal/Mastercard), INDX real-time settlement platform, Finxact cloud-native core banking, Clover POS expansion (entering Japan with SMCC), StoneCastle acquisition for deposit network. CEO-level embrace of stablecoins and digital assets as next-generation payments infrastructure. Strong embedded finance positioning.",
+  "strategy_intensity_score": 4,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 4,
+  "slug": "fiserv",
+  "business_segments": [
+    {
+      "name": "Merchant Solutions",
+      "description": "Clover POS platform ($3.3B revenue 2025, +23%). 6M merchant locations. Expanding to 5 new countries including Brazil. Payment processing, acquiring, gateway. TD Bank partnership.",
+      "priority": "growth"
+    },
+    {
+      "name": "Financial Solutions",
+      "description": "Core banking platforms (consolidating from 16 to 5 US cores). Finxact cloud-native core. Digital banking (XD platform). Bill pay. Card processing. Projected 6-8% growth.",
+      "priority": "core"
+    },
+    {
+      "name": "Payments",
+      "description": "90B transactions/year across 10,000 FI clients. Debit/credit networks. Payment processing. Real-time payments.",
+      "priority": "core"
+    },
+    {
+      "name": "Digital Assets / Embedded Finance",
+      "description": "FIUSD stablecoin (Solana). INDX real-time settlement. Stablecoin custody (via StoneCastle). Deposit tokens exploration. PayPal/Mastercard/Paxos/Circle partnerships.",
+      "priority": "growth"
+    }
+  ],
+  "technology_strategy": {
+    "ai_and_genai": "Project Elevate for AI integration. AI-driven fraud monitoring. Predictive analytics for merchants. SmartAudit capabilities.",
+    "cloud": "Finxact cloud-native core banking. Cloud-based Clover platform. XD digital banking platform. Migration from legacy cores.",
+    "data_and_analytics": "Unknown Shopper analytics for merchant insights. Customer behaviour analytics. Fraud detection. Transaction data analytics across 90B transactions.",
+    "digital_assets": "FIUSD stablecoin on Solana (Paxos/Circle infrastructure). INDX real-time USD settlement. StoneCastle acquisition for deposit network and stablecoin custody. Deposit tokens exploration with banks (Huntington pilot). PayPal PYUSD interoperability.",
+    "platforms": "Clover POS ($3.3B, flagship). Finxact (cloud core). XD (digital banking). Experience Digital. Commercial Center."
+  },
+  "operating_model": {
+    "transformation": "One Fiserv action plan (Oct 2025). Core consolidation (16→5). Leadership overhaul (Co-Presidents, new CROs from JPMorgan and Stripe). Stock lost 40%+ in Oct 2025 after earnings miss. Regaining investor confidence.",
+    "vendor_ecosystem": "Paxos (stablecoin issuance), Circle (stablecoin infrastructure), PayPal (PYUSD interoperability), Mastercard (MTN distribution), Solana (blockchain), ADP (Clover payroll), StoneCastle (acquired), TD Bank (merchant partnership)."
+  },
+  "people": {
+    "key_leaders": [
+      {
+        "name": "Mike Lyons",
+        "title": "CEO"
+      },
+      {
+        "name": "Takis Georgakopoulos",
+        "title": "Co-President, Head of Merchant Solutions & Technology / COO"
+      },
+      {
+        "name": "Dhivya Suryadevara",
+        "title": "Co-President, Head of Financial Solutions, Sales & Operations (from Dec 2025)"
+      },
+      {
+        "name": "Sunil Sachdev",
+        "title": "Head of Embedded Finance and Digital Assets"
+      },
+      {
+        "name": "Lia Cao",
+        "title": "CRO, Enterprise and Platforms (from Feb 2026, ex-JPMorgan)"
+      },
+      {
+        "name": "Robert Clarkson",
+        "title": "CRO, Small Business & Clover (from Feb 2026, ex-Stripe)"
+      }
+    ],
+    "team_structure": "One Fiserv action plan across five strategic pillars. Co-President structure (Georgakopoulos + Suryadevara). Major leadership refresh in late 2025/early 2026 with external hires from JPMorgan and Stripe. Embedded Finance division houses digital assets.",
+    "leadership_commitment": "Strong but under pressure. Stock lost 40%+ in Oct 2025 after earnings miss. Leadership overhaul signals urgency. CEO acknowledged misjudging short vs long-term priorities.",
+    "workforce_signals": "~40,000 employees. Consolidating US cores from 16 to 5. Project Elevate for AI integration. Significant external hiring at senior level."
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [
+    "Clover international expansion (5 new countries)",
+    "FIUSD stablecoin adoption across 10K FIs",
+    "Finxact modernising community banks",
+    "Embedded finance platform growth",
+    "Merchant data analytics monetisation (Unknown Shopper)",
+    "Stablecoin custody for banks"
+  ],
+  "risks": [
+    "Investor confidence recovery after 40% stock drop",
+    "Clover fee complaints and lawsuits",
+    "Core consolidation execution (16→5)",
+    "Leadership transition with new Co-Presidents",
+    "Competition from Stripe, Square, Adyen in merchant acquiring",
+    "FIUSD adoption uncertainty in crowded stablecoin market"
+  ],
+  "skills_gaps": [
+    "Cloud-native core banking engineers",
+    "Stablecoin and blockchain engineers",
+    "AI/ML for fraud and analytics",
+    "International expansion product managers",
+    "Merchant experience designers"
+  ],
+  "product_partnership_opportunities": [],
+  "open_questions": [
+    "Merchant adoption metrics?",
+    "What is FIUSD's current circulation and adoption rate?",
+    "Revenue model details for FIUSD?",
+    "International expansion timeline?",
+    "How are deposit tokens vs stablecoins being prioritized?"
+  ],
+  "analyst_judgment": {
+    "strategy_posture": "Aggressive platform enabler. Moving fast to establish stablecoin infrastructure position.",
+    "likely_objectives": "Make FIUSD the default stablecoin for bank/merchant transactions. Lock in FI clients with integrated digital asset capabilities. Build new deposit and settlement infrastructure.",
+    "not_prioritizing": "Crypto custody, asset management, tokenized securities, DeFi integration.",
+    "strongest_areas": "Distribution scale (10K FIs, 6M merchants), partnership ecosystem (Mastercard, PayPal, Paxos, Circle), compliance integration, cloud-native infrastructure.",
+    "weakest_areas": "No revenue from digital assets yet. Stablecoin market is crowded. Deposit token strategy still exploratory. International reach unclear.",
+    "build_vs_buy_hypothesis": "Hybrid. Acquired Finxact and StoneCastle. Partners with Paxos/Circle for issuance. Solana for chain. Builds integration layer.",
+    "watchlist_12_months": [
+      "FIUSD adoption metrics",
+      "INDX transaction volumes",
+      "Deposit token pilot launch",
+      "International expansion signals",
+      "Revenue contribution from digital assets"
+    ]
+  },
+  "evidence": [
+    {
+      "claim": "Fiserv announced FIUSD stablecoin on Solana with Paxos and Circle infrastructure",
+      "evidence_type": "fact",
+      "source_title": "Fiserv BusinessWire",
+      "source_url": "https://www.businesswire.com/news/home/20250623052523/en/Fiserv-Launches-New-FIUSD-Stablecoin-for-Financial-Institutions",
+      "source_date": "2025-06-23",
+      "source_quality": "primary",
+      "confidence": "high"
+    },
+    {
+      "claim": "Fiserv launched INDX real-time settlement platform for digital asset companies",
+      "evidence_type": "fact",
+      "source_title": "Digital Transactions",
+      "source_url": "https://www.digitaltransactions.net/fiserv-launches-indx-for-real-time-settlement-of-digital-assets-in-u-s-dollars/",
+      "source_date": "2026-02-13",
+      "source_quality": "high",
+      "confidence": "high"
+    },
+    {
+      "claim": "Mastercard partnership to distribute FIUSD across 150M+ merchants",
+      "evidence_type": "fact",
+      "source_title": "Mastercard",
+      "source_url": "https://www.mastercard.com/us/en/news-and-trends/press/2025/june/mastercard-fiserv-stablecoin-adoption.html",
+      "source_date": "2025-06",
+      "source_quality": "primary",
+      "confidence": "high"
+    },
+    {
+      "claim": "Fiserv exploring deposit tokens as bank-friendly alternative",
+      "evidence_type": "fact",
+      "source_title": "FinTech Magazine",
+      "source_url": "https://fintechmagazine.com/articles/exploring-fiservs-entry-into-stablecoin-market-with-fiusd",
+      "source_date": "2025-06-24",
+      "source_quality": "high",
+      "confidence": "high"
+    }
+  ],
+  "last_updated": "2026-03-25",
+  "version": "1.0",
+  "process": {
+    "front_office": "FIUSD stablecoin to be available via SDK integrated into Experience Digital and Commercial Center platforms. Merchants can settle in FIUSD via Mastercard. Consumers can on/off-ramp between fiat and FIUSD.",
+    "middle_office": "Built-in compliance features including fraud monitoring, risk management, settlement controls. Leverages existing Fiserv compliance infrastructure.",
+    "back_office": "Finxact cloud-native core processing platform serves as underlying ledger. INDX platform for real-time USD settlement of digital assets. Fiserv Deposit Network (1,100+ insured FIs) for fund movement.",
+    "operating_model_maturity": "Early production. FIUSD announced June 2025, INDX launched Feb 2026. Still scaling.",
+    "regulatory_adaptation": "US-focused. GENIUS Act alignment. Bank-friendly compliance-first approach. Exploring deposit tokens as alternative to stablecoins for capital efficiency.",
+    "open_questions": [
+      "KYC/AML details for stablecoin onboarding",
+      "Settlement finality model for FIUSD",
+      "Regulatory classification of FIUSD"
+    ]
+  },
+  "product": {
+    "products": [
+      {
+        "name": "FIUSD Stablecoin",
+        "type": "Stablecoin",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "FI clients & Merchants",
+        "description": "USD-pegged stablecoin on Solana. Infrastructure from Paxos and Circle. Available at no additional cost to Fiserv clients. Interoperable with PYUSD."
+      },
+      {
+        "name": "INDX",
+        "type": "Real-time cash settlement platform",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Digital asset companies",
+        "description": "Real-time fiat USD settlement for digital asset companies. Moves dollars across Fiserv Deposit Network. 24/7 instant settlement."
+      },
+      {
+        "name": "Digital Asset Platform (Finxact-based)",
+        "type": "Infrastructure platform",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Financial institutions",
+        "description": "Cloud-native platform connecting fiat and digital ecosystems. Finxact core as ledger. SDK for client integration."
+      },
+      {
+        "name": "Deposit Tokens (exploratory)",
+        "type": "Tokenized deposits",
+        "maturity": "concept",
+        "geography": "USA",
+        "segment": "Banks",
+        "description": "Exploring tokenized deposits as bank-friendly alternative to stablecoins. More capital-efficient structure."
+      }
+    ],
+    "revenue_intent": "Platform enablement (no additional cost for FIUSD), new deposit sources via INDX, ecosystem positioning, future revenue from transaction fees and services.",
+    "buy_vs_build": "Hybrid. Finxact (acquired) as core ledger. Paxos/Circle for stablecoin infrastructure. Solana as public chain. StoneCastle acquisition for deposit network."
+  },
+  "major_initiatives": [
+    {
+      "name": "FIUSD stablecoin announcement",
+      "date": "June 2025",
+      "status": "launched"
+    },
+    {
+      "name": "PayPal PYUSD interoperability partnership",
+      "date": "June 2025",
+      "status": "active"
+    },
+    {
+      "name": "Mastercard partnership for FIUSD distribution",
+      "date": "June 2025",
+      "status": "active"
+    },
+    {
+      "name": "INDX real-time settlement platform launch",
+      "date": "February 2026",
+      "status": "launched"
+    },
+    {
+      "name": "StoneCastle acquisition",
+      "date": "2025",
+      "status": "completed"
+    }
+  ],
+  "ecosystem_partners": [
+    "Paxos",
+    "Circle",
+    "PayPal",
+    "Mastercard",
+    "Solana",
+    "StoneCastle (acquired)"
+  ],
+  "chain_or_platform_signals": [
+    "Solana",
+    "Finxact",
+    "Mastercard Multi-Token Network"
+  ],
+  "competitive_position": "#1 global FinTech (IDC, 3 consecutive years). Massive distribution (10K FIs, 6M merchants, 90B transactions). Clover is leading SMB platform. Under pressure from Stripe, Adyen, Block. Fiserv stock challenges require execution focus."
+}

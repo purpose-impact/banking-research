@@ -1,0 +1,278 @@
+{
+  "company_name": "WisdomTree",
+  "company_type": "Asset Manager / Digital Native",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA"
+  ],
+  "financials": {
+    "revenue": "~$350M annual",
+    "profit": "N/A",
+    "employees": "~300",
+    "key_metric": "$110B+ total AUM, $770M tokenized fund AUM"
+  },
+  "overall_strategy_summary": "WisdomTree has pivoted from a traditional ETP provider to a digital-first financial platform. Core business remains ETFs/ETPs ($110B+ AUM) but digital assets are now a core strategic pillar. 15 tokenized funds, WisdomTree Prime retail wallet, WisdomTree Connect institutional platform, USDW stablecoin, BNY BaaS partnership, NYDFS trust charter. Grew tokenized AUM from $30M to $770M in 2025. Multi-chain strategy (Stellar, Ethereum, L2s). GENIUS Act compliance as competitive moat.",
+  "strategy_intensity_score": 5,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 4,
+  "slug": "wisdomtree",
+  "business_segments": [
+    {
+      "name": "ETPs/ETFs (Traditional)",
+      "description": "Core business. $110B+ total AUM. SPDR-style index, smart beta, thematic, commodity ETFs. US and European listings.",
+      "priority": "core"
+    },
+    {
+      "name": "Digital Assets & Tokenized Funds",
+      "description": "15 tokenized funds ($770M AUM, grew from $30M in 2025). WisdomTree Prime (retail wallet). WisdomTree Connect (institutional platform). USDW stablecoin. BNY BaaS. Multi-chain (Stellar, Ethereum, L2s).",
+      "priority": "growth"
+    },
+    {
+      "name": "Model Portfolios",
+      "description": "Advisor solutions. Model portfolio delivery. Financial planning tools.",
+      "priority": "core"
+    }
+  ],
+  "technology_strategy": {
+    "ai_and_genai": "Not prominently featured. Focus is on blockchain/tokenization technology rather than AI.",
+    "cloud": "Cloud-native platforms for Prime and Connect.",
+    "digital_assets": "Core strategic pillar. 15 tokenized funds (largest SEC-registered suite). WisdomTree Prime (Stellar-based retail wallet). WisdomTree Connect (institutional, multi-chain: Ethereum, Arbitrum, Avalanche, Base, Optimism). USDW stablecoin (NYDFS chartered). GENIUS Act reserve compliance. WTGXX as stablecoin reserve asset.",
+    "platforms": "WisdomTree Prime (retail app/wallet). WisdomTree Connect (institutional APIs). Multi-chain infrastructure."
+  },
+  "operating_model": {
+    "transformation": "Pivoting from traditional ETP provider to digital-first financial platform. Lean organisation (~300 employees) with outsourced infrastructure (BNY BaaS). NYDFS trust charter. State money transmitter licenses.",
+    "vendor_ecosystem": "BNY (BaaS, custody, fund admin), Stellar (primary blockchain), Ethereum/L2s (institutional distribution), multiple blockchain networks."
+  },
+  "people": {
+    "key_leaders": [
+      {
+        "name": "Jonathan Steinberg",
+        "title": "CEO"
+      },
+      {
+        "name": "Will Peck",
+        "title": "Head of Digital Assets"
+      },
+      {
+        "name": "Jeremy Schwartz",
+        "title": "Global Chief Investment Officer"
+      },
+      {
+        "name": "Maredith Hannon",
+        "title": "Head of Business Development, Digital Assets"
+      }
+    ],
+    "team_structure": "Dedicated Head of Digital Assets with BD, product, and technology functions. Digital assets is a named business line. CIO involvement signals core investment strategy integration.",
+    "leadership_commitment": "Very strong. Digital assets as core strategic pillar. CEO and CIO visible. NYDFS trust charter obtained. IPO-level narrative includes digital.",
+    "workforce_signals": "~300 employees. Lean organisation with outsourced infrastructure (BNY BaaS). Multi-chain engineering capability."
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [
+    "$1B tokenized AUM milestone (from $770M)",
+    "Stablecoin reserve management (GENIUS Act)",
+    "International expansion to Europe/APAC",
+    "Institutional platform (Connect) growth",
+    "New tokenized fund launches (yield strategies)",
+    "USDW stablecoin adoption"
+  ],
+  "risks": [
+    "Scale vs BlackRock/Fidelity entering tokenized funds",
+    "Profitability of digital assets business line",
+    "Multi-chain complexity and operational risk",
+    "USDW market share vs USDC/USDT",
+    "Regulatory evolution uncertainty",
+    "Small company (300 employees) executing big vision"
+  ],
+  "skills_gaps": [
+    "Multi-chain blockchain engineering",
+    "Stablecoin operations",
+    "Institutional sales (Connect platform)",
+    "Compliance across multiple jurisdictions",
+    "International product management"
+  ],
+  "product_partnership_opportunities": [],
+  "open_questions": [
+    "Competitive threat from BlackRock BUIDL and other large managers entering?",
+    "Path to profitability for digital assets business line?",
+    "International expansion plans (Europe, APAC)?",
+    "Technology risk from multi-chain complexity?",
+    "Stablecoin adoption metrics for USDW?"
+  ],
+  "analyst_judgment": {
+    "strategy_posture": "Strategic leader and all-in digital asset company. Digital is the business, not a side project.",
+    "likely_objectives": "Become the default platform for tokenized fund distribution to both retail and institutional investors. Build stablecoin reserve management ecosystem. Scale to $1B+ tokenized AUM.",
+    "not_prioritizing": "Traditional-only products. Private/permissioned chains. Institutional-only tokenization. Direct crypto trading (beyond BTC/ETH access).",
+    "strongest_areas": "Product breadth (15 tokenized funds), regulatory positioning (NYDFS charter, SEC registration, GENIUS Act compliance), multi-chain distribution, growth trajectory ($30M to $770M in one year).",
+    "weakest_areas": "Scale relative to BlackRock/Fidelity. Profitability uncertain. Multi-chain complexity. Stablecoin (USDW) market share vs USDC/USDT.",
+    "build_vs_buy_hypothesis": "Primarily build with strategic infrastructure partnerships. Proprietary platforms (Prime, Connect). BNY for banking. Stellar/Ethereum for chains.",
+    "watchlist_12_months": [
+      "$1B AUM milestone",
+      "International expansion",
+      "USDW adoption and circulation",
+      "New fund launches",
+      "Competitive response from larger managers",
+      "Revenue and profitability metrics"
+    ]
+  },
+  "evidence": [
+    {
+      "claim": "WisdomTree grew tokenized fund AUM from $30M to $770M in 2025",
+      "evidence_type": "fact",
+      "source_title": "Markets Media",
+      "source_url": "https://www.marketsmedia.com/wisdomtree-has-breakout-year-in-tokenized-funds/",
+      "source_date": "2026-01-15",
+      "source_quality": "high",
+      "confidence": "high"
+    },
+    {
+      "claim": "15 tokenized funds available, largest suite in market",
+      "evidence_type": "fact",
+      "source_title": "WisdomTree IR",
+      "source_url": "https://ir.wisdomtree.com/news-events/press-releases/detail/768/wisdomtree-elevates-suite-of-tokenized-assets-with-launch",
+      "source_date": "2025-12-04",
+      "source_quality": "primary",
+      "confidence": "high"
+    },
+    {
+      "claim": "BNY appointed as BaaS provider for WisdomTree Prime",
+      "evidence_type": "fact",
+      "source_title": "BNY",
+      "source_url": "https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/wisdomtree-appoints-bny-banking-service-infrastructure-digital-assets-advancing-access-stablecoins-tokenized-real-world-assets.html",
+      "source_date": "2025-10-28",
+      "source_quality": "primary",
+      "confidence": "high"
+    },
+    {
+      "claim": "WTGXX is GENIUS Act reserve-compliant",
+      "evidence_type": "fact",
+      "source_title": "Markets Media",
+      "source_url": "https://www.marketsmedia.com/wisdomtree-has-breakout-year-in-tokenized-funds/",
+      "source_date": "2026-01-15",
+      "source_quality": "high",
+      "confidence": "high"
+    }
+  ],
+  "last_updated": "2026-03-25",
+  "version": "1.0",
+  "process": {
+    "front_office": "WisdomTree Prime: retail app for tokenized funds, crypto, gold token. WisdomTree Connect: institutional platform for B2B/B2B2C. 15 tokenized funds across MMFs, equities, fixed income, asset allocation. Stablecoin on/off-ramps via USDW conversion service.",
+    "middle_office": "SEC-registered 1940 Act funds. FINRA-distributed. WisdomTree Digital Trust Company chartered by NYDFS. Compliance integrated into platform. GENIUS Act reserve compliance.",
+    "back_office": "Stellar blockchain for primary tokenization. Multi-chain distribution (Ethereum, Arbitrum, Avalanche, Base, Optimism). BNY as BaaS provider (banking functionality, on/off-ramps). Mirror tokenization model with blockchain as secondary record.",
+    "operating_model_maturity": "Production at scale. $770M AUM in tokenized funds (end 2025). Targeting $1B early 2026. 15 funds live. Multiple blockchain integrations.",
+    "regulatory_adaptation": "US-focused. SEC-registered funds. NYDFS trust charter. FINRA distribution. First to achieve GENIUS Act reserve compliance for tokenized MMF. State money transmitter licenses.",
+    "open_questions": [
+      "Operating model scalability limits",
+      "Cross-border regulatory expansion plans",
+      "Risk management for multi-chain operations"
+    ]
+  },
+  "product": {
+    "products": [
+      {
+        "name": "WisdomTree Prime",
+        "type": "Retail digital wallet app",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Retail",
+        "description": "Blockchain-native digital wallet for investing, saving, spending with digital assets. Tokenized funds, crypto (BTC, ETH), gold token. Stellar-powered wallets. BNY BaaS infrastructure."
+      },
+      {
+        "name": "WisdomTree Connect",
+        "type": "Institutional platform",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Institutional / B2B",
+        "description": "B2B and B2B2C platform. 13+ tokenized funds across Ethereum, Arbitrum, Avalanche, Base, Optimism. API-delivered. Fiat and USDC on-ramp."
+      },
+      {
+        "name": "WTGXX (Government Money Market Digital Fund)",
+        "type": "Tokenized MMF",
+        "maturity": "scaled",
+        "geography": "USA",
+        "segment": "Institutional / Retail",
+        "description": "~$740M of $770M total tokenized AUM. GENIUS Act reserve-compliant. Used by stablecoin issuers for reserve management. Launched late 2023."
+      },
+      {
+        "name": "USDW Stablecoin",
+        "type": "Stablecoin",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Platform-wide",
+        "description": "USD-backed stablecoin issued by WisdomTree Digital Trust Company (NYDFS chartered). Transaction layer for WisdomTree Prime. Dividend distributions available in USDW."
+      },
+      {
+        "name": "EPXC (Equity Premium Income Digital Fund)",
+        "type": "Tokenized equity strategy fund",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Institutional / Retail",
+        "description": "15th tokenized fund. Put-writing strategy on S&P 500. Yield-generation focus. December 2025 launch."
+      },
+      {
+        "name": "WisdomTree Gold Token",
+        "type": "Tokenized gold",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Retail / Institutional",
+        "description": "On-chain gold token backed 1:1 by physical gold. Available via WisdomTree Prime."
+      }
+    ],
+    "revenue_intent": "Fund management fees, platform fees, stablecoin reserve yield, AUM growth, new client acquisition (crypto-native and institutional).",
+    "buy_vs_build": "Primarily build with strategic partnerships. WisdomTree Prime and Connect are proprietary. Stellar and Ethereum for chain infrastructure. BNY for banking services. NYDFS charter obtained."
+  },
+  "major_initiatives": [
+    {
+      "name": "Breakout year: $30M to $770M tokenized AUM",
+      "date": "2025",
+      "status": "completed"
+    },
+    {
+      "name": "BNY BaaS partnership announced",
+      "date": "October 2025",
+      "status": "launched"
+    },
+    {
+      "name": "EPXC fund launch (15th tokenized fund)",
+      "date": "December 2025",
+      "status": "launched"
+    },
+    {
+      "name": "USDW stablecoin launch/rebrand",
+      "date": "2025",
+      "status": "launched"
+    },
+    {
+      "name": "WisdomTree Connect multi-chain expansion",
+      "date": "2025",
+      "status": "launched"
+    },
+    {
+      "name": "NYDFS trust company charter",
+      "date": "2024",
+      "status": "completed"
+    },
+    {
+      "name": "Targeting $1B tokenized AUM",
+      "date": "Early 2026",
+      "status": "active"
+    }
+  ],
+  "ecosystem_partners": [
+    "BNY",
+    "Stellar",
+    "Ethereum Foundation (indirect)",
+    "Arbitrum",
+    "Avalanche",
+    "Coinbase (Base)",
+    "Optimism"
+  ],
+  "chain_or_platform_signals": [
+    "Stellar",
+    "Ethereum",
+    "Arbitrum",
+    "Avalanche",
+    "Base",
+    "Optimism"
+  ],
+  "competitive_position": "Market leader in tokenized funds by count (15). First mover for US retail tokenized fund access. Differentiated by multi-chain, SEC-registered, GENIUS Act compliant. Small vs BlackRock/Fidelity but moving fastest."
+}

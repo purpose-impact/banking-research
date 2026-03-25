@@ -1,0 +1,310 @@
+{
+  "company_name": "BNY Mellon",
+  "company_type": "Custodian / Asset Servicer",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "financials": {
+    "revenue": "$5.0B quarterly (Q2 2025, +9% YoY)",
+    "profit": "$1.93 EPS Q2 2025 (+27% YoY)",
+    "employees": "~50,000",
+    "key_metric": "$55.8T AUC/A, $2.1T AUM"
+  },
+  "overall_strategy_summary": "BNY is executing a platform-centric transformation under CEO Robin Vince. The firm has reorganized around a platforms operating model (50%+ workforce, full integration by 2026), delivering 500bps operating leverage improvement. Key strategic priorities: platform transformation, AI integration (Eliza AI platform, AI Hub), digital assets (first G-SIB custody, tokenized deposits, GS DAP MMF tokenization), and outsourcing/vendor consolidation positioning. Archer acquisition ($1.2B, 2024) bolstered capabilities. Data Vault cloud platform empowers client analytics. Record sales in H1 2025 with $1T+ new AUC/A wins.",
+  "strategy_intensity_score": 5,
+  "business_maturity_score": 5,
+  "technology_maturity_score": 5,
+  "slug": "bny-mellon",
+  "business_segments": [
+    {
+      "name": "Securities Services",
+      "description": "Custody, fund accounting, transfer agency, depositary, securities lending, collateral management. $55.8T AUC/A. Serves 90%+ of Fortune 100 and top 100 banks globally.",
+      "priority": "core",
+      "revenue": "Fee revenue +7% YoY"
+    },
+    {
+      "name": "Market & Wealth Services",
+      "description": "Clearance and collateral management, treasury services, pershing (broker-dealer clearing), wealth management. LiquidityDirect platform.",
+      "priority": "core",
+      "revenue": "Strong NII growth +17% YoY"
+    },
+    {
+      "name": "Investment & Wealth Management",
+      "description": "BNY Investments (multiple boutiques), Dreyfus liquidity. $2.1T AUM. Wealth Management for HNW and UHNW clients.",
+      "priority": "growth",
+      "revenue": "$2.1T AUM"
+    },
+    {
+      "name": "Digital Assets",
+      "description": "First G-SIB custody. Digital Asset Platform. Tokenized deposits. GS DAP MMF tokenization. BaaS for WisdomTree. BlackRock BUIDL partnership.",
+      "priority": "growth",
+      "revenue": "Emerging"
+    }
+  ],
+  "technology_strategy": {
+    "ai_and_genai": "Eliza AI platform launched. AI Hub created. Machine learning for fund accounting, data validation, risk assessment. AI-driven analytics for client insights. Exploring GenAI across operations.",
+    "cloud": "Data Vault cloud platform for client analytics. Cloud-based data sharing and integration. Modernising infrastructure as part of platform transformation.",
+    "data_and_analytics": "Data Vault empowers clients to consolidate and analyse data. Fund accounting data broadcast to Ethereum (Digital Asset Data Insights). Real-time data sharing via cloud platforms.",
+    "digital_assets": "First G-SIB to offer regulated digital asset custody. Digital Asset Platform (custody + fund services + data + deposits + BaaS). Tokenized deposits on private permissioned blockchain. GS DAP MMF tokenization. BlackRock BUIDL support. WisdomTree BaaS. OpenEden custody.",
+    "platforms": "Platform operating model (50%+ workforce). Unified commercial model with record sales. LiquidityDirect for liquidity management. Wove platform (new). Buy-side trading enhancements."
+  },
+  "operating_model": {
+    "transformation": "Platform-centric transformation. 50%+ workforce on platforms model (full by 2026). 500bps operating leverage improvement. 'Project Catalyst' efficiency programme. 37% pre-tax margin, 28% ROTCE (Q2 2025). Unified commercial model delivering record sales.",
+    "outsourcing_signals": "BNY itself is a major outsource provider for asset managers. Archer acquisition ($1.2B) for capabilities. Digital R&D Hub in Dublin (€8M initial investment). Accelerator Programme for fintechs.",
+    "vendor_ecosystem": "Goldman Sachs (GS DAP/DAML), Digital Asset (Canton Network technology), Snowflake (likely for data), cloud infrastructure providers.",
+    "key_metrics": "$55.8T AUC/A. $2.1T AUM. Q2 2025: $5.0B revenue (+9% YoY), $1.93 EPS (+27% YoY). 37% pre-tax margin. 28% ROTCE. $1T+ new AUC/A wins. Fee revenue +7% YoY. NII +17% YoY."
+  },
+  "people": {
+    "key_leaders": [
+      {
+        "name": "Robin Vince",
+        "title": "CEO"
+      },
+      {
+        "name": "Caroline Butler",
+        "title": "Global Head of Digital Assets"
+      },
+      {
+        "name": "Carolyn Weinberg",
+        "title": "Chief Product and Innovation Officer"
+      },
+      {
+        "name": "Laide Majiyagbe",
+        "title": "Global Head of Liquidity, Financing and Collateral"
+      },
+      {
+        "name": "Jennifer Barker",
+        "title": "Global Head of Payments & Trade and Depositary Receipts"
+      }
+    ],
+    "team_structure": "Platform operating model (50%+ workforce, full integration by 2026). Enterprise Digital Assets Unit (since 2021). AI Hub and Eliza AI platform. Product and Innovation organisation. Unified commercial model.",
+    "leadership_commitment": "Very strong. CEO-led platform transformation. 500bps operating leverage improvement. Record sales. Congressional testimony on digital assets.",
+    "workforce_signals": "~50,000 employees. Platforms model reshaping organisation. Archer acquisition ($1.2B) added capabilities. 'Project Catalyst' efficiency programme."
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [
+    "Platform model deepening — converting remaining 50% of workforce",
+    "Digital asset infrastructure monetisation (custody, tokenization, BaaS)",
+    "AI-driven fund accounting and data analytics scaling",
+    "Wealth management growth for HNW/UHNW",
+    "Alternative investments servicing (private markets boom)",
+    "Outsourcing/vendor consolidation trend benefits BNY's scale",
+    "International expansion of digital asset products"
+  ],
+  "risks": [
+    "Platform transformation execution — converting remaining workforce",
+    "Competitive pressure from State Street Alpha, JPMorgan",
+    "Digital asset custody — regulatory evolution and competition",
+    "NII sensitivity to interest rate movements",
+    "Wealth management market share vs dedicated wealth managers",
+    "Technology vendor dependency (GS DAP, Digital Asset)"
+  ],
+  "skills_gaps": [
+    "AI/ML for fund operations",
+    "Blockchain engineering",
+    "Cloud-native application development",
+    "Digital asset product management",
+    "Wealth management advisory technology",
+    "Data engineering at scale"
+  ],
+  "product_partnership_opportunities": [
+    "AI-powered fund accounting and NAV calculation",
+    "Digital asset custody technology",
+    "Alternative investment servicing platforms",
+    "Data analytics and reporting solutions",
+    "Regulatory reporting automation",
+    "Client onboarding and KYC solutions"
+  ],
+  "open_questions": [
+    "Revenue contribution from digital assets to date?",
+    "International expansion timeline for digital asset products?",
+    "Stablecoin issuance plans vs infrastructure-only approach?",
+    "What is BNY's multi-chain strategy beyond Ethereum?",
+    "Competitive positioning vs State Street and other custodians?"
+  ],
+  "analyst_judgment": {
+    "strategy_posture": "Strategic leader. Treating digital assets as core to future of custodial and asset servicing business.",
+    "likely_objectives": "Become the default institutional infrastructure layer for tokenized assets globally. Connect traditional and digital finance via custody, fund services, deposits, and data.",
+    "not_prioritizing": "Direct retail crypto exposure, proprietary trading, speculative DeFi positions.",
+    "strongest_areas": "Scale and trust ($57.8T AUC/A), regulatory positioning (first G-SIB custody), ecosystem partnerships (BlackRock, Goldman, WisdomTree), comprehensive platform.",
+    "weakest_areas": "International reach for digital products still developing. Technology stack details less transparent. Dependent on partner technology for some capabilities (GS DAP).",
+    "build_vs_buy_hypothesis": "Hybrid. Proprietary platform for custody and deposits. Partnerships for tokenization technology (Goldman Sachs/DAML) and client platforms (WisdomTree).",
+    "watchlist_12_months": [
+      "Tokenized deposit scaling and use case expansion",
+      "Multi-chain strategy evolution",
+      "Stablecoin positioning under GENIUS Act",
+      "International expansion of digital products",
+      "New custody asset support"
+    ]
+  },
+  "evidence": [
+    {
+      "claim": "BNY launched Digital Asset Data Insights with BlackRock as first client",
+      "evidence_type": "fact",
+      "source_title": "BNY Press Release",
+      "source_url": "https://www.bny.com/corporate/global/en/about-us/newsroom/press-release/bny-expands-digital-asset-platform-with-launch-of-innovative-on-chain-offering.html",
+      "source_date": "2025-04-03",
+      "source_quality": "primary",
+      "confidence": "high"
+    },
+    {
+      "claim": "BNY and Goldman Sachs launched tokenized MMF solution with multiple fund managers",
+      "evidence_type": "fact",
+      "source_title": "BNY Press Release",
+      "source_url": "https://www.bny.com/corporate/global/en/about-us/newsroom/company-news/bny-and-goldman-sachs-launch-tokenized-money-market-funds-solution.html",
+      "source_date": "2025-07-23",
+      "source_quality": "primary",
+      "confidence": "high"
+    },
+    {
+      "claim": "BNY launched tokenized deposits for institutional clients",
+      "evidence_type": "fact",
+      "source_title": "BNY Press Release",
+      "source_url": "https://www.bny.com/corporate/global/en/about-us/newsroom/company-news/bny-extends-digital-cash-capabilities-for-institutional-clients.html",
+      "source_date": "2026-01-09",
+      "source_quality": "primary",
+      "confidence": "high"
+    },
+    {
+      "claim": "First G-SIB to offer regulated digital asset custody",
+      "evidence_type": "fact",
+      "source_title": "BNY Digital Assets page",
+      "source_url": "https://www.bny.com/corporate/global/en/solutions/platforms/digital-assets.html",
+      "source_date": "2025",
+      "source_quality": "primary",
+      "confidence": "high"
+    },
+    {
+      "claim": "Caroline Butler testified before House Financial Services Committee on stablecoins",
+      "evidence_type": "fact",
+      "source_title": "Fortune",
+      "source_url": "https://fortune.com/crypto/2025/04/03/bank-new-york-blackrock-crypto-bitcoin-custody-blockchain-launch/",
+      "source_date": "2025-04-03",
+      "source_quality": "high",
+      "confidence": "high"
+    }
+  ],
+  "last_updated": "2026-03-25",
+  "version": "1.0",
+  "process": {
+    "front_office": "Digital Asset Platform provides single interface for custody, fund accounting, data insights. LiquidityDirect platform integrates tokenized MMF access. BaaS provider for WisdomTree Prime retail platform.",
+    "middle_office": "Compliance and risk frameworks apply same standards to digital assets as traditional assets. Bankruptcy stay protection. Established audit trails. Congressional testimony on regulatory alignment.",
+    "back_office": "Private permissioned blockchain for tokenized deposits. On-chain data broadcasting to Ethereum for fund accounting (NAV data). Integration between LiquidityDirect, Digital Asset Platform, and GS DAP. Traditional systems maintain parallel records for regulatory reporting.",
+    "operating_model_maturity": "Semi-automated to industrialised. Production systems for custody, fund accounting, and tokenized deposits.",
+    "regulatory_adaptation": "US-focused. SEC exemption for crypto custody (2024). SAB 121 rescission benefit. Active engagement with OCC and Congress. GENIUS Act positioning.",
+    "open_questions": [
+      "Detailed operating model for tokenized deposit flows",
+      "Cross-border regulatory approach",
+      "Internal audit framework for blockchain operations"
+    ]
+  },
+  "product": {
+    "products": [
+      {
+        "name": "Digital Asset Custody Platform",
+        "type": "Custody",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Institutional",
+        "description": "First G-SIB to offer regulated digital asset custody. Supports Bitcoin, Ethereum, and tokenized assets. Single interface for traditional and digital."
+      },
+      {
+        "name": "Digital Asset Data Insights",
+        "type": "Data / Fund accounting",
+        "maturity": "launched",
+        "geography": "USA / Global",
+        "segment": "Institutional",
+        "description": "Broadcasts fund accounting data (NAV) to Ethereum blockchain. First client: BlackRock BUIDL. Smart contract-enabled automated data consumption."
+      },
+      {
+        "name": "Tokenized Deposits",
+        "type": "Digital money",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Institutional",
+        "description": "On-chain mirrored representation of client deposit balances. Private permissioned blockchain. Focus on collateral and margin workflows."
+      },
+      {
+        "name": "LiquidityDirect + GS DAP MMF Tokenization",
+        "type": "Tokenized funds platform",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Institutional",
+        "description": "Joint initiative with Goldman Sachs. Mirrored record tokenization of MMF shares. Participants include BlackRock, Fidelity, Federated Hermes."
+      },
+      {
+        "name": "Banking-as-a-Service for Digital Assets",
+        "type": "Infrastructure",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Retail / Institutional",
+        "description": "BaaS infrastructure for WisdomTree Prime. First retail digital assets BaaS client. Stablecoin on/off-ramp support."
+      }
+    ],
+    "revenue_intent": "Infrastructure fees, custody fees, fund servicing fees, deposit growth from digital asset ecosystem, platform licensing.",
+    "buy_vs_build": "Hybrid. Proprietary Digital Asset Platform and custody infrastructure. Partnership with Goldman Sachs (GS DAP built by Digital Asset / DAML). Leverages existing LiquidityDirect platform."
+  },
+  "major_initiatives": [
+    {
+      "name": "Digital Asset Custody Platform launch",
+      "date": "2022",
+      "status": "launched"
+    },
+    {
+      "name": "Enterprise Digital Assets Unit formation",
+      "date": "2021",
+      "status": "active"
+    },
+    {
+      "name": "Digital Asset Data Insights launch (BlackRock BUIDL)",
+      "date": "April 2025",
+      "status": "launched"
+    },
+    {
+      "name": "Goldman Sachs MMF tokenization collaboration",
+      "date": "July 2025",
+      "status": "launched"
+    },
+    {
+      "name": "WisdomTree BaaS partnership",
+      "date": "October 2025",
+      "status": "launched"
+    },
+    {
+      "name": "Tokenized deposits launch",
+      "date": "January 2026",
+      "status": "launched"
+    },
+    {
+      "name": "OpenEden custody appointment",
+      "date": "August 2025",
+      "status": "active"
+    },
+    {
+      "name": "Caroline Butler Congressional testimony on stablecoins",
+      "date": "March 2025",
+      "status": "completed"
+    }
+  ],
+  "ecosystem_partners": [
+    "BlackRock",
+    "Goldman Sachs",
+    "WisdomTree",
+    "OpenEden",
+    "Anchorage Digital",
+    "Federated Hermes",
+    "Fidelity Investments",
+    "Digital Asset (DAML)"
+  ],
+  "chain_or_platform_signals": [
+    "Private permissioned blockchain (BNY)",
+    "Ethereum (public, for data)",
+    "GS DAP / DAML"
+  ],
+  "recent_ma": [
+    "Archer acquisition ($1.2B, late 2024) — digital asset and risk analytics capabilities"
+  ],
+  "competitive_position": "World's largest custodian ($55.8T AUC/A). Serving 90%+ Fortune 100. First G-SIB digital asset custody. Competing with State Street, JPMorgan, Citi, Northern Trust in custody/servicing."
+}

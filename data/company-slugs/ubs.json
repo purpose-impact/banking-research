@@ -1,0 +1,220 @@
+{
+  "company_name": "UBS",
+  "company_type": "Global Wealth Manager / Universal Bank",
+  "headquarters": "Zurich, Switzerland",
+  "key_regions": [
+    "Switzerland",
+    "Global",
+    "Singapore",
+    "Hong Kong"
+  ],
+  "financials": {
+    "revenue": "~$46B annual",
+    "profit": "53% profit increase FY2025",
+    "employees": "~115,000",
+    "key_metric": "$5.7T AUM. World's largest wealth manager."
+  },
+  "overall_strategy_summary": "UBS is the world's largest wealth manager ($5.7T AUM) executing post-Credit Suisse integration while building digital asset capabilities. CEO Ermotti describes firm as 'fast follower' in tokenization with 3-5 year rollout. Key digital: UBS Tokenize platform (bonds, funds, structured products), uMINT tokenized MMF on Ethereum, key4 gold (blockchain), Chainlink live transaction (Nov 2025). Broader: wealth management dominance, investment banking, Credit Suisse integration, Swiss banking leadership. Fnality Payment System participant.",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 5,
+  "technology_maturity_score": 4,
+  "slug": "ubs",
+  "business_segments": [
+    {
+      "name": "Global Wealth Management",
+      "description": "$5.7T AUM. World's largest wealth manager. UHNW, HNW, affluent clients globally. 40+ countries. Investing, lending, trust.",
+      "priority": "core"
+    },
+    {
+      "name": "Personal & Corporate Banking",
+      "description": "Swiss universal bank. Retail, corporate, institutional banking in Switzerland. Market leader.",
+      "priority": "core"
+    },
+    {
+      "name": "Asset Management",
+      "description": "Institutional asset management. Index, active, alternatives. Tokenized funds (uMINT on Ethereum).",
+      "priority": "core"
+    },
+    {
+      "name": "Investment Bank",
+      "description": "Advisory, capital markets, equities, FICC. Global franchise. UBS Tokenize platform.",
+      "priority": "core"
+    }
+  ],
+  "technology_strategy": {
+    "ai_and_genai": "AI for wealth management personalisation, risk management, trading. GenAI exploration for advisor productivity.",
+    "cloud": "Cloud transformation ongoing alongside Credit Suisse integration. Complex legacy estate.",
+    "digital_assets": "UBS Tokenize (full-service, bonds/funds/structured products). uMINT tokenized MMF on Ethereum. key4 gold on UBS Gold Network. Chainlink live transaction (Nov 2025). ZKsync L2 PoC. CEO 'fast follower' with 3-5 year plan. Exploring retail crypto access. Fnality Payment System participant.",
+    "platforms": "Wealth management advisory platforms. Digital banking (Switzerland). Trading platforms."
+  },
+  "operating_model": {
+    "transformation": "Credit Suisse integration (massive multi-year programme). 115K employees post-merger. Cost synergies being captured. Infrastructure consolidation. 53% profit increase FY2025 despite integration costs.",
+    "vendor_ecosystem": "Chainlink, ZKsync, Fnality, MAS (Project Guardian). Credit Suisse technology integration partners."
+  },
+  "people": {
+    "key_leaders": [
+      {
+        "name": "Sergio Ermotti",
+        "title": "CEO"
+      },
+      {
+        "name": "Christoph Puhr",
+        "title": "Digital Assets Lead, UBS Group"
+      }
+    ],
+    "team_structure": "Digital Assets Lead at group level. UBS Tokenize as platform within Investment Bank. Asset Management for tokenized funds. Credit Suisse integration consuming significant leadership bandwidth.",
+    "leadership_commitment": "Moderate-high. CEO calls firm 'fast follower' with 3-5 year timeline. Infrastructure-first approach. 53% profit increase FY2025 provides investment capacity.",
+    "workforce_signals": "~115,000 employees (post-Credit Suisse integration). Significant integration effort ongoing."
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [
+    "Wealth management scale ($5.7T, post-CS integration)",
+    "UBS Tokenize expansion",
+    "Retail crypto access (CEO confirmed)",
+    "Credit Suisse synergies realisation",
+    "Swiss market dominance",
+    "APAC wealth growth"
+  ],
+  "risks": [
+    "Credit Suisse integration execution (multi-year)",
+    "Fast follower may miss market window",
+    "Wealth management competition (Morgan Stanley, JPMorgan)",
+    "Swiss regulatory environment complexity",
+    "Legacy technology from CS integration"
+  ],
+  "skills_gaps": [
+    "Integration engineering (CS systems)",
+    "Digital asset product management",
+    "Wealth technology platform engineers",
+    "Blockchain/L2 engineering",
+    "Cross-border compliance technology"
+  ],
+  "product_partnership_opportunities": [],
+  "open_questions": [
+    "Retail crypto access timeline?",
+    "Geographic expansion plans for UBS Tokenize?",
+    "Revenue from digital assets?",
+    "Tokenized deposit product details?"
+  ],
+  "analyst_judgment": {
+    "strategy_posture": "Deliberate fast follower. Building infrastructure methodically. CEO-endorsed but measured.",
+    "likely_objectives": "Build robust digital asset infrastructure for wealth management. Explore tokenized deposits for corporates. Eventually offer retail crypto.",
+    "not_prioritizing": "First-mover positioning, aggressive public chain deployment, stablecoin issuance.",
+    "strongest_areas": "Wealth management scale ($5.7T AUM), UBS Tokenize platform, Swiss regulatory environment, Ethereum and L2 expertise.",
+    "weakest_areas": "Self-declared fast follower. Slower than peers. Limited product scale so far.",
+    "build_vs_buy_hypothesis": "Hybrid. UBS Tokenize proprietary. Technology partnerships (Chainlink, ZKsync) for capabilities.",
+    "watchlist_12_months": [
+      "Retail crypto access launch",
+      "Tokenized deposit product",
+      "UBS Tokenize product expansion",
+      "Geographic expansion"
+    ]
+  },
+  "evidence": [
+    {
+      "claim": "CEO Ermotti describes UBS as fast follower with 3-5 year rollout",
+      "evidence_type": "fact",
+      "source_title": "The Block",
+      "source_url": "https://www.theblock.co/post/388473/ubs-ceo-crypto-access-tokenization-strong-fy25-results",
+      "source_date": "2026-02-04",
+      "source_quality": "high",
+      "confidence": "high"
+    },
+    {
+      "claim": "UBS executed live tokenized fund transaction on Chainlink in November 2025",
+      "evidence_type": "fact",
+      "source_title": "Banking Exchange",
+      "source_url": "https://www.bankingexchange.com/news-feed/item/10539-ubs-plots-gradual-move-into-crypto-trading",
+      "source_date": "2026-02-09",
+      "source_quality": "high",
+      "confidence": "high"
+    }
+  ],
+  "last_updated": "2026-03-25",
+  "version": "1.0",
+  "process": {
+    "front_office": "UBS Tokenize for origination and distribution. Tokenized bonds, funds, structured products. Exploring retail crypto access.",
+    "middle_office": "Regulated custodians for tokenized asset custody. Compliance-first approach.",
+    "back_office": "UBS Tokenize platform. UBS Gold Network (permissioned blockchain). ZKsync (Ethereum L2) PoC. Chainlink integration for fund operations.",
+    "operating_model_maturity": "Pilot to early production. Live tokenized products but limited scale. Fast follower."
+  },
+  "product": {
+    "products": [
+      {
+        "name": "UBS Tokenize",
+        "type": "Tokenization platform",
+        "maturity": "launched",
+        "geography": "Global",
+        "segment": "Institutional",
+        "description": "Full-service platform for bonds, funds, structured products. Public and private blockchains."
+      },
+      {
+        "name": "uMINT (USD Money Market Investment Fund Token)",
+        "type": "Tokenized MMF",
+        "maturity": "launched",
+        "geography": "Singapore",
+        "segment": "Institutional",
+        "description": "First UBS tokenized fund on Ethereum. Launched November 2024."
+      },
+      {
+        "name": "UBS key4 gold",
+        "type": "Tokenized gold",
+        "maturity": "launched",
+        "geography": "Switzerland",
+        "segment": "Retail / Wealth",
+        "description": "Fractional gold investment on UBS Gold Network (permissioned blockchain). Exploring geographic expansion via ZKsync L2."
+      },
+      {
+        "name": "Retail crypto access",
+        "type": "Concept",
+        "maturity": "concept",
+        "geography": "Global",
+        "segment": "Wealth / Retail",
+        "description": "CEO confirmed building infrastructure for individual client crypto access. 3-5 year rollout."
+      }
+    ],
+    "revenue_intent": "Wealth management differentiation, fee generation from tokenized products, operational efficiency.",
+    "buy_vs_build": "Hybrid. UBS Tokenize proprietary. Chainlink and ZKsync for capabilities. MAS Project Guardian participant."
+  },
+  "major_initiatives": [
+    {
+      "name": "$50M tokenized note issuance",
+      "date": "2022",
+      "status": "completed"
+    },
+    {
+      "name": "uMINT tokenized MMF launch on Ethereum",
+      "date": "November 2024",
+      "status": "launched"
+    },
+    {
+      "name": "Live tokenized fund transaction on Chainlink",
+      "date": "November 2025",
+      "status": "completed"
+    },
+    {
+      "name": "ZKsync PoC for key4 gold geographic expansion",
+      "date": "February 2025",
+      "status": "completed"
+    },
+    {
+      "name": "CEO confirms retail crypto access plans",
+      "date": "February 2026",
+      "status": "planned"
+    }
+  ],
+  "ecosystem_partners": [
+    "Chainlink",
+    "ZKsync",
+    "Fnality",
+    "MAS (Project Guardian)"
+  ],
+  "chain_or_platform_signals": [
+    "UBS Tokenize",
+    "Ethereum",
+    "ZKsync",
+    "UBS Gold Network",
+    "Chainlink"
+  ],
+  "competitive_position": "World's largest wealth manager ($5.7T). Swiss banking leader. Credit Suisse integration provides scale but complexity. Fast follower in digital assets. Competing with Morgan Stanley (wealth), JPMorgan (IB), Pictet/Julius Baer (Swiss wealth)."
+}

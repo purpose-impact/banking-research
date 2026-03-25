@@ -1,0 +1,190 @@
+{
+  "company_name": "Barclays",
+  "company_type": "Universal Bank",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "USA",
+    "Europe"
+  ],
+  "financials": {
+    "revenue": "~£26B annual",
+    "profit": "~£7B annual",
+    "employees": "~90,000",
+    "key_metric": "UK retail + US investment banking"
+  },
+  "overall_strategy_summary": "Barclays operates across UK retail banking, US/UK investment banking, and wealth management. Digital asset activity: UK Finance GBTD pilot, Ubyx stablecoin settlement investment, 10-bank stablecoin consortium participation, Ryan Hayward as Head of Digital Assets. Previously restricted retail crypto via credit cards. Broader strategy: investment banking growth (US focused), UK retail transformation, cost efficiency, and strategic review completion. Technology investment in trading platforms, digital banking, and risk management.",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3,
+  "slug": "barclays",
+  "business_segments": [
+    {
+      "name": "Barclays UK",
+      "description": "Retail banking, mortgages, credit cards, SME banking. ~24M customers. Digital banking channels.",
+      "priority": "core"
+    },
+    {
+      "name": "Corporate & Investment Bank",
+      "description": "US and UK focused. Trading (equities, FICC), advisory, underwriting. Growing US presence.",
+      "priority": "growth"
+    },
+    {
+      "name": "US Consumer Bank",
+      "description": "Credit cards (partnerships). Auto lending. Online deposits.",
+      "priority": "core"
+    },
+    {
+      "name": "Wealth Management",
+      "description": "Private banking and wealth advisory. Growing segment.",
+      "priority": "growth"
+    }
+  ],
+  "technology_strategy": {
+    "ai_and_genai": "AI for fraud detection, credit risk, customer service. Digital banking platforms.",
+    "cloud": "Cloud infrastructure modernisation. Digital banking transformation.",
+    "digital_assets": "UK Finance GBTD pilot participant. Ubyx stablecoin settlement investment. 10-bank stablecoin consortium (2024). Ryan Hayward as Head of Digital Assets. Previously restricted retail crypto purchases.",
+    "platforms": "Mobile banking app. Digital business banking. Trading platforms."
+  },
+  "operating_model": {
+    "transformation": "Strategic review completed. Investment banking growth (US focus). Cost efficiency. Digital banking investment. Branch network optimisation.",
+    "vendor_ecosystem": "UK Finance (consortium), Quant Network (GBTD), Ubyx (stablecoin settlement), EY, Linklaters."
+  },
+  "people": {
+    "key_leaders": [
+      {
+        "name": "C.S. Venkatakrishnan",
+        "title": "CEO"
+      },
+      {
+        "name": "Ryan Hayward",
+        "title": "Head of Digital Assets"
+      }
+    ],
+    "team_structure": "Head of Digital Assets role exists. UK retail + US/UK investment banking structure. Details on digital team limited.",
+    "leadership_commitment": "Moderate. Participating in industry pilots. Ubyx investment signals stablecoin interest.",
+    "workforce_signals": "~90,000 employees. Dual UK/US focus."
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [
+    "UK Finance GBTD pilot outcomes",
+    "Investment banking growth in US",
+    "Wealth management expansion",
+    "Digital banking innovation",
+    "Stablecoin infrastructure (Ubyx investment)"
+  ],
+  "risks": [
+    "UK economic cycle",
+    "Competition from challenger banks",
+    "Investment banking market volatility",
+    "Regulatory scrutiny",
+    "Digital assets strategy less developed than peers"
+  ],
+  "skills_gaps": [
+    "Digital assets engineering",
+    "AI for banking operations",
+    "Wealth technology",
+    "US market specialists",
+    "Stablecoin/blockchain engineering"
+  ],
+  "product_partnership_opportunities": [],
+  "open_questions": [
+    "US digital asset strategy?",
+    "Team size and investment level?",
+    "Crypto services for clients?",
+    "Stablecoin strategy beyond consortium?",
+    "Independent digital asset product roadmap?"
+  ],
+  "analyst_judgment": {
+    "strategy_posture": "Active explorer within UK consortium framework. More cautious than Lloyds or HSBC.",
+    "likely_objectives": "Participate in UK payments modernization. Explore stablecoin infrastructure. Ensure competitive positioning.",
+    "not_prioritizing": "Proprietary platforms, crypto custody, retail crypto access, aggressive public chain deployment.",
+    "strongest_areas": "UK market presence, consortium participation, Ubyx investment for stablecoin infrastructure.",
+    "weakest_areas": "Limited visible independent strategy. More cautious than peers. Restricted retail crypto in past.",
+    "build_vs_buy_hypothesis": "Partner/invest. No visible proprietary build.",
+    "watchlist_12_months": [
+      "GBTD pilot outcomes",
+      "Independent product announcements",
+      "Ubyx development",
+      "Stablecoin strategy evolution"
+    ]
+  },
+  "evidence": [
+    {
+      "claim": "Barclays participating in UK Finance GBTD pilot with Ryan Hayward as Head of Digital Assets",
+      "evidence_type": "fact",
+      "source_title": "UK Finance",
+      "source_url": "https://www.ukfinance.org.uk/news-and-insight/press-release/uk-finance-announces-live-pilot-phase-deliver-tokenised-sterling",
+      "source_date": "2025-09-26",
+      "source_quality": "primary",
+      "confidence": "high"
+    },
+    {
+      "claim": "Barclays invested in Ubyx stablecoin settlement startup",
+      "evidence_type": "fact",
+      "source_title": "The Block",
+      "source_url": "https://www.theblock.co/post/388473/ubs-ceo-crypto-access-tokenization-strong-fy25-results",
+      "source_date": "2026-02-04",
+      "source_quality": "high",
+      "confidence": "medium-high"
+    }
+  ],
+  "last_updated": "2026-03-25",
+  "version": "1.0",
+  "process": {
+    "front_office": "UK Finance GBTD pilot participant. Exploring stablecoin use cases.",
+    "middle_office": "Working within UK Finance collaborative framework.",
+    "back_office": "Quant Network infrastructure for GBTD. Ubyx investment for stablecoin settlement.",
+    "operating_model_maturity": "Pilot stage."
+  },
+  "product": {
+    "products": [
+      {
+        "name": "UK Finance GBTD Pilot",
+        "type": "Tokenized deposits (consortium)",
+        "maturity": "pilot",
+        "geography": "UK",
+        "segment": "Institutional",
+        "description": "Participant in 6-bank tokenized sterling deposit pilot."
+      },
+      {
+        "name": "Ubyx investment",
+        "type": "Strategic investment",
+        "maturity": "concept",
+        "geography": "UK",
+        "segment": "Infrastructure",
+        "description": "Investment in stablecoin settlement startup. Exploring regulated tokenized money."
+      }
+    ],
+    "revenue_intent": "Payments modernization, competitive positioning.",
+    "buy_vs_build": "Partner/invest. Ubyx investment. UK Finance consortium."
+  },
+  "major_initiatives": [
+    {
+      "name": "UK Finance GBTD pilot",
+      "date": "September 2025 - mid 2026",
+      "status": "active"
+    },
+    {
+      "name": "Ubyx stablecoin startup investment",
+      "date": "2026",
+      "status": "active"
+    },
+    {
+      "name": "10-bank stablecoin consortium",
+      "date": "October 2024",
+      "status": "completed"
+    }
+  ],
+  "ecosystem_partners": [
+    "UK Finance",
+    "Quant Network",
+    "Ubyx",
+    "EY",
+    "Linklaters"
+  ],
+  "chain_or_platform_signals": [
+    "Quant Network"
+  ],
+  "competitive_position": "Major UK bank + US investment bank. Dual market positioning. Digital assets behind Lloyds and HSBC in UK. US IB competing with bulge bracket. Wealth growing but smaller than peers."
+}

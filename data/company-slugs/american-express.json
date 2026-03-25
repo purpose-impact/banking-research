@@ -1,0 +1,230 @@
+{
+  "company_name": "American Express",
+  "company_type": "Card Network / Payments",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "financials": {
+    "revenue": "$17.86B Q2 2025 (+9% YoY)",
+    "profit": "$2.89B net income Q2 2025",
+    "employees": "~77,000",
+    "key_metric": "Closed-loop network. Premium consumer and SME focus."
+  },
+  "overall_strategy_summary": "American Express is a premium-focused payments company with a closed-loop network model. Digital asset strategy is cautious and exploratory (Amex Passport NFTs, CEO stablecoin commentary, Coinbase co-branded card). Core strategy focuses on premium card member acquisition (Gen Z/Millennial cohort growth), travel and lifestyle experiences, merchant partnerships, and SME services. Technology focuses on fraud prevention, personalisation, and member experience rather than blockchain infrastructure.",
+  "strategy_intensity_score": 2,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3,
+  "slug": "american-express",
+  "business_segments": [
+    {
+      "name": "US Consumer Services",
+      "description": "Premium credit cards (Platinum, Gold, Green). Membership rewards. Travel services (Centurion Lounges). Consumer lending.",
+      "priority": "core"
+    },
+    {
+      "name": "Commercial Services",
+      "description": "Small business cards and lending. Corporate cards. B2B payments. Expense management.",
+      "priority": "core"
+    },
+    {
+      "name": "International Card Services",
+      "description": "Consumer and commercial card products across international markets. Partnerships with banks globally.",
+      "priority": "growth"
+    },
+    {
+      "name": "Global Merchant & Network Services",
+      "description": "Merchant acquiring. Network fees. Closed-loop network operation. Digital payments acceptance.",
+      "priority": "core"
+    }
+  ],
+  "technology_strategy": {
+    "ai_and_genai": "AI for fraud detection (real-time transaction screening). Personalisation engine for member offers. AI-powered customer service. Predictive analytics for credit risk.",
+    "cloud": "Cloud infrastructure modernisation. API-driven services for merchants and partners.",
+    "digital_assets": "Cautious. Amex Passport (NFT travel stamps via Fireblocks/Ethereum). Coinbase co-branded Amex card (BTC rewards). CEO: stablecoins viable for cross-border but 'won't replace existing rails.' Exploring post-GENIUS Act.",
+    "platforms": "Amex mobile app. Travel booking platform. Merchant payment acceptance. Open Banking APIs."
+  },
+  "operating_model": {
+    "transformation": "Gen Z/Millennial acquisition strategy. Travel and lifestyle experience expansion. Digital-first card application and servicing. Premium brand positioning maintenance.",
+    "vendor_ecosystem": "Fireblocks (Passport wallet infrastructure), Coinbase (co-branded card), Ripple (historical FX payments with Santander)."
+  },
+  "people": {
+    "key_leaders": [
+      {
+        "name": "Steve Squeri",
+        "title": "CEO"
+      },
+      {
+        "name": "Colin Marlowe",
+        "title": "VP, Amex Digital Labs"
+      }
+    ],
+    "team_structure": "Amex Digital Labs for innovation experiments. No dedicated digital assets business unit. Premium brand and experience focus.",
+    "leadership_commitment": "Low-moderate on digital assets. CEO cautious on crypto. Acknowledges stablecoin opportunity post-GENIUS Act.",
+    "workforce_signals": "~77,000 employees. Closed-loop network."
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [
+    "Gen Z/Millennial member acquisition and retention",
+    "Travel and experience economy growth",
+    "B2B payments and expense management",
+    "Stablecoin cross-border payments (post-GENIUS Act)",
+    "Premium digital experiences",
+    "Merchant acceptance expansion"
+  ],
+  "risks": [
+    "Stablecoin disruption to card payment rails",
+    "Visa/Mastercard have more advanced digital asset strategies",
+    "Premium positioning limits mass market growth",
+    "Economic downturn impact on travel spending",
+    "Closed-loop network limits acceptance"
+  ],
+  "skills_gaps": [
+    "Stablecoin and blockchain engineering",
+    "AI for personalisation at scale",
+    "Cross-border payments innovation",
+    "Digital experience design",
+    "Open banking and API development"
+  ],
+  "product_partnership_opportunities": [],
+  "open_questions": [
+    "Any custody or wallet strategy for financial assets?",
+    "Plans for merchant stablecoin acceptance on Amex network?",
+    "Is the Ripple FXIP partnership still active?",
+    "Competitive response plan to Visa and Mastercard digital asset initiatives?",
+    "What is Amex's internal stablecoin/tokenization evaluation status?",
+    "Digital Labs team size and budget?"
+  ],
+  "analyst_judgment": {
+    "strategy_posture": "Cautious observer with selective experiments. Watching regulatory clarity before committing.",
+    "likely_objectives": "Protect premium brand and network. Monitor stablecoin threat to card rails. Experiment at low cost. Wait for GENIUS Act framework.",
+    "not_prioritizing": "Building proprietary blockchain infrastructure, stablecoin issuance, crypto custody, tokenized assets, DeFi.",
+    "strongest_areas": "Brand trust and premium positioning. Closed-loop network control. Coinbase partnership for crypto exposure.",
+    "weakest_areas": "No proprietary digital asset infrastructure. Behind Visa and Mastercard. No stablecoin product. No tokenization capability.",
+    "build_vs_buy_hypothesis": "Partner/wait. All blockchain activity is through third parties (Fireblocks, Coinbase, Ripple). No visible internal build.",
+    "watchlist_12_months": [
+      "Stablecoin acceptance on Amex network",
+      "Cross-border stablecoin product announcement",
+      "Digital Labs expansion signals",
+      "Response to Mastercard and Visa digital asset moves",
+      "Any tokenization or custody announcements"
+    ]
+  },
+  "evidence": [
+    {
+      "claim": "CEO Squeri acknowledged stablecoins as viable alternative to traditional payment rails",
+      "evidence_type": "fact",
+      "source_title": "Payments Dive",
+      "source_url": "https://www.paymentsdive.com/news/amex-stablecoins-alternative-swift-ach-payments/753525/",
+      "source_date": "2025-07-21",
+      "source_quality": "high",
+      "confidence": "high"
+    },
+    {
+      "claim": "Amex Passport uses ERC-721 NFTs on Ethereum via Fireblocks",
+      "evidence_type": "fact",
+      "source_title": "Motley Fool / CoinDesk",
+      "source_url": "https://www.fool.com/investing/2025/09/18/american-express-built-a-blockchain-passport/",
+      "source_date": "2025-09-18",
+      "source_quality": "high",
+      "confidence": "high"
+    },
+    {
+      "claim": "Coinbase launched Amex card with up to 4% BTC cashback",
+      "evidence_type": "fact",
+      "source_title": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2025/10/11/coinbase-s-upcoming-amex-card-with-btc-cashback-everything-we-know-so-far",
+      "source_date": "2025-10-11",
+      "source_quality": "high",
+      "confidence": "high"
+    }
+  ],
+  "last_updated": "2026-03-25",
+  "version": "1.0",
+  "process": {
+    "front_office": "Amex Passport app uses blockchain stamps (ERC-721 NFTs on Ethereum) for travel experiences. Coinbase Amex card offers BTC rewards. Cross-border payments via stablecoins described as opportunity being explored.",
+    "middle_office": "Standard Amex compliance applied. NFTs are non-transferable and non-tradeable. Stablecoin exploration subject to regulatory clarity (GENIUS Act referenced).",
+    "back_office": "Fireblocks Wallet-as-a-Service powers Amex Passport infrastructure. Historical Ripple integration for FXIP cross-border payments. No visible proprietary blockchain infrastructure.",
+    "operating_model_maturity": "Experimental. Passport is consumer engagement play, not financial infrastructure. No visible production digital asset financial products.",
+    "regulatory_adaptation": "Waiting for clarity. CEO explicitly referenced GENIUS Act as trigger for deeper engagement.",
+    "open_questions": [
+      "Is Ripple/FXIP still operational?",
+      "Stablecoin evaluation framework internally",
+      "Plans for merchant stablecoin acceptance"
+    ]
+  },
+  "product": {
+    "products": [
+      {
+        "name": "Amex Passport",
+        "type": "Blockchain-based travel experience (NFTs)",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Retail / Premium cardholders",
+        "description": "Blockchain-based digital stamps on Ethereum. NFTs with no monetary value. Travel memory collection. Powered by Fireblocks."
+      },
+      {
+        "name": "Coinbase Amex Card",
+        "type": "Co-branded crypto rewards card",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Retail / Crypto-interested",
+        "description": "Coinbase credit card on Amex network offering up to 4% BTC cashback. Coinbase-issued, Amex network."
+      },
+      {
+        "name": "FXIP Cross-border Payments (Ripple)",
+        "type": "Blockchain payments",
+        "maturity": "launched",
+        "geography": "UK (historical)",
+        "segment": "Corporate",
+        "description": "Cross-border B2B payments using Ripple's network with Santander UK. Historical initiative - current status unclear."
+      },
+      {
+        "name": "Stablecoin Cross-border Payments",
+        "type": "Concept / exploration",
+        "maturity": "concept",
+        "geography": "Global",
+        "segment": "Corporate",
+        "description": "CEO acknowledged stablecoins as viable for cross-border payments. No product announced. Under evaluation."
+      }
+    ],
+    "revenue_intent": "Primarily defensive and engagement-driven. Passport is brand experience. Coinbase card generates interchange. Cross-border stablecoin is efficiency opportunity.",
+    "buy_vs_build": "Buy/partner. Fireblocks for wallet infrastructure. Coinbase for crypto card. Ripple for cross-border (historical)."
+  },
+  "major_initiatives": [
+    {
+      "name": "Amex Passport launch (blockchain travel stamps)",
+      "date": "September 2025",
+      "status": "launched"
+    },
+    {
+      "name": "Coinbase Amex co-branded card",
+      "date": "October 2025",
+      "status": "launched"
+    },
+    {
+      "name": "Ripple FXIP cross-border payments",
+      "date": "2017 (historical)",
+      "status": "unknown"
+    },
+    {
+      "name": "Hyperledger Project membership",
+      "date": "2017 (historical)",
+      "status": "unknown"
+    }
+  ],
+  "ecosystem_partners": [
+    "Coinbase",
+    "Fireblocks",
+    "Ripple (historical)",
+    "Hyperledger (historical)",
+    "Santander (historical)"
+  ],
+  "chain_or_platform_signals": [
+    "Ethereum (NFTs only)",
+    "Fireblocks",
+    "Ripple (historical)"
+  ],
+  "competitive_position": "Premium card network. Closed-loop advantage for data and control. Behind Visa/Mastercard on digital asset infrastructure. Strong brand loyalty. Gen Z/Millennial growth trajectory. Competing with Visa (network), Chase (cards), Capital One (cards)."
+}
