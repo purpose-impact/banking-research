@@ -1,0 +1,37 @@
+{
+  "company_name": "Fiserv",
+  "company_type": "Payments / FinTech Infrastructure",
+  "headquarters": "Milwaukee, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "financials": {
+    "revenue": "~$20B annual",
+    "profit": "$92.3B market cap",
+    "employees": "~40,000",
+    "key_metric": "10K FI clients, 6M merchant locations, 90B transactions/year"
+  },
+  "overall_strategy_summary": "Fiserv is a payments and banking technology infrastructure giant serving banks, credit unions, and merchants. The firm processes 90 billion transactions annually. Key strategic moves: FIUSD stablecoin launch (Solana, with Paxos/Circle/PayPal/Mastercard), INDX real-time settlement platform, Finxact cloud-native core banking, Clover POS expansion (entering Japan with SMCC), StoneCastle acquisition for deposit network. CEO-level embrace of stablecoins and digital assets as next-generation payments infrastructure. Strong embedded finance positioning.",
+  "strategy_intensity_score": 4,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 4,
+  "slug": "fiserv",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [],
+    "workforce_signals": ""
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [],
+  "analyst_judgment": {},
+  "evidence": [],
+  "last_updated": "2026-03-25",
+  "version": "1.0"
+}

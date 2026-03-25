@@ -1,0 +1,37 @@
+{
+  "company_name": "American Express",
+  "company_type": "Card Network / Payments",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "financials": {
+    "revenue": "$17.86B Q2 2025 (+9% YoY)",
+    "profit": "$2.89B net income Q2 2025",
+    "employees": "~77,000",
+    "key_metric": "Closed-loop network. Premium consumer and SME focus."
+  },
+  "overall_strategy_summary": "American Express is a premium-focused payments company with a closed-loop network model. Digital asset strategy is cautious and exploratory (Amex Passport NFTs, CEO stablecoin commentary, Coinbase co-branded card). Core strategy focuses on premium card member acquisition (Gen Z/Millennial cohort growth), travel and lifestyle experiences, merchant partnerships, and SME services. Technology focuses on fraud prevention, personalisation, and member experience rather than blockchain infrastructure.",
+  "strategy_intensity_score": 2,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3,
+  "slug": "american-express",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [],
+    "workforce_signals": ""
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [],
+  "analyst_judgment": {},
+  "evidence": [],
+  "last_updated": "2026-03-25",
+  "version": "1.0"
+}

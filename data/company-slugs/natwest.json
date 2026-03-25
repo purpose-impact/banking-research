@@ -1,0 +1,36 @@
+{
+  "company_name": "NatWest",
+  "company_type": "Retail / Commercial Bank",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK"
+  ],
+  "financials": {
+    "revenue": "~£14B annual",
+    "profit": "~£4B annual",
+    "employees": "~60,000",
+    "key_metric": "19M customers"
+  },
+  "overall_strategy_summary": "NatWest is a major UK bank focused on retail, commercial, and private banking. Digital asset activity is primarily through UK Finance GBTD tokenized deposit pilot. Broader strategy focuses on digital banking transformation, mortgage market growth, SME services, climate transition financing, and operational efficiency. Technology investment in mobile banking, open banking, and data analytics. Lee McNabb leads Payments and Digital Assets.",
+  "strategy_intensity_score": 2,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3,
+  "slug": "natwest",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [],
+    "workforce_signals": ""
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [],
+  "analyst_judgment": {},
+  "evidence": [],
+  "last_updated": "2026-03-25",
+  "version": "1.0"
+}

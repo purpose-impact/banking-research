@@ -1,0 +1,38 @@
+{
+  "company_name": "BNP Paribas",
+  "company_type": "Global Universal Bank",
+  "headquarters": "Paris, France",
+  "key_regions": [
+    "France",
+    "Europe",
+    "Global"
+  ],
+  "financials": {
+    "revenue": "~€46B annual",
+    "profit": "~€11B annual",
+    "employees": "~190,000",
+    "key_metric": "Eurozone's largest bank by assets"
+  },
+  "overall_strategy_summary": "BNP Paribas is the Eurozone's largest bank, operating across retail (France, Belgium, Italy), CIB, investment solutions, and insurance. Key digital: AssetFoundry tokenization platform, tokenized MMF on Ethereum (public, Feb 2026), Canton Network member, Digital Asset $135M investment, Eurosystem CBDC experiments. AXA IM (now part of BNP Paribas Group) brings investment innovation. Broader strategy: European market leadership, MiCA positioning, sustainable finance, insurance growth, integrated group model across AM/Securities Services/CIB.",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 5,
+  "technology_maturity_score": 4,
+  "slug": "bnp-paribas",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [],
+    "workforce_signals": ""
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [],
+  "analyst_judgment": {},
+  "evidence": [],
+  "last_updated": "2026-03-25",
+  "version": "1.0"
+}

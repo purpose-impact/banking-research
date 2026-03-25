@@ -1,0 +1,36 @@
+{
+  "company_name": "Lloyds Banking Group",
+  "company_type": "Retail / Commercial Bank",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK"
+  ],
+  "financials": {
+    "revenue": "~£17B annual",
+    "profit": "~£5.5B annual",
+    "employees": "~60,000",
+    "key_metric": "27M customers, UK's largest retail bank"
+  },
+  "overall_strategy_summary": "Lloyds is the UK's largest retail and commercial bank, operating Halifax, Bank of Scotland, and Scottish Widows brands. Digital asset strategy focuses on tokenized deposits (UK first on Canton Network, Jan 2026), Archax/Hedera collateral pilot, and UK Finance GBTD pilot. CEO Charlie Nunn envisions tokenized deposits + AI transforming mortgage processing. Broader strategy: digital banking transformation, insurance and wealth growth, SME lending, and sustainable finance. Significant investment in mobile/digital channels.",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3,
+  "slug": "lloyds-banking-group",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [],
+    "workforce_signals": ""
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [],
+  "analyst_judgment": {},
+  "evidence": [],
+  "last_updated": "2026-03-25",
+  "version": "1.0"
+}

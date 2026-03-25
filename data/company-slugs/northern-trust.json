@@ -1,0 +1,39 @@
+{
+  "company_name": "Northern Trust",
+  "company_type": "Custodian / Asset Manager",
+  "headquarters": "Chicago, USA",
+  "key_regions": [
+    "USA",
+    "Australia",
+    "Singapore",
+    "UK"
+  ],
+  "financials": {
+    "revenue": "N/A",
+    "profit": "N/A",
+    "employees": "~22,000",
+    "key_metric": "$18.7T AUC/A, $1.8T AUM"
+  },
+  "overall_strategy_summary": "Northern Trust is a trusted institutional custodian and asset manager with a distinctive sustainability-linked digital strategy. Key initiatives: Matrix Zenith digital assets platform, Carbon Ecosystem for digital carbon credits, tokenized MMF via BNY/GS DAP, Project Acacia (Australia) and Project Guardian (Singapore) participation. Asset management has $355B in liquidity strategies. The firm emphasises governance, risk management, and service excellence as differentiators.",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3,
+  "slug": "northern-trust",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [],
+    "workforce_signals": ""
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [],
+  "analyst_judgment": {},
+  "evidence": [],
+  "last_updated": "2026-03-25",
+  "version": "1.0"
+}

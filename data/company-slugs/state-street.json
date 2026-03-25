@@ -1,0 +1,37 @@
+{
+  "company_name": "State Street",
+  "company_type": "Custodian / Asset Servicer",
+  "headquarters": "Boston, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "financials": {
+    "revenue": "~$12B annual",
+    "profit": "$2.78 EPS Q3 2025 (+23% YoY)",
+    "employees": "~52,000",
+    "key_metric": "$51.7T AUC/A, $5.4T AUM"
+  },
+  "overall_strategy_summary": "State Street is a leading custodian and asset manager executing a platform-centric transformation via State Street Alpha (front-to-back, Charles River Development). Invests ~$2B/year in technology. Delivered $500M productivity savings in 2025. Key initiatives: Alpha platform expansion, AI/GenAI (Co-Pilot, AADQ), Digital Asset Platform (Jan 2026, Taurus partnership), SPDR ETF franchise ($1.95T). SSGA rebranded as State Street Investment Management. 134 new products launched in 2025. Snowflake/Azure data architecture. Enterprise outsourcing value proposition.",
+  "strategy_intensity_score": 4,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 4,
+  "slug": "state-street",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [],
+    "workforce_signals": ""
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [],
+  "analyst_judgment": {},
+  "evidence": [],
+  "last_updated": "2026-03-25",
+  "version": "1.0"
+}
