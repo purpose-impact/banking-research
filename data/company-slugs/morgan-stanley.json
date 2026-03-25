@@ -1,0 +1,231 @@
+{
+  "company_name": "Morgan Stanley",
+  "company_type": "Investment Bank / Wealth Manager",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "financials": {
+    "revenue": "$18.6B trading revenue (2025)",
+    "profit": "Strong",
+    "employees": "~80,000",
+    "key_metric": "$1.9T AUM, 19M clients (E*Trade)"
+  },
+  "overall_strategy_summary": "Morgan Stanley is executing an aggressive digital assets expansion while maintaining its position as a leading wealth manager and investment bank. Key moves: Amy Oldenburg appointed Head of Digital Asset Strategy (Jan 2026), all-client crypto ETF access, E*Trade crypto trading via Zerohash (H1 2026), OCC trust charter application, Bitcoin/ETH/SOL ETF filings. Broader strategy: wealth management growth ($8.2T platform), E*Trade integration, institutional securities, and investment management. Technology investment in trading platforms, risk management, and digital capabilities.",
+  "strategy_intensity_score": 4,
+  "business_maturity_score": 5,
+  "technology_maturity_score": 4,
+  "slug": "morgan-stanley",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [
+      {
+        "name": "Ted Pick",
+        "title": "CEO"
+      },
+      {
+        "name": "Amy Oldenburg",
+        "title": "Head of Digital Asset Strategy (appointed Jan 2026)"
+      },
+      {
+        "name": "Jed Finn",
+        "title": "Head of Wealth Management"
+      },
+      {
+        "name": "Denny Galindo",
+        "title": "Investment Strategist, Wealth Management"
+      }
+    ],
+    "team_structure": "Newly created digital asset strategy role. Wealth Management as primary digital asset driver. Active hiring: digital assets strategy director, strategist, product lead. E*Trade integration team.",
+    "leadership_commitment": "Strong and accelerating. Shifted from cautious to aggressive within 12 months. OCC trust charter application signals long-term commitment.",
+    "workforce_signals": "~80,000 employees. 19M clients via E*Trade. Active hiring for digital asset roles. Zerohash partnership ($104M investment) for infrastructure."
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [
+    "Revenue targets for digital asset business?",
+    "Tokenization strategy beyond ETF wrapper?",
+    "Wallet product timeline and capabilities?",
+    "E*Trade crypto trading launch date specifics?",
+    "International digital asset expansion plans?",
+    "OCC charter approval timeline and conditions?"
+  ],
+  "analyst_judgment": {
+    "strategy_posture": "Aggressive accelerator. Shifted from cautious to all-in within 12 months. Wealth-management-centric approach.",
+    "likely_objectives": "Capture crypto trading and custody revenue for $1.9T wealth platform. Prevent client attrition to crypto-native platforms. Build proprietary infrastructure (trust charter, wallet, ETFs).",
+    "not_prioritizing": "Institutional tokenization infrastructure (like BNY), stablecoin issuance, corporate payments, DeFi integration.",
+    "strongest_areas": "Distribution scale (19M clients, $1.9T AUM), brand trust, advisor channel, ETF pipeline, aggressive hiring.",
+    "weakest_areas": "Dependent on Zerohash for infrastructure. OCC charter not yet approved. No tokenization or stablecoin product. Late starter relative to Fidelity on custody.",
+    "build_vs_buy_hypothesis": "Hybrid, trending toward build. Zerohash partnership for near-term. OCC trust charter and proprietary wallet signal desire for in-house control.",
+    "watchlist_12_months": [
+      "OCC charter approval",
+      "E*Trade crypto trading launch metrics",
+      "Wallet product launch",
+      "Proprietary ETF approvals",
+      "Tokenization announcements",
+      "Revenue from digital assets"
+    ]
+  },
+  "evidence": [
+    {
+      "claim": "Amy Oldenburg appointed Head of Digital Asset Strategy in January 2026",
+      "evidence_type": "fact",
+      "source_title": "TradingView/Cointelegraph",
+      "source_url": "https://www.tradingview.com/news/cointelegraph:09fb3ac3e094b:0-morgan-stanley-appoints-new-head-of-digital-asset-strategy/",
+      "source_date": "2026-01-28",
+      "source_quality": "high",
+      "confidence": "high"
+    },
+    {
+      "claim": "Morgan Stanley opened crypto ETF access to all clients across all account types",
+      "evidence_type": "fact",
+      "source_title": "CoinDesk",
+      "source_url": "https://www.coindesk.com/markets/2025/10/10/morgan-stanley-opens-crypto-access-to-all-clients-amid-wall-street-shift-toward-digital-assets-cnbc",
+      "source_date": "2025-10-10",
+      "source_quality": "high",
+      "confidence": "high"
+    },
+    {
+      "claim": "Morgan Stanley filed OCC application for national digital asset trust bank",
+      "evidence_type": "fact",
+      "source_title": "The Block",
+      "source_url": "https://www.theblock.co/post/391641/morgan-stanley-doubles-down-on-crypto-files-for-bank-charter-to-custody-digital-assets-and-offer-staking-bloomberg",
+      "source_date": "2026-02-28",
+      "source_quality": "high",
+      "confidence": "high"
+    },
+    {
+      "claim": "E*Trade crypto trading via Zerohash planned for H1 2026",
+      "evidence_type": "fact",
+      "source_title": "Multiple sources",
+      "source_url": "https://markets.financialcontent.com/wral/article/marketminute-2025-9-28-morgan-stanleys-crypto-leap-a-new-era-for-digital-assets-and-indirect-boost-for-xrp",
+      "source_date": "2025-09-28",
+      "source_quality": "medium-high",
+      "confidence": "high"
+    }
+  ],
+  "last_updated": "2026-03-25",
+  "version": "1.0",
+  "process": {
+    "front_office": "All wealth management clients can now invest in crypto ETFs across all account types including retirement. E*Trade crypto trading planned for H1 2026 (BTC, ETH, SOL). Proprietary crypto wallet in development. 0-4% crypto allocation guidance from Global Investment Committee.",
+    "middle_office": "Suitability framework updated to remove HNW/aggressive risk profile restrictions (Oct 2025). 80% of crypto ETF volume still from self-directed channel. Advisor education ongoing.",
+    "back_office": "Zerohash provides custody, liquidity, and settlement infrastructure for E*Trade. OCC national trust charter application (Morgan Stanley Digital Trust) would bring custody in-house. Current crypto ETP custody via third parties.",
+    "operating_model_maturity": "Semi-automated. ETF distribution is mature. E*Trade trading launching H1 2026. Custody in-house is future state (OCC application).",
+    "regulatory_adaptation": "US-focused. OCC trust charter application. SEC engagement for ETF filings. GENIUS Act awareness. Working within evolving US regulatory framework.",
+    "open_questions": [
+      "Timeline for OCC charter approval",
+      "E*Trade crypto trading launch date",
+      "Wallet product specifications",
+      "Tokenization back-office capabilities"
+    ]
+  },
+  "product": {
+    "products": [
+      {
+        "name": "Crypto ETF Distribution (BTC, ETH)",
+        "type": "Investment product distribution",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "All wealth management clients",
+        "description": "Full access to spot Bitcoin and Ethereum ETFs for all clients, all account types, including retirement. Previously restricted to HNW/aggressive profiles."
+      },
+      {
+        "name": "E*Trade Crypto Trading",
+        "type": "Direct crypto trading",
+        "maturity": "pilot",
+        "geography": "USA",
+        "segment": "E*Trade retail clients",
+        "description": "Spot trading of BTC, ETH, SOL planned for H1 2026 via Zerohash partnership. Phase one of broader digital asset strategy."
+      },
+      {
+        "name": "Morgan Stanley Digital Trust (OCC application)",
+        "type": "National trust bank / custody",
+        "maturity": "concept",
+        "geography": "USA",
+        "segment": "Institutional / Wealth",
+        "description": "OCC national trust charter application filed. Would enable in-house crypto custody and staking services."
+      },
+      {
+        "name": "Crypto ETF Filings (BTC, ETH, SOL)",
+        "type": "Proprietary ETFs",
+        "maturity": "concept",
+        "geography": "USA",
+        "segment": "All investors",
+        "description": "Filed for Morgan Stanley Bitcoin Trust ETF, plus ETH and SOL products in January 2026."
+      },
+      {
+        "name": "Proprietary Crypto Wallet",
+        "type": "Wallet",
+        "maturity": "concept",
+        "geography": "USA",
+        "segment": "Wealth clients",
+        "description": "Planned crypto wallet supporting cryptocurrencies and tokenized real-world assets including stocks, bonds, real estate."
+      },
+      {
+        "name": "Crypto Asset Allocation Strategy",
+        "type": "Advisory / model portfolios",
+        "maturity": "launched",
+        "geography": "USA",
+        "segment": "Wealth clients",
+        "description": "0-4% crypto allocation in model portfolios depending on risk tolerance. Global Investment Committee guidance."
+      }
+    ],
+    "revenue_intent": "Client retention, new fee streams from trading and custody, competitive positioning against fintechs and crypto-native platforms, AUM growth.",
+    "buy_vs_build": "Hybrid. Zerohash for E*Trade infrastructure (invested in $104M round). OCC application to build in-house custody. Proprietary wallet in development. ETF filings are proprietary product."
+  },
+  "major_initiatives": [
+    {
+      "name": "Amy Oldenburg appointed Head of Digital Asset Strategy",
+      "date": "January 2026",
+      "status": "active"
+    },
+    {
+      "name": "All-client crypto ETF access (including retirement)",
+      "date": "October 2025",
+      "status": "launched"
+    },
+    {
+      "name": "E*Trade crypto trading partnership with Zerohash",
+      "date": "September 2025 announced, H1 2026 launch",
+      "status": "pilot"
+    },
+    {
+      "name": "OCC national trust charter application",
+      "date": "February 2026",
+      "status": "pending"
+    },
+    {
+      "name": "Bitcoin, Ethereum, Solana ETF filings",
+      "date": "January 2026",
+      "status": "pending"
+    },
+    {
+      "name": "Zerohash $104M investment",
+      "date": "2025",
+      "status": "completed"
+    },
+    {
+      "name": "Proprietary crypto wallet development",
+      "date": "2025-2026",
+      "status": "concept"
+    }
+  ],
+  "ecosystem_partners": [
+    "Zerohash",
+    "OCC (regulatory)",
+    "SEC (ETF filings)",
+    "BlackRock (IBIT distribution)"
+  ],
+  "chain_or_platform_signals": [
+    "Zerohash infrastructure",
+    "Ethereum (ETF)",
+    "Solana (ETF)",
+    "Bitcoin (ETF)"
+  ]
+}

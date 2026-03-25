@@ -1,0 +1,215 @@
+{
+  "company_name": "Citi",
+  "company_type": "Global Bank",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "UK",
+    "Singapore",
+    "Hong Kong",
+    "Europe",
+    "Global"
+  ],
+  "financials": {
+    "revenue": "~$20B quarterly",
+    "profit": "Strong recovery under Fraser",
+    "employees": "~240,000",
+    "key_metric": "Presence in 180+ countries, 1500 FI clients in clearing"
+  },
+  "overall_strategy_summary": "Citi is undergoing a major transformation under CEO Jane Fraser, simplifying the organisation and investing heavily in technology. Key digital initiatives: Citi Token Services for cash (live in US, UK, SG, HK, Dublin), CIDAP enterprise platform, crypto custody launching 2026, stablecoin exploration (BVNK investment). Broader strategy: simplification programme, consent order remediation ($135.6M penalties in 2024 for data governance), Google Cloud AI partnership, wealth management growth, cross-border payments leadership, and 24/7 financial operations vision. Technology spend focused on modernisation, AI, and regulatory compliance.",
+  "strategy_intensity_score": 5,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 4,
+  "slug": "citi",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [
+      {
+        "name": "Jane Fraser",
+        "title": "CEO"
+      },
+      {
+        "name": "Amy Golenberg",
+        "title": "Head of Digital Assets (appointed 2026)"
+      },
+      {
+        "name": "Nisha Surendran",
+        "title": "Head of Digital Asset Custody Product"
+      },
+      {
+        "name": "Biswarup Chatterjee",
+        "title": "Global Head of Partnerships and Innovation, Services"
+      },
+      {
+        "name": "Ryan Rugg",
+        "title": "Head of Digital Assets, Treasury and Trade Solutions"
+      },
+      {
+        "name": "Stephen Randall",
+        "title": "Global Head of Liquidity Management Services"
+      },
+      {
+        "name": "Peter Jameson",
+        "title": "Head of Services, Europe"
+      }
+    ],
+    "team_structure": "DLT Centre of Excellence. CIDAP enterprise digital asset platform. Google Cloud AI partnership. Simplification programme across the organisation. Consent order remediation teams.",
+    "leadership_commitment": "Very strong. CEO highly visible. Major simplification and technology transformation underway. Building not renting technology (Golenberg's explicit statement).",
+    "workforce_signals": "~240,000 employees. Presence in 180+ countries. Significant technology investment. Google Cloud partnership for AI."
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [
+    "Revenue from CTS to date?",
+    "Crypto custody launch timeline specifics?",
+    "Multi-chain strategy beyond private?",
+    "CIDAP technology stack details?",
+    "Stablecoin product development status?"
+  ],
+  "analyst_judgment": {
+    "strategy_posture": "Strategic leader. Building comprehensive internal infrastructure. Production-grade tokenized payments with custody expansion imminent.",
+    "likely_objectives": "Become the global institutional platform for 24/7 tokenized payments, custody, and digital asset services. Single-platform model bridging traditional and digital.",
+    "not_prioritizing": "Retail crypto, DeFi integration, stablecoin issuance (exploring only), public chain exposure.",
+    "strongest_areas": "Global network (180+ countries), 24/7 USD Clearing integration, internal build capability (CIDAP), multi-currency CTS, senior leadership depth.",
+    "weakest_areas": "Crypto custody not yet launched. Stablecoin strategy unclear. Public chain integration limited.",
+    "build_vs_buy_hypothesis": "Primarily build. Strong internal technology commitment. CIDAP enterprise platform.",
+    "watchlist_12_months": [
+      "Crypto custody launch",
+      "Stablecoin product announcement",
+      "CTS geographic expansion",
+      "Public chain integration",
+      "CIDAP capabilities expansion"
+    ]
+  },
+  "evidence": [
+    {
+      "claim": "CTS live in US, UK, Singapore, Hong Kong; expanded to Dublin with Euro",
+      "evidence_type": "fact",
+      "source_title": "Citi Press Release",
+      "source_url": "https://www.citigroup.com/global/news/press-release/2025/citi-unveils-strategic-expansion-citi-token-services-euro-integration",
+      "source_date": "2025",
+      "source_quality": "primary",
+      "confidence": "high"
+    },
+    {
+      "claim": "Citi plans to launch crypto custody in 2026",
+      "evidence_type": "fact",
+      "source_title": "CNBC",
+      "source_url": "https://www.cnbc.com/amp/2025/10/13/citi-aims-to-launch-crypto-custody-in-2026-exploring-stablecoin.html",
+      "source_date": "2025-10-13",
+      "source_quality": "high",
+      "confidence": "high"
+    },
+    {
+      "claim": "Amy Golenberg stated Citi needs to build technology internally, not rent it",
+      "evidence_type": "fact",
+      "source_title": "CoinDesk",
+      "source_url": "https://www.coindesk.com/business/2026/02/27/citi-and-morgan-stanley-expand-bitcoin-and-crypto-custody-trading-and-tokenization-efforts",
+      "source_date": "2026-02-27",
+      "source_quality": "high",
+      "confidence": "high"
+    },
+    {
+      "claim": "CIDAP is enterprise platform containing all Citi digital asset technologies",
+      "evidence_type": "fact",
+      "source_title": "Markets Media",
+      "source_url": "https://www.marketsmedia.com/citi-to-launch-crypto-custody-next-year/",
+      "source_date": "2025-12-11",
+      "source_quality": "high",
+      "confidence": "high"
+    }
+  ],
+  "last_updated": "2026-03-25",
+  "version": "1.0",
+  "process": {
+    "front_office": "CTS for cash: 24/7 cross-border payments and liquidity management via tokenized deposits. No wallet or token holding required by clients - use CitiDirect or API. Crypto custody launching 2026.",
+    "middle_office": "Third-party AML/monitoring software. Core ledger and token technology built in-house. Private permissioned blockchain. Same compliance standards as traditional assets.",
+    "back_office": "CIDAP enterprise platform: internal blockchain, external blockchain connectivity, tokenization, custody, microservices. Private permissioned blockchain. Integration with 24/7 USD Clearing. SWIFT, API, and UI instruction channels.",
+    "operating_model_maturity": "Production for CTS (billions processed). Crypto custody launching 2026. Semi-automated to industrialized.",
+    "regulatory_adaptation": "US-focused with global reach. Active dialogue with regulators. OCC and SEC engagement. GENIUS Act awareness. MiCA awareness for Europe."
+  },
+  "product": {
+    "products": [
+      {
+        "name": "Citi Token Services for Cash",
+        "type": "Tokenized deposits / payments",
+        "maturity": "launched",
+        "geography": "US, UK, Singapore, Hong Kong, Dublin",
+        "segment": "Corporate / Institutional",
+        "description": "24/7 blockchain-based cross-border payments and liquidity management. Private permissioned blockchain. Billions processed since 2024 launch. Multi-currency (USD, EUR)."
+      },
+      {
+        "name": "Crypto Custody",
+        "type": "Digital asset custody",
+        "maturity": "pilot",
+        "geography": "USA",
+        "segment": "Institutional",
+        "description": "Launching 2026. Bitcoin custody integrated into existing custody platform. Single account structure across traditional and digital assets. Cross-margining capability."
+      },
+      {
+        "name": "CIDAP (Enterprise Digital Asset Platform)",
+        "type": "Internal platform",
+        "maturity": "launched",
+        "geography": "Global",
+        "segment": "Internal infrastructure",
+        "description": "Enterprise platform containing all Citi digital asset and blockchain technologies. Internal blockchain, external connectivity, tokenization, custody, microservices."
+      },
+      {
+        "name": "Stablecoin exploration",
+        "type": "Concept",
+        "maturity": "concept",
+        "geography": "Global",
+        "segment": "Corporate",
+        "description": "Early stage exploration. Investment in BVNK (stablecoin infrastructure). Focus on emerging markets with less-developed banking systems."
+      }
+    ],
+    "revenue_intent": "Payment efficiency, liquidity management fees, custody fees, competitive positioning, new client acquisition in digital-native space.",
+    "buy_vs_build": "Primarily build. CIDAP and CTS built internally. Some third-party AML tools. Exploring hybrid for crypto custody."
+  },
+  "major_initiatives": [
+    {
+      "name": "Citi Token Services for Cash launch",
+      "date": "2024",
+      "status": "launched"
+    },
+    {
+      "name": "CTS integration with 24/7 USD Clearing",
+      "date": "September 2025",
+      "status": "launched"
+    },
+    {
+      "name": "CTS Euro expansion to Dublin",
+      "date": "2025",
+      "status": "launched"
+    },
+    {
+      "name": "Crypto custody development",
+      "date": "2023-2026",
+      "status": "pilot"
+    },
+    {
+      "name": "BVNK stablecoin infrastructure investment",
+      "date": "2025",
+      "status": "active"
+    },
+    {
+      "name": "Amy Golenberg appointed Head of Digital Assets",
+      "date": "2026",
+      "status": "active"
+    }
+  ],
+  "ecosystem_partners": [
+    "BVNK",
+    "Digital Asset (Canton Network, indirect)",
+    "SWIFT"
+  ],
+  "chain_or_platform_signals": [
+    "Private permissioned blockchain (Citi)",
+    "CIDAP"
+  ]
+}
