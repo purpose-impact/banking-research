@@ -1,0 +1,102 @@
+{
+  "company_name": "Barclays",
+  "company_type": "Universal Bank",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "USA",
+    "Europe"
+  ],
+  "revenue": "~£26B annual (2025)",
+  "profit_metric": "£9.1B PBT (2025, +12%)",
+  "employees": "~100,000",
+  "key_stat": "20M+ UK retail customers | Investment bank £13B income | >14% ROTE target by 2028",
+  "summary": "Barclays increased profit 12% to £9.1B in 2025 and raised performance targets (>14% ROTE by 2028). Investment bank income £13B (+11%), Global Markets +15%. Strategy: core US/UK focus, AI to cut costs, >£15B capital returns 2026-2028. CEO Venkat: 'moving from measured ambition to accelerating ambition.' Tesco Bank retail acquisition integrated. Plans to double digital transformation investment. GenAI and agile platforms. IT incident (Jan 2025, mainframe failure) cost £5-7.5M in compensation. US consumer bank (cards, Best Egg) growth plans.",
+  "business_segments": [
+    {
+      "name": "Barclays UK",
+      "detail": "Ring-fenced retail. 20M+ customers. Personal, business banking, Barclaycard UK. 146K mortgage completions (2025). Tesco Bank integration.",
+      "priority": "core"
+    },
+    {
+      "name": "Investment Bank",
+      "detail": "£13B income (+11%). Global Markets (+15% trading). Advisory, underwriting. Top 5 market share. US and UK focus.",
+      "priority": "growth"
+    },
+    {
+      "name": "UK Corporate Bank",
+      "detail": "13K+ businesses. Robust income growth 2025. Connecting group capabilities for clients.",
+      "priority": "core"
+    },
+    {
+      "name": "US Consumer Bank",
+      "detail": "Credit cards (partnerships). Best Egg. Online deposits. Auto lending. Growth target via organic + acquisitions.",
+      "priority": "growth"
+    },
+    {
+      "name": "Private Bank & Wealth (PBWM)",
+      "detail": "Growing AUM. Transactional activity strong in 2025. Increasing non-interest income contribution.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "GenAI and copilots integrated into unified internal systems. AI for productivity, fraud, credit risk, customer service. 'Embracing GenAI and agile scalable platforms.' Plans to double digital transformation investment.",
+    "cloud": "Cloud infrastructure modernisation. Agile scalable platforms.",
+    "data": "Unified data platforms (solving fragmentation with GenAI). Customer analytics. Risk data.",
+    "platforms": "Mobile banking. Digital business banking. Trading platforms. Open banking.",
+    "spend": "Doubling digital transformation investment (2026-2028 target)."
+  },
+  "operating_model": "2025: PBT £9.1B (+12%). New 2028 targets: >14% ROTE, >£15B capital returns. Doubling digital/AI investment. Cost-income ratio target: low 50s by 2028. Investment Bank RWA: mid-50s% → ~50% by 2028. Creating simpler organisation, standardising data and platforms.",
+  "people": [
+    {
+      "name": "C.S. Venkatakrishnan (Venkat)",
+      "role": "CEO"
+    },
+    {
+      "name": "Ryan Hayward",
+      "role": "Head of Digital Assets"
+    },
+    {
+      "name": "Anna Cross",
+      "role": "CFO"
+    }
+  ],
+  "partnerships": [
+    "UK Finance (GBTD pilot)",
+    "Ubyx (stablecoin settlement)",
+    "Quant Network",
+    "EY",
+    "Linklaters"
+  ],
+  "opportunities": [
+    "Investment bank revenue growth (Top 5 ambition)",
+    "AI productivity and cost reduction",
+    "UK retail deepening (Tesco integration)",
+    "US consumer bank scaling (Best Egg)",
+    "Wealth AUM growth",
+    "Doubling digital investment"
+  ],
+  "risks": [
+    "UK economic cycle",
+    "IT resilience (Jan 2025 mainframe failure)",
+    "US consumer bank competition (domestic incumbents)",
+    "Investment bank market volatility",
+    "Digital assets strategy less developed than peers"
+  ],
+  "skills_gaps": [
+    "GenAI engineering at scale",
+    "US market specialists",
+    "Digital banking UX",
+    "Wealth technology",
+    "Cloud-native development",
+    "IT resilience engineering"
+  ],
+  "competitive_position": "Major UK bank + US investment bank. £9.1B PBT (+12%). Investment bank Top 5 target. Competing: JPMorgan/Goldman (IB), Lloyds/NatWest (UK retail), US card issuers. Tesco integration adds retail scale.",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "barclays",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3
+}

@@ -1,0 +1,68 @@
+{
+  "company_name": "Gen II",
+  "company_type": "Fund Administrator",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA"
+  ],
+  "revenue": "N/A (private)",
+  "profit_metric": "N/A",
+  "employees": "~1,000",
+  "key_stat": "Leading independent PE fund administrator",
+  "summary": "[PLACEHOLDER — Limited public data] Gen II Fund Services is a leading independent private equity fund administrator. Core: PE fund accounting, reporting, capital activity, investor services. Expanding into real estate and credit. No visible digital asset or tokenization strategy. PE tokenization trend (JPMorgan Kinexys Fund Flow, Citco) may create competitive pressure or opportunity. Technology: fund accounting, investor reporting, regulatory compliance platforms.",
+  "business_segments": [
+    {
+      "name": "PE Fund Administration",
+      "detail": "Core. Full-service PE fund accounting, reporting, capital activity, investor services.",
+      "priority": "core"
+    },
+    {
+      "name": "Real Estate Fund Services",
+      "detail": "Fund admin for real estate. NAV, reporting, compliance.",
+      "priority": "core"
+    },
+    {
+      "name": "Credit/Debt Fund Services",
+      "detail": "Credit/debt fund admin. Complex waterfall calculations.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "[Limited data] Likely exploring AI for fund accounting automation.",
+    "cloud": "[Limited data] Cloud-based platforms.",
+    "data": "Fund data. Investor reporting data.",
+    "platforms": "Fund accounting systems. Investor portal.",
+    "spend": "Not publicly disclosed."
+  },
+  "operating_model": "Growth through client wins and service excellence. Technology investment in reporting/automation. Scaling headcount with AUM growth.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "PE tokenization services",
+    "AI fund accounting automation",
+    "Real-time investor reporting",
+    "Credit fund servicing growth",
+    "International expansion"
+  ],
+  "risks": [
+    "PE tokenization disruption (JPMorgan/Citco)",
+    "Competition from Citco, SS&C, Apex",
+    "Tech investment scale limitations",
+    "PE fundraising cycle sensitivity"
+  ],
+  "skills_gaps": [
+    "Tokenization/blockchain (PE context)",
+    "AI for fund accounting",
+    "Real-time reporting tech",
+    "Cloud infrastructure",
+    "Digital investor experience"
+  ],
+  "competitive_position": "Leading independent PE admin. Service quality differentiation. Smaller than Citco, SS&C, State Street alternatives. PE tokenization = threat or opportunity.",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "gen-ii",
+  "strategy_intensity_score": 1,
+  "business_maturity_score": 3,
+  "technology_maturity_score": 2
+}

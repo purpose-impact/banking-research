@@ -1,0 +1,88 @@
+{
+  "company_name": "Fidelity International",
+  "company_type": "Asset Manager",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Europe",
+    "Asia-Pacific"
+  ],
+  "revenue": "N/A (private)",
+  "profit_metric": "N/A",
+  "employees": "~9,000",
+  "key_stat": "~$800B AUM | Separate from Fidelity Investments (US)",
+  "summary": "Fidelity International is a London-based global asset manager (~$800B AUM), separate from US Fidelity Investments. Active in tokenized collateral (JPMorgan TCN, live since June 2024). APAC digital propositions function. Sygnum tokenization partnership. Broader: active management in equities/fixed income/multi-asset, retirement solutions, outsourced CIO, sustainable investing. Benefits from Fidelity brand/ecosystem but operates independently. Key challenge: fee pressure from passive in core active management business.",
+  "business_segments": [
+    {
+      "name": "Investment Management",
+      "detail": "Active: equities, fixed income, multi-asset, alternatives. ~$800B AUM. Strong APAC presence.",
+      "priority": "core"
+    },
+    {
+      "name": "Solutions & Multi-Asset",
+      "detail": "Target date, model portfolios, retirement, outsourced CIO.",
+      "priority": "growth"
+    },
+    {
+      "name": "Institutional",
+      "detail": "Pensions, sovereigns, insurance, sub-advisory.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for investment research, portfolio analytics, client reporting.",
+    "cloud": "Cloud-based distribution/reporting.",
+    "data": "Investment data. Client analytics. ESG data integration.",
+    "platforms": "Distribution platforms. Client reporting. Investment analytics.",
+    "spend": "Not publicly disclosed."
+  },
+  "operating_model": "Active management differentiation. Distribution technology modernisation. APAC growth. Separate from but benefits from Fidelity Investments ecosystem.",
+  "people": [
+    {
+      "name": "Anne Richards",
+      "role": "CEO"
+    },
+    {
+      "name": "Stephen Whyman",
+      "role": "Head of Debt Capital Markets"
+    },
+    {
+      "name": "Emma Pecenicic",
+      "role": "Head of Digital Propositions, APAC"
+    }
+  ],
+  "partnerships": [
+    "JPMorgan (Onyx/TCN)",
+    "Sygnum Bank",
+    "HSBC (events)"
+  ],
+  "opportunities": [
+    "Tokenized collateral scaling",
+    "APAC digital products",
+    "Active management in alternatives",
+    "Retirement solutions growth",
+    "Leveraging Fidelity ecosystem"
+  ],
+  "risks": [
+    "Active fee pressure from passive",
+    "No proprietary digital platform",
+    "Dependent on JPMorgan for tokenization",
+    "Smaller vs Fidelity US",
+    "European regulatory complexity"
+  ],
+  "skills_gaps": [
+    "Tokenization PMs",
+    "Digital distribution engineering",
+    "APAC digital specialists",
+    "AI for investment research",
+    "Blockchain integration"
+  ],
+  "competitive_position": "Respected active manager (~$800B). Strong Europe/APAC. Behind peers on digital infrastructure. Competing: Schroders, abrdn, Invesco (active management).",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "fidelity-international",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3
+}

@@ -1,0 +1,96 @@
+{
+  "company_name": "UBS",
+  "company_type": "Global Wealth Manager / Universal Bank",
+  "headquarters": "Zurich, Switzerland",
+  "key_regions": [
+    "Switzerland",
+    "Global",
+    "Singapore",
+    "Hong Kong"
+  ],
+  "revenue": "~$46B annual",
+  "profit_metric": "53% profit increase FY2025",
+  "employees": "~115,000",
+  "key_stat": "$5.7T AUM | World's largest wealth manager | Credit Suisse integration ongoing",
+  "summary": "UBS is the world's largest wealth manager ($5.7T AUM) executing post-Credit Suisse integration while building digital capabilities. FY2025 profit up 53%. CEO Ermotti describes firm as 'fast follower' in tokenization with 3-5 year rollout. UBS Tokenize platform for bonds, funds, structured products. uMINT tokenized MMF on Ethereum. Key4 gold on blockchain. Chainlink live transaction (Nov 2025). Exploring retail crypto access. Credit Suisse integration consuming significant bandwidth. Swiss banking market leader. Fnality Payment System participant.",
+  "business_segments": [
+    {
+      "name": "Global Wealth Management",
+      "detail": "$5.7T AUM. UHNW/HNW/affluent globally. 40+ countries. Investing, lending, trust, advisory.",
+      "priority": "core"
+    },
+    {
+      "name": "Personal & Corporate Banking",
+      "detail": "Swiss universal bank. Retail, corporate, institutional. Market leader in Switzerland.",
+      "priority": "core"
+    },
+    {
+      "name": "Asset Management",
+      "detail": "Institutional AM. Index, active, alternatives. Tokenized funds (uMINT).",
+      "priority": "core"
+    },
+    {
+      "name": "Investment Bank",
+      "detail": "Advisory, capital markets, equities, FICC. UBS Tokenize platform.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for wealth personalisation, risk management, trading. GenAI for advisor productivity.",
+    "cloud": "Complex transformation alongside Credit Suisse integration.",
+    "data": "Wealth analytics. Risk data. Client portfolio insights.",
+    "platforms": "Wealth advisory platforms. Swiss digital banking. Trading systems. UBS Tokenize.",
+    "spend": "Significant — Credit Suisse integration is largest single tech project."
+  },
+  "operating_model": "Credit Suisse integration (massive multi-year). 115K employees post-merger. Cost synergies being captured. Infrastructure consolidation. 53% profit increase despite integration costs.",
+  "people": [
+    {
+      "name": "Sergio Ermotti",
+      "role": "CEO"
+    },
+    {
+      "name": "Christoph Puhr",
+      "role": "Digital Assets Lead, UBS Group"
+    },
+    {
+      "name": "Todd Tuckner",
+      "role": "CFO"
+    }
+  ],
+  "partnerships": [
+    "Chainlink",
+    "ZKsync",
+    "Fnality",
+    "MAS (Project Guardian)"
+  ],
+  "opportunities": [
+    "Wealth scale post-CS integration ($5.7T)",
+    "UBS Tokenize expansion",
+    "Retail crypto access (CEO confirmed)",
+    "Credit Suisse synergies",
+    "Swiss market dominance",
+    "APAC wealth growth"
+  ],
+  "risks": [
+    "Credit Suisse integration execution",
+    "Fast follower may miss window",
+    "Wealth competition (Morgan Stanley, JPMorgan)",
+    "Swiss regulatory complexity",
+    "Legacy tech from CS integration"
+  ],
+  "skills_gaps": [
+    "Integration engineering (CS systems)",
+    "Digital asset PMs",
+    "Wealth platform engineers",
+    "L2 blockchain engineering",
+    "Cross-border compliance tech"
+  ],
+  "competitive_position": "World's largest wealth manager ($5.7T). Swiss leader. CS integration = scale + complexity. Competing: Morgan Stanley (wealth), JPMorgan (IB), Pictet/Julius Baer (Swiss wealth).",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "ubs",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 5,
+  "technology_maturity_score": 4
+}

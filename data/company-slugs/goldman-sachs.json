@@ -1,0 +1,120 @@
+{
+  "company_name": "Goldman Sachs",
+  "slug": "goldman-sachs",
+  "company_type": "Global Investment Bank",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Europe",
+    "Asia-Pacific",
+    "Global"
+  ],
+  "revenue": "$15.18B (Q3 2025)",
+  "profit_metric": "20.2% ROE (Q1 2025)",
+  "employees": "~46,000",
+  "key_stat": "$1.8T wealth client assets | $355B alternative AUS | 12K engineers",
+  "summary": "Goldman Sachs is focused on Global Banking & Markets and Asset & Wealth Management after retreating from consumer banking (Marcus scaling back). Q3 2025 revenue $15.18B with 20%+ ROE. Wealth client assets $1.8T. Alternatives AUS $355B with $18B quarterly fundraising. Technology: 12,000 engineers with AI Developer Copilot (15% bug reduction), Banker Copilot, Research Assistant. Plans for hundreds of autonomous AI coding agents (3-4x productivity). GS DAP tokenization platform to be spun out mid-2026. CEO Solomon focused on operating efficiency and AI. David Solomon stated goal to 'operate more efficiently to seamlessly deliver the firm to clients helped by new AI technologies.'",
+  "business_segments": [
+    {
+      "name": "Global Banking & Markets",
+      "detail": "#1 M&A advisory globally. FICC $4.4B, Equities $4.2B (Q3 2025). Debt/equity underwriting. Advisory. Strong volatility-driven trading performance.",
+      "priority": "core"
+    },
+    {
+      "name": "Asset & Wealth Management",
+      "detail": "$1.8T wealth client assets. $355B alternative AUS. $18B quarterly alt fundraising. Management fees +9%. Private banking and lending. Declining historical principal investments.",
+      "priority": "growth"
+    },
+    {
+      "name": "Platform Solutions",
+      "detail": "Transaction banking, consumer platforms (Marcus scaling back). GreenSky. Apple Card relationship winding down. Small segment.",
+      "priority": "restructuring"
+    }
+  ],
+  "technology": {
+    "ai": "Banker Copilot (IB), Research Assistant (analysts), Developer Copilot (12K engineers, 15% bug reduction). Hundreds of autonomous AI coding agents planned (3-4x productivity). GS Financial Cloud.",
+    "cloud": "GS Financial Cloud. Cloud-based trading and risk. Multi-cloud approach.",
+    "data": "Marquee platform for analytics/trading. Data-driven investment research. Risk analytics across asset classes.",
+    "platforms": "Marquee (electronic trading). GS DAP (tokenization, mid-2026 spinout). Goldman Sachs Transaction Banking. Marcus (scaling back).",
+    "spend": "Significant but exact figure not publicly broken out. 12K engineers signals major tech investment."
+  },
+  "operating_model": "Retreated from consumer banking (Marcus). Focused on core: banking, markets, alternatives. GS DAP spinout enables broader adoption. AI copilots driving engineering productivity. Operating efficiency via AI. Tradeweb strategic partnership for fixed income distribution.",
+  "people": [
+    {
+      "name": "David Solomon",
+      "role": "CEO"
+    },
+    {
+      "name": "Mathew McDermott",
+      "role": "Head of Digital Assets"
+    },
+    {
+      "name": "Denis Coleman",
+      "role": "CFO"
+    }
+  ],
+  "partnerships": [
+    "Tradeweb (strategic partner for GS DAP)",
+    "BNY (MMF tokenization)",
+    "Digital Asset (DAML/Canton Network)",
+    "Apple (Card — winding down)"
+  ],
+  "opportunities": [
+    "GS DAP spinout monetisation",
+    "Alternatives growth ($355B AUS)",
+    "AI copilot productivity (3-4x target)",
+    "Wealth management expansion to $2T+",
+    "Trading revenue in volatile markets",
+    "Transaction banking growth"
+  ],
+  "risks": [
+    "GS DAP spinout execution",
+    "Consumer banking exit costs (Marcus, Apple)",
+    "Market-dependent revenue volatility",
+    "Competition in alternatives from Blackstone, Apollo",
+    "Regulatory scrutiny"
+  ],
+  "skills_gaps": [
+    "AI agents engineering",
+    "Alternative investments technology",
+    "Wealth platform engineering",
+    "Cloud-native trading systems",
+    "Transaction banking product management"
+  ],
+  "partnership_opps": [
+    "AI research/analytics solutions",
+    "Alternative investment distribution tech",
+    "Electronic trading platform services",
+    "Risk analytics and modelling",
+    "Wealth management technology"
+  ],
+  "competitive_position": "#1 M&A advisory. Top 3 FICC/Equities. Growing alternatives ($355B). Tech leader (12K engineers, AI copilots). Competing: JPMorgan/Morgan Stanley (IB), Blackstone/Apollo (alts), UBS (wealth).",
+  "analyst_view": "Refocused and executing. Marcus retreat frees resources for core strengths. GS DAP spinout is unique strategic move. Strongest: M&A, trading, alternatives, engineering culture. Weakest: consumer exit costs, market volatility dependency. Watch: GS DAP spinout, alternatives fundraising, AI productivity.",
+  "evidence": [
+    {
+      "claim": "Q3 2025: $15.18B revenue, 20.2% ROE. $1.8T wealth assets. $355B alt AUS.",
+      "source": "Goldman Sachs 8-K filings",
+      "date": "2025-10"
+    },
+    {
+      "claim": "Developer Copilot: 15% bug reduction. Plans for hundreds of autonomous AI coding agents.",
+      "source": "Industry analysis (whitehat-seo)",
+      "date": "2025"
+    },
+    {
+      "claim": "GS DAP spinout planned mid-2026",
+      "source": "Markets Media interview with McDermott",
+      "date": "2025-10-16"
+    }
+  ],
+  "questions": [
+    "GS DAP spinout valuation and structure?",
+    "Autonomous AI agent deployment timeline?",
+    "Marcus wind-down total cost?",
+    "Alternatives: path to $500B AUS?",
+    "Transaction banking competitive positioning?"
+  ],
+  "strategy_intensity_score": 4,
+  "business_maturity_score": 5,
+  "technology_maturity_score": 5
+}

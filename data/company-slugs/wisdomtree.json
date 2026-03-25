@@ -1,0 +1,92 @@
+{
+  "company_name": "WisdomTree",
+  "company_type": "Asset Manager / Digital Native",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Europe"
+  ],
+  "revenue": "~$350M annual",
+  "profit_metric": "Profitability improving",
+  "employees": "~300",
+  "key_stat": "$110B+ total AUM | $770M tokenized AUM (grew from $30M in 2025) | 15 tokenized funds",
+  "summary": "WisdomTree has pivoted from traditional ETP provider to digital-first financial platform. Core: ETFs/ETPs ($110B+ AUM). Digital: 15 tokenized funds (largest SEC-registered suite, $770M AUM grown from $30M in 2025), WisdomTree Prime wallet, Connect institutional platform, USDW stablecoin, BNY BaaS, NYDFS trust charter. Multi-chain: Stellar, Ethereum, Arbitrum, Avalanche, Base, Optimism. GENIUS Act compliance. Targeting $1B tokenized AUM early 2026.",
+  "business_segments": [
+    {
+      "name": "ETPs/ETFs",
+      "detail": "$110B+ AUM. Index, smart beta, thematic, commodity ETFs. US and European listings. Core revenue engine.",
+      "priority": "core"
+    },
+    {
+      "name": "Digital Funds & Platforms",
+      "detail": "15 tokenized funds ($770M). Prime wallet (retail). Connect (institutional). USDW stablecoin. Gold token. GENIUS Act compliant.",
+      "priority": "growth"
+    },
+    {
+      "name": "Model Portfolios",
+      "detail": "Advisor solutions. Model delivery. Financial planning tools.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "Not prominent. Focus on blockchain/tokenization rather than AI.",
+    "cloud": "Cloud-native Prime and Connect platforms.",
+    "data": "On-chain fund data. Multi-chain analytics.",
+    "platforms": "WisdomTree Prime (Stellar retail wallet). Connect (multi-chain institutional APIs). BNY BaaS for banking layer.",
+    "spend": "Small company (~300 employees) — efficient tech spend via partnerships."
+  },
+  "operating_model": "Lean (~300 employees). Outsourced infrastructure (BNY BaaS). NYDFS trust charter. State money transmitter licenses. Multi-chain engineering. Revenue: fund management fees + stablecoin reserve yield.",
+  "people": [
+    {
+      "name": "Jonathan Steinberg",
+      "role": "CEO"
+    },
+    {
+      "name": "Will Peck",
+      "role": "Head of Digital Assets"
+    },
+    {
+      "name": "Jeremy Schwartz",
+      "role": "Global CIO"
+    },
+    {
+      "name": "Maredith Hannon",
+      "role": "Head of BD, Digital Assets"
+    }
+  ],
+  "partnerships": [
+    "BNY (BaaS, custody, admin)",
+    "Stellar",
+    "Ethereum/L2s (Arbitrum, Avalanche, Base, Optimism)"
+  ],
+  "opportunities": [
+    "$1B tokenized AUM milestone",
+    "Stablecoin reserve management (GENIUS Act)",
+    "International expansion (Europe, APAC)",
+    "Connect institutional platform growth",
+    "New yield-focused tokenized funds",
+    "USDW stablecoin adoption"
+  ],
+  "risks": [
+    "Scale vs BlackRock/Fidelity entering",
+    "Digital business profitability",
+    "Multi-chain complexity",
+    "USDW market share",
+    "Small company (300 employees) executing big vision"
+  ],
+  "skills_gaps": [
+    "Multi-chain engineering",
+    "Stablecoin operations",
+    "Institutional sales",
+    "International compliance",
+    "Product management at scale"
+  ],
+  "competitive_position": "Market leader in tokenized funds (15, largest suite). First mover US retail tokenized access. Small vs BlackRock/Fidelity but fastest. Competing: BlackRock (BUIDL), Franklin Templeton, Fidelity in tokenized; Vanguard, iShares in ETFs.",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "wisdomtree",
+  "strategy_intensity_score": 5,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 4
+}

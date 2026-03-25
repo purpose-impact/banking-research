@@ -1,0 +1,89 @@
+{
+  "company_name": "American Express",
+  "company_type": "Card Network / Payments",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "revenue": "$17.86B (Q2 2025, +9% YoY)",
+  "profit_metric": "$2.89B net income Q2 2025",
+  "employees": "~77,000",
+  "key_stat": "Closed-loop network | Premium brand | Gen Z/Millennial growth strategy",
+  "summary": "American Express is a premium-focused payments company with a closed-loop network. Q2 2025: $17.86B revenue (+9%), $2.89B net income. Strategy: premium card member acquisition (Gen Z/Millennial cohort growth), travel and lifestyle experiences (Centurion Lounges), merchant partnerships, SME services. Technology: AI fraud detection, personalisation, customer service. Digital assets: cautious — Amex Passport NFTs, CEO acknowledges stablecoins but not prioritising. Coinbase co-branded Amex card. Behind Visa and Mastercard on digital asset infrastructure.",
+  "business_segments": [
+    {
+      "name": "US Consumer Services",
+      "detail": "Premium cards (Platinum, Gold, Green). Membership rewards. Travel (Centurion Lounges). Consumer lending.",
+      "priority": "core"
+    },
+    {
+      "name": "Commercial Services",
+      "detail": "Small business cards/lending. Corporate cards. B2B payments. Expense management.",
+      "priority": "core"
+    },
+    {
+      "name": "International Card Services",
+      "detail": "Consumer/commercial cards internationally. Bank partnerships.",
+      "priority": "growth"
+    },
+    {
+      "name": "Global Merchant & Network Services",
+      "detail": "Merchant acquiring. Network fees. Closed-loop network. Digital acceptance.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "Real-time fraud screening. Personalisation engine. AI customer service. Predictive credit risk.",
+    "cloud": "Cloud modernisation. API-driven services.",
+    "data": "Transaction data analytics. Customer behavioural insights. Merchant data.",
+    "platforms": "Amex mobile app. Travel booking. Merchant acceptance.",
+    "spend": "Not publicly broken out."
+  },
+  "operating_model": "Premium brand positioning. Gen Z/Millennial acquisition. Travel/experience economy focus. Digital-first card application/servicing. Closed-loop network advantage for data.",
+  "people": [
+    {
+      "name": "Steve Squeri",
+      "role": "CEO"
+    },
+    {
+      "name": "Colin Marlowe",
+      "role": "VP, Amex Digital Labs"
+    }
+  ],
+  "partnerships": [
+    "Coinbase (co-branded card)",
+    "Fireblocks (Passport wallet)",
+    "Ripple (historical FX)"
+  ],
+  "opportunities": [
+    "Gen Z/Millennial member growth",
+    "Travel/experience economy",
+    "B2B payments expansion",
+    "Stablecoin cross-border (post-GENIUS)",
+    "Premium digital experiences",
+    "Merchant acceptance growth"
+  ],
+  "risks": [
+    "Stablecoin disruption to card rails",
+    "Visa/Mastercard more advanced on digital",
+    "Premium limits mass market",
+    "Economic downturn → travel spending",
+    "Closed-loop limits acceptance"
+  ],
+  "skills_gaps": [
+    "Stablecoin/blockchain",
+    "AI personalisation at scale",
+    "Cross-border innovation",
+    "Digital experience design",
+    "Open banking/APIs"
+  ],
+  "competitive_position": "Premium card network. Closed-loop data advantage. Behind Visa/Mastercard on digital. Strong loyalty. Competing: Visa (network), Chase (cards), Capital One.",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "american-express",
+  "strategy_intensity_score": 2,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3
+}

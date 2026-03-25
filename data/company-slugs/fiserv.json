@@ -1,0 +1,108 @@
+{
+  "company_name": "Fiserv",
+  "company_type": "Payments / FinTech Infrastructure",
+  "headquarters": "Milwaukee, USA",
+  "key_regions": [
+    "USA",
+    "Global",
+    "Brazil",
+    "Japan"
+  ],
+  "revenue": "~$20B annual",
+  "profit_metric": "Stock dropped 40%+ in Oct 2025",
+  "employees": "~40,000",
+  "key_stat": "#1 global FinTech (IDC, 3 yrs) | 10K FI clients | 6M merchant locations | 90B transactions/year",
+  "summary": "Fiserv is the world's largest FinTech, processing 90B transactions annually. Under pressure: stock dropped 40%+ in Oct 2025 after earnings miss and Clover fee complaints. New CEO Mike Lyons launched 'One Fiserv' action plan. Key products: Clover POS ($3.3B revenue 2025, +23%), Finxact cloud-native core (consolidating 16 US cores to 5), FIUSD stablecoin, INDX real-time settlement. Major leadership refresh: Co-Presidents (Georgakopoulos + Suryadevara), new CROs from JPMorgan and Stripe. Expanding Clover to 5 new countries including Brazil. TD Bank merchant partnership.",
+  "business_segments": [
+    {
+      "name": "Merchant Solutions",
+      "detail": "Clover POS ($3.3B, +23%). 6M merchants. Expanding: Brazil, Japan (SMCC). TD Bank partnership. Payment processing. Gateway services.",
+      "priority": "growth"
+    },
+    {
+      "name": "Financial Solutions",
+      "detail": "Core banking (consolidating 16→5 US cores). Finxact cloud-native. Digital banking (XD). Bill pay. Card processing. 6-8% growth.",
+      "priority": "core"
+    },
+    {
+      "name": "Payments & Network",
+      "detail": "90B transactions/year. 10K FI clients. Debit/credit networks. Real-time payments. FIUSD stablecoin. INDX settlement.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "Project Elevate for AI integration. Fraud monitoring. Predictive merchant analytics. SmartAudit.",
+    "cloud": "Finxact cloud-native core. Cloud-based Clover. XD digital platform.",
+    "data": "Unknown Shopper analytics (merchant insights). Transaction data across 90B transactions.",
+    "platforms": "Clover ($3.3B flagship), Finxact (cloud core), XD (digital banking), Experience Digital, Commercial Center, INDX (settlement).",
+    "spend": "Significant — emphasis on investing in technology over short-term financials."
+  },
+  "operating_model": "One Fiserv action plan (Oct 2025). Core consolidation 16→5. Leadership overhaul. Stock under pressure. Clover international expansion. Acquisitions: Payfare, Pinch Payments (Australia), Money Money (Brazil), StoneCastle. TD Bank merchant partnership.",
+  "people": [
+    {
+      "name": "Mike Lyons",
+      "role": "CEO"
+    },
+    {
+      "name": "Takis Georgakopoulos",
+      "role": "Co-President, Merchant Solutions & Technology (ex-JPMorgan)"
+    },
+    {
+      "name": "Dhivya Suryadevara",
+      "role": "Co-President, Financial Solutions (ex-UnitedHealth)"
+    },
+    {
+      "name": "Sunil Sachdev",
+      "role": "Head of Embedded Finance & Digital Assets"
+    },
+    {
+      "name": "Lia Cao",
+      "role": "CRO Enterprise (ex-JPMorgan)"
+    },
+    {
+      "name": "Robert Clarkson",
+      "role": "CRO Small Business/Clover (ex-Stripe)"
+    }
+  ],
+  "partnerships": [
+    "Paxos",
+    "Circle",
+    "PayPal",
+    "Mastercard",
+    "Solana",
+    "TD Bank",
+    "ADP (Clover payroll)",
+    "SMCC (Japan)"
+  ],
+  "opportunities": [
+    "Clover international (5 new countries)",
+    "Finxact modernising community banks",
+    "Embedded finance platform",
+    "FIUSD stablecoin across 10K FIs",
+    "Merchant data analytics",
+    "Core consolidation efficiency"
+  ],
+  "risks": [
+    "Investor confidence (40% stock drop)",
+    "Clover fee lawsuits",
+    "Core consolidation execution",
+    "Leadership transition",
+    "Competition: Stripe, Square, Adyen",
+    "FIUSD adoption uncertainty"
+  ],
+  "skills_gaps": [
+    "Cloud-native core engineers",
+    "International expansion PMs",
+    "AI/ML for fraud/analytics",
+    "Stablecoin/blockchain",
+    "Merchant experience design"
+  ],
+  "competitive_position": "#1 global FinTech (IDC). Massive distribution. Clover leading SMB platform. Under execution pressure. Competing: Stripe, Adyen, Block (merchant), FIS/Jack Henry (core banking).",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "fiserv",
+  "strategy_intensity_score": 4,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 4
+}

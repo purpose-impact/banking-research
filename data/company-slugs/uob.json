@@ -1,0 +1,78 @@
+{
+  "company_name": "UOB",
+  "company_type": "Regional Bank",
+  "headquarters": "Singapore",
+  "key_regions": [
+    "Singapore",
+    "ASEAN (Indonesia, Malaysia, Thailand, Vietnam)"
+  ],
+  "revenue": "~SGD 13B annual",
+  "profit_metric": "~SGD 6B annual profit",
+  "employees": "~30,000",
+  "key_stat": "Major ASEAN franchise across 19 countries | TMRW digital bank | Citi consumer acquisition",
+  "summary": "[PARTIALLY VALIDATED] UOB is a leading Southeast Asian bank with strong ASEAN franchise. Acquired Citi's consumer banking in Indonesia, Malaysia, Thailand, Vietnam. TMRW digital bank for younger customers. Project Guardian participant (green bond tokenization with Northern Trust). Partior cross-border payment network. MAS regulatory environment supportive. Strategy: ASEAN connectivity, digital banking, SME banking, wealth management, sustainable finance.",
+  "business_segments": [
+    {
+      "name": "Group Retail",
+      "detail": "Consumer banking across ASEAN. TMRW digital bank. Deposits, loans, cards, wealth. Citi consumer acquisition integrated.",
+      "priority": "core"
+    },
+    {
+      "name": "Group Wholesale Banking",
+      "detail": "Corporate, commercial, institutional. Trade finance. Treasury. Cash management.",
+      "priority": "core"
+    },
+    {
+      "name": "Global Markets",
+      "detail": "FX, rates, credit trading. Treasury products. Risk management.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for customer service, credit scoring, fraud. TMRW data-driven personalisation.",
+    "cloud": "[Requires validation] Cloud modernisation.",
+    "data": "Customer analytics for TMRW. Credit risk. Cross-border transaction data.",
+    "platforms": "TMRW digital bank. UOB Infinity (corporate). Mobile banking.",
+    "spend": "Not publicly broken out."
+  },
+  "operating_model": "ASEAN integration post-Citi acquisition. Digital banking scaling (TMRW). Regional connectivity. MAS regulatory alignment.",
+  "people": [
+    {
+      "name": "Wee Ee Cheong",
+      "role": "CEO"
+    }
+  ],
+  "partnerships": [
+    "Northern Trust (Project Guardian)",
+    "NUS",
+    "MAS",
+    "Partior (DBS/JPMorgan/Temasek)"
+  ],
+  "opportunities": [
+    "ASEAN growth (post-Citi)",
+    "TMRW digital scaling",
+    "Partior cross-border payments",
+    "Project Guardian outcomes",
+    "SME banking across ASEAN"
+  ],
+  "risks": [
+    "ASEAN economic uncertainty",
+    "Citi integration complexity",
+    "Competition: Grab, GoTo, Sea Group",
+    "Limited digital asset strategy"
+  ],
+  "skills_gaps": [
+    "Digital banking at scale",
+    "Blockchain/tokenization",
+    "AI for ASEAN markets",
+    "Cross-border payments engineering"
+  ],
+  "competitive_position": "Major ASEAN bank. Citi acquisition adds scale. TMRW innovative. Competing: DBS, OCBC, Maybank, Grab/GoTo (digital finance).",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "uob",
+  "strategy_intensity_score": 2,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3
+}

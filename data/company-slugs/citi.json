@@ -1,0 +1,155 @@
+{
+  "company_name": "Citi",
+  "slug": "citi",
+  "company_type": "Global Bank",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "UK",
+    "Europe",
+    "Singapore",
+    "Hong Kong",
+    "Global (180+ countries)"
+  ],
+  "revenue": "~$80B annual",
+  "profit_metric": "Improving under Fraser",
+  "employees": "~240,000",
+  "key_stat": "180+ countries | 1,500 FI clearing clients | 250+ banks in 24/7 USD Clearing",
+  "summary": "Citi is executing a major transformation under CEO Jane Fraser: simplifying the organisation (exited 14 consumer markets), remediating consent orders ($135.6M penalties in 2024 for data governance), and investing heavily in technology. Key strengths: unrivalled global network (180+ countries), largest FX clearer, Treasury & Trade Solutions franchise, 24/7 USD Clearing for 250+ banks. Google Cloud AI partnership. Citi Token Services live for cross-border payments. Crypto custody launching 2026. Ambitious but consent orders remain a drag.",
+  "business_segments": [
+    {
+      "name": "Services (TTS + Securities Services)",
+      "detail": "Treasury and Trade Solutions, Securities Services. Cross-border payments, liquidity, trade finance, custody, clearing. ~$19B annual. 1,500 FI clients. Largest global FX clearer.",
+      "priority": "core"
+    },
+    {
+      "name": "Markets",
+      "detail": "FICC and Equities trading. FX, rates, credit, commodities. Global franchise across 180+ countries. ~$20B annual.",
+      "priority": "core"
+    },
+    {
+      "name": "Banking",
+      "detail": "Investment banking advisory, debt/equity underwriting, M&A. ~$6B annual.",
+      "priority": "core"
+    },
+    {
+      "name": "US Personal Banking",
+      "detail": "Branded cards (Costco partnership), retail services, retail banking. ~$25B annual.",
+      "priority": "core"
+    },
+    {
+      "name": "Wealth",
+      "detail": "Citi Private Bank, Personal Wealth Management. Global UHNW/HNW. Growing. ~$8B annual.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "Google Cloud AI partnership (enterprise-scale deployment). AI for credit underwriting (60% processing time reduction potential). Agentic AI early R&D. Data governance top priority (consent orders).",
+    "cloud": "Google Cloud strategic partnership. Cloud-first for new apps. Legacy modernisation alongside consent order remediation.",
+    "data": "Data governance CRITICAL priority (consent orders from 2020, $135.6M penalties 2024). CIDAP enterprise platform. Risk analytics modernisation.",
+    "platforms": "CitiDirect online banking. API platform. Global Payments network (1,500 FIs). Citi Token Services (blockchain payments). Treasury management platform.",
+    "spend": "Major technology investment but exact figure not publicly broken out like JPMorgan."
+  },
+  "operating_model": "Major simplification under Jane Fraser. Exited 14 consumer markets. Focus on 5 core business lines. Consent order remediation ongoing ($135.6M penalties 2024 for data governance). Technology modernisation across legacy infrastructure. 240K employees with global delivery (India, Ireland, Singapore). Building not renting technology.",
+  "people": [
+    {
+      "name": "Jane Fraser",
+      "role": "CEO"
+    },
+    {
+      "name": "Amy Golenberg",
+      "role": "Head of Digital Assets (appointed 2026)"
+    },
+    {
+      "name": "Biswarup Chatterjee",
+      "role": "Global Head of Partnerships and Innovation, Services"
+    },
+    {
+      "name": "Ryan Rugg",
+      "role": "Head of Digital Assets, Treasury and Trade Solutions"
+    },
+    {
+      "name": "Nisha Surendran",
+      "role": "Head of Digital Asset Custody Product"
+    },
+    {
+      "name": "Stephen Randall",
+      "role": "Global Head of Liquidity Management Services"
+    },
+    {
+      "name": "Peter Jameson",
+      "role": "Head of Services, Europe"
+    }
+  ],
+  "partnerships": [
+    "Google Cloud (AI)",
+    "BVNK (stablecoin infrastructure)",
+    "Oracle (indirect)",
+    "SWIFT"
+  ],
+  "opportunities": [
+    "TTS/Securities Services growth (24/7 payments)",
+    "Wealth management expansion",
+    "AI-driven ops efficiency (consent order data foundation enables AI)",
+    "Cross-border payments leadership",
+    "Simplification benefits from 14 market exits",
+    "Google Cloud AI partnership scaling"
+  ],
+  "risks": [
+    "Consent order remediation — ongoing cost and regulatory risk",
+    "Data governance penalties ($135.6M in 2024)",
+    "Simplification execution",
+    "Competitive pressure from JPMorgan in payments",
+    "Credit cycle (US personal banking)",
+    "Geopolitical risk (180+ countries)"
+  ],
+  "skills_gaps": [
+    "Data governance/quality engineers",
+    "AI/ML with compliance focus",
+    "Cloud migration specialists",
+    "Risk modelling and analytics",
+    "Regulatory technology"
+  ],
+  "partnership_opps": [
+    "Data governance platforms",
+    "AI compliance/surveillance",
+    "Cross-border payments innovation",
+    "Regulatory reporting automation",
+    "Client onboarding/KYC",
+    "Cloud migration consulting"
+  ],
+  "competitive_position": "Top 5 global bank. Largest FX clearer. Unrivalled global network (180+ countries). TTS franchise is core advantage. Consent orders are major weakness vs JPMorgan. Competing: JPMorgan (payments), BNY (custody), HSBC (transaction banking).",
+  "analyst_view": "Strategic transformer under pressure. Simplification + consent order remediation + Google Cloud AI = complex multi-year execution. Strongest: global network, TTS/FX franchise, 24/7 clearing. Weakest: consent orders, data governance, execution risk. Watch: consent order progress, wealth growth, CTS expansion.",
+  "evidence": [
+    {
+      "claim": "Consent order penalties: $135.6M in 2024 for data governance gaps",
+      "source": "American Banker, Lucidate analysis",
+      "date": "2025"
+    },
+    {
+      "claim": "24/7 USD Clearing: 250+ banks, 40+ markets",
+      "source": "Citi press release",
+      "date": "2025"
+    },
+    {
+      "claim": "Amy Golenberg: 'We need to build this internally. We can't just rent the technology.'",
+      "source": "CoinDesk (World Strategy Forum)",
+      "date": "2026-02-27"
+    },
+    {
+      "claim": "Jane Fraser: 'tokenization digitizes entire markets'",
+      "source": "American Banker, CNBC",
+      "date": "2025"
+    }
+  ],
+  "questions": [
+    "Consent order remediation timeline?",
+    "Google Cloud AI partnership ROI?",
+    "Total technology spend?",
+    "Wealth management growth targets?",
+    "How does simplification impact global coverage?"
+  ],
+  "strategy_intensity_score": 5,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 4
+}

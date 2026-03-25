@@ -1,0 +1,97 @@
+{
+  "company_name": "Northern Trust",
+  "company_type": "Custodian / Asset Manager",
+  "headquarters": "Chicago, USA",
+  "key_regions": [
+    "USA",
+    "UK",
+    "Australia",
+    "Singapore",
+    "Canada",
+    "Europe"
+  ],
+  "revenue": "~$7B annual",
+  "profit_metric": "Solid",
+  "employees": "~22,000",
+  "key_stat": "$18.7T AUC/A | $1.8T AUM | $355B liquidity strategies",
+  "summary": "Northern Trust is a respected institutional custodian and asset manager serving corporations, institutions, and affluent families since 1889. $18.7T AUC/A, $1.8T AUM ($355B in liquidity). Distinctive sustainability-linked digital strategy: Carbon Ecosystem (digital carbon credits), Project Acacia (Australia DvP), Project Guardian (Singapore green bonds). Matrix Zenith proprietary digital platform. Tokenized MMF via BNY/GS DAP (March 2026). Goals Driven Wealth Management for UHNW/HNW. Strong service culture and risk management reputation.",
+  "business_segments": [
+    {
+      "name": "Asset Servicing",
+      "detail": "$18.7T AUC/A. Custody, fund admin, investment ops outsourcing. Institutional investors, pensions, endowments.",
+      "priority": "core"
+    },
+    {
+      "name": "Asset Management",
+      "detail": "$1.8T AUM ($355B liquidity). Passive, factor, sustainable investing. Tokenized MMF share class.",
+      "priority": "growth"
+    },
+    {
+      "name": "Wealth Management",
+      "detail": "UHNW/HNW families. Trust, estate, investment advisory. Goals Driven framework.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for fund operations, risk analytics, client reporting. Automation of servicing processes.",
+    "cloud": "Cloud transformation for ops efficiency. Data modernisation.",
+    "data": "Investment data analytics. Risk reporting. ESG data.",
+    "platforms": "Matrix Zenith (digital assets). Wealth management platform. Fund admin systems. Carbon Ecosystem.",
+    "spend": "Not publicly broken out. Investment in Matrix Zenith and sustainability tech."
+  },
+  "operating_model": "Operational efficiency through technology. Sustainability differentiation. Multi-jurisdiction sandbox participation. Service excellence culture.",
+  "people": [
+    {
+      "name": "Michael O'Grady",
+      "role": "CEO"
+    },
+    {
+      "name": "Justin Chapman",
+      "role": "Group Head, Strategic Partnerships, Digital Assets & Financial Markets"
+    },
+    {
+      "name": "Michael Hunstad",
+      "role": "President, Asset Management"
+    },
+    {
+      "name": "Paula Kar",
+      "role": "CPO, Asset Management"
+    }
+  ],
+  "partnerships": [
+    "BNY (MMF distribution)",
+    "Goldman Sachs (GS DAP)",
+    "Swift (DvP)",
+    "Reserve Bank of Australia",
+    "NUS",
+    "UOB"
+  ],
+  "opportunities": [
+    "Carbon Ecosystem adoption",
+    "Tokenized fund products expansion",
+    "Sustainability-linked digital niche",
+    "Matrix Zenith scaling",
+    "Wealth tech modernisation"
+  ],
+  "risks": [
+    "Later mover on tokenized funds",
+    "Scale vs BNY/State Street",
+    "Technology details opaque",
+    "Limited public digital visibility"
+  ],
+  "skills_gaps": [
+    "Blockchain engineering",
+    "Sustainability data/analytics",
+    "Digital asset PMs",
+    "Cloud-native development",
+    "AI for fund ops"
+  ],
+  "competitive_position": "Respected institutional custodian ($18.7T). Sustainability differentiation (Carbon Ecosystem). Smaller than BNY/State Street. Strong wealth franchise. Competing: BNY, State Street, JPMorgan, Citi (servicing).",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "northern-trust",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3
+}

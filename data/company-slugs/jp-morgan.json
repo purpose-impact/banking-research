@@ -1,0 +1,136 @@
+{
+  "company_name": "JP Morgan",
+  "slug": "jp-morgan",
+  "company_type": "Global Investment Bank",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "revenue": "$185.6B (FY2025, record 8th year)",
+  "profit_metric": "$57B net income | 20% ROTCE",
+  "employees": "~310,000",
+  "key_stat": "$18B tech budget | $288B CET1 capital | $3.3T credit/capital raised",
+  "summary": "JPMorgan Chase is the world's largest bank and undisputed technology leader in financial services. FY2025: record revenue $185.6B, net income $57B, 20% ROTCE. $18B technology budget ($2B on AI). Payments division hit record $5.1B quarterly revenue (Q4 2025). 65% workloads on cloud (80% including virtual servers). Chase is most-downloaded banking app. Operations efficiency: accounts per serviced ops headcount +25%, servicing calls per account -30%, processing costs -15% — flat expense growth over 5 years through automation. Kinexys blockchain platform processed $1.5T+ since 2020 but represents one piece of a massive technology-driven transformation.",
+  "business_segments": [
+    {
+      "name": "Consumer & Community Banking (CCB)",
+      "detail": "Chase retail: ~70M US households. Credit cards (record volume). Auto, home lending. Most downloaded banking app. Branch expansion.",
+      "priority": "core"
+    },
+    {
+      "name": "Commercial & Investment Bank (CIB)",
+      "detail": "#1 investment bank globally. Payments ($5.1B Q4 record, +13% YoY). Global Markets. Securities Services. Commercial Banking. Kinexys.",
+      "priority": "core"
+    },
+    {
+      "name": "Asset & Wealth Management (AWM)",
+      "detail": "$4T+ client assets. Private Bank. Alternatives platform. MONY tokenized MMF. Kinexys Fund Flow for PE.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "$2B annual AI spend. LLM Suite for 200K+ employees. COiN for document processing. AI fraud detection, credit underwriting, trading algorithms. Autonomous AI coding agents planned.",
+    "cloud": "65% workloads on cloud (80% including virtual servers). Modernisation spend peaked — shifting to products/platforms. Multi-cloud strategy.",
+    "data": "Massive real-time data infrastructure. Analytics for trading, risk, credit, and client insights across all businesses.",
+    "platforms": "Chase mobile/digital banking. Payments platform ($5.1B quarterly). Kinexys (blockchain). Merchant Services. Oracle partnership. 270 Park Avenue new HQ.",
+    "spend": "$18B annual technology budget ($2B AI, $1B incremental from 2024). Modernisation spend peaked."
+  },
+  "operating_model": "Operations efficiency: +25% accounts per serviced ops headcount, -30% servicing calls per account, -15% processing costs. Flat expense over 5 years through automation. Primarily builds internally given scale. $18B tech budget funding transformation. 270 Park Avenue HQ investment. Selective partnerships: Oracle (financial ops), Citco (fund admin).",
+  "people": [
+    {
+      "name": "Jamie Dimon",
+      "role": "CEO"
+    },
+    {
+      "name": "Umar Farooq",
+      "role": "Co-Head, JP Morgan Payments"
+    },
+    {
+      "name": "Tyrone Lobban",
+      "role": "Head of Kinexys Blockchain Launch & Digital Assets"
+    },
+    {
+      "name": "John Donohue",
+      "role": "Head of Global Liquidity, Asset Management"
+    },
+    {
+      "name": "Daniel Pinto",
+      "role": "President and COO"
+    }
+  ],
+  "partnerships": [
+    "Oracle (financial operations)",
+    "Citco (fund administration)",
+    "Coinbase (Base for JPMD)",
+    "Mastercard",
+    "ADNOC Group",
+    "Siemens",
+    "QNB"
+  ],
+  "opportunities": [
+    "Payments platform growth ($5.1B quarterly, record)",
+    "AI ops efficiency (already significant savings)",
+    "Private banking & alternatives ($4T+ client assets)",
+    "International Treasury Services expansion (UAE, Middle East)",
+    "Chase digital experience leadership",
+    "Cloud optimisation post-peak modernisation"
+  ],
+  "risks": [
+    "Credit cycle (3.6% card NCO rate)",
+    "Regulatory/political scrutiny (largest US bank)",
+    "$18B tech spend — must demonstrate returns",
+    "Competitive pressure in payments from fintechs",
+    "CEO succession (Dimon)",
+    "Geopolitical risks"
+  ],
+  "skills_gaps": [
+    "AI/ML researchers",
+    "Cloud optimisation engineers",
+    "Payments product managers",
+    "Quantitative trading technologists",
+    "Cybersecurity specialists"
+  ],
+  "partnership_opps": [
+    "Real-time payments infrastructure",
+    "AI credit underwriting",
+    "Treasury management automation",
+    "Merchant services technology",
+    "Alternative investments platform",
+    "Cloud-native banking services"
+  ],
+  "competitive_position": "World's largest bank by market cap. Record revenue 8 straight years. #1 investment bank. Largest payments business ($19B+ annual). Technology leader ($18B). Competing with everyone. Advantage: scale, technology, brand.",
+  "analyst_view": "Undisputed leader. Scale + technology + execution = competitive moat across all segments. Strongest: payments platform, technology investment, brand, balance sheet. Weakest: regulatory/political target, CEO succession uncertainty. Watch: payments growth, AI ROI, credit cycle.",
+  "evidence": [
+    {
+      "claim": "FY2025: $185.6B revenue (record 8th year), $57B net income, 20% ROTCE",
+      "source": "JPMorgan 4Q25 earnings press release (SEC)",
+      "date": "2026-01"
+    },
+    {
+      "claim": "Payments $5.1B quarterly revenue (Q4 2025, record), +13% YoY",
+      "source": "JP Morgan Payments Q4 2025 earnings highlights",
+      "date": "2026-01"
+    },
+    {
+      "claim": "$18B tech budget, 65% workloads on cloud, modernisation spend peaked",
+      "source": "Constellation Research analysis",
+      "date": "2025-01"
+    },
+    {
+      "claim": "Operations: +25% accounts/headcount, -30% servicing calls, -15% processing costs, flat 5yr expense",
+      "source": "Constellation Research",
+      "date": "2025"
+    }
+  ],
+  "questions": [
+    "When does Jamie Dimon succession happen?",
+    "Post-peak modernisation: where does incremental tech spend go?",
+    "Payments business margin trajectory?",
+    "How does JPMorgan view fintech competitive threat?",
+    "AI headcount impact across 310K employees?"
+  ],
+  "strategy_intensity_score": 5,
+  "business_maturity_score": 5,
+  "technology_maturity_score": 5
+}

@@ -1,0 +1,83 @@
+{
+  "company_name": "NatWest",
+  "company_type": "Retail / Commercial Bank",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK"
+  ],
+  "revenue": "~£14B annual",
+  "profit_metric": "~£4B annual profit",
+  "employees": "~60,000",
+  "key_stat": "19M customers | NatWest, RBS, Ulster Bank, Coutts brands",
+  "summary": "NatWest is a major UK bank serving 19M customers across NatWest, RBS, Ulster Bank, and Coutts brands. CEO Paul Thwaite. Government stake reducing. Strategy: digital-first banking, mortgage market growth, SME services, climate transition financing leadership, Coutts wealth growth. Technology: Cora AI chatbot, cloud migration, open banking APIs. UK Finance GBTD tokenized deposit pilot participant. Focus on UK domestic market with sustainability positioning.",
+  "business_segments": [
+    {
+      "name": "Retail Banking",
+      "detail": "19M customers. NatWest, RBS, Ulster Bank. Mortgages, savings, current accounts. Digital channels.",
+      "priority": "core"
+    },
+    {
+      "name": "Commercial & Institutional",
+      "detail": "SME, mid-market, large corporate. Lending, trade, treasury. NatWest Markets (trading, FX).",
+      "priority": "core"
+    },
+    {
+      "name": "Private Banking (Coutts)",
+      "detail": "UHNW/HNW clients. Wealth management. Exclusive banking. Growing segment.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "Cora AI chatbot. AI for fraud, credit decisioning, customer service.",
+    "cloud": "Cloud migration programme. Digital platform modernisation.",
+    "data": "Customer analytics. Credit risk modelling. ESG data.",
+    "platforms": "Mobile/internet banking. Open banking APIs. Cora AI.",
+    "spend": "Not publicly broken out."
+  },
+  "operating_model": "Post-government ownership (stake reducing). Digital-first strategy. Branch optimisation. Climate transition financing leader. Coutts wealth growth.",
+  "people": [
+    {
+      "name": "Paul Thwaite",
+      "role": "CEO"
+    },
+    {
+      "name": "Lee McNabb",
+      "role": "Payments and Digital Assets Lead"
+    }
+  ],
+  "partnerships": [
+    "UK Finance (GBTD)",
+    "Quant Network",
+    "EY",
+    "Linklaters"
+  ],
+  "opportunities": [
+    "Digital banking leadership",
+    "Climate transition financing",
+    "Coutts wealth growth",
+    "Open banking innovation",
+    "UK Finance GBTD outcomes"
+  ],
+  "risks": [
+    "UK economic cycle",
+    "Government stake wind-down",
+    "Challenger bank competition",
+    "Limited digital assets beyond consortium",
+    "Mortgage competition"
+  ],
+  "skills_gaps": [
+    "AI for automation",
+    "Climate risk modelling",
+    "Open banking engineering",
+    "Wealth technology",
+    "Blockchain/tokenization"
+  ],
+  "competitive_position": "Major UK bank. Strong retail (19M). Coutts = wealth differentiation. Government stake reducing. Competing: Lloyds, Barclays, HSBC UK, challengers.",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "natwest",
+  "strategy_intensity_score": 2,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3
+}

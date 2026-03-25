@@ -1,0 +1,95 @@
+{
+  "company_name": "BNP Paribas",
+  "company_type": "Global Universal Bank",
+  "headquarters": "Paris, France",
+  "key_regions": [
+    "France",
+    "Belgium",
+    "Italy",
+    "Europe",
+    "Global"
+  ],
+  "revenue": "~€46B annual",
+  "profit_metric": "~€11B annual profit",
+  "employees": "~190,000",
+  "key_stat": "Eurozone's largest bank by assets | AXA IM acquired",
+  "summary": "BNP Paribas is the Eurozone's largest bank, operating across retail (France, Belgium, Italy), CIB, investment solutions, and insurance. AssetFoundry tokenization platform tested on public Ethereum (Feb 2026). Canton Network member. Digital Asset $135M investment. AXA IM acquisition adds investment innovation. Eurosystem CBDC experiments. Strategy: European market leadership, MiCA positioning, sustainable finance, integrated group model (AM + Securities Services + CIB).",
+  "business_segments": [
+    {
+      "name": "Commercial & Personal Banking",
+      "detail": "Retail in France, Belgium, Italy. BNL, BNP Paribas Fortis. Digital transformation.",
+      "priority": "core"
+    },
+    {
+      "name": "CIB",
+      "detail": "Global markets, securities services, corporate banking. AssetFoundry platform. Canton Network member.",
+      "priority": "core"
+    },
+    {
+      "name": "Investment & Protection Services",
+      "detail": "BNP Paribas AM (incl. AXA IM). Insurance (Cardif). Real estate. Wealth management.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "AI for trading, risk, customer service. AXA IM innovation capability.",
+    "cloud": "Cloud transformation across group. Multi-country regulatory requirements.",
+    "data": "Risk analytics. Investment data. Client reporting.",
+    "platforms": "AssetFoundry (tokenization). Securities Services. Digital banking across European markets.",
+    "spend": "Significant across 190K employee organisation."
+  },
+  "operating_model": "Integrated group model (AM + Securities Services + CIB). AXA IM acquisition. MiCA positioning. Eurosystem CBDC experiments. Systematic experimentation: private + public blockchain.",
+  "people": [
+    {
+      "name": "Jean-Laurent Bonnafé",
+      "role": "CEO"
+    },
+    {
+      "name": "Edouard Legrand",
+      "role": "CDDO, Asset Management"
+    },
+    {
+      "name": "Julien Clausse",
+      "role": "Head of AssetFoundry, CIB"
+    },
+    {
+      "name": "Hubert de Lambilly",
+      "role": "Head of Global Markets"
+    }
+  ],
+  "partnerships": [
+    "Digital Asset (Canton, $135M investment)",
+    "Ethereum",
+    "Banque de France (CBDC)",
+    "AXA IM (acquired)"
+  ],
+  "opportunities": [
+    "European tokenization leadership (MiCA)",
+    "AXA IM integration/innovation",
+    "AssetFoundry scaling",
+    "Canton Network ecosystem",
+    "Sustainable finance (EU taxonomy)",
+    "Wealth growth"
+  ],
+  "risks": [
+    "Pilot-only stage (no production tokenized products)",
+    "European economic uncertainty",
+    "MiCA complexity",
+    "AXA IM integration",
+    "Behind US/UK peers"
+  ],
+  "skills_gaps": [
+    "Tokenization engineering",
+    "MiCA compliance",
+    "AI for asset management",
+    "Cross-border digital finance PMs"
+  ],
+  "competitive_position": "Eurozone's largest bank. Full-stack group model. AXA IM strengthens. Behind HSBC/JPM on digital. Competing: SocGen, Deutsche Bank, Credit Agricole (Europe).",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "bnp-paribas",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 5,
+  "technology_maturity_score": 4
+}

@@ -1,0 +1,84 @@
+{
+  "company_name": "UniCredit",
+  "company_type": "European Universal Bank",
+  "headquarters": "Milan, Italy",
+  "key_regions": [
+    "Italy",
+    "Germany",
+    "Austria",
+    "Central & Eastern Europe"
+  ],
+  "revenue": "~€23B annual",
+  "profit_metric": "~€9B annual profit (record)",
+  "employees": "~76,000",
+  "key_stat": "Strong CEE presence | Attempted Commerzbank acquisition | Record profitability under Orcel",
+  "summary": "[PARTIALLY VALIDATED] UniCredit is a leading European bank with strong Italy, Germany, Austria, and CEE positions. Record profitability under CEO Andrea Orcel. Attempted Commerzbank acquisition (blocked/uncertain due to political opposition). Digital asset activity limited to European experiments and Eurosystem CBDC. Strategy: operational efficiency, capital returns, geographic optimisation, digital banking, potential M&A. MiCA framework will shape future positioning.",
+  "business_segments": [
+    {
+      "name": "Italy",
+      "detail": "Retail and commercial banking. Leading Italian bank.",
+      "priority": "core"
+    },
+    {
+      "name": "Germany",
+      "detail": "HypoVereinsbank. Corporate and retail. Commerzbank acquisition attempted.",
+      "priority": "core"
+    },
+    {
+      "name": "Central & Eastern Europe",
+      "detail": "Strong franchise across growth markets.",
+      "priority": "growth"
+    },
+    {
+      "name": "CIB",
+      "detail": "Corporate and investment banking across European markets.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for credit risk, customer service, operational efficiency.",
+    "cloud": "Cloud transformation across European operations.",
+    "data": "Risk analytics. Customer data. Regulatory reporting.",
+    "platforms": "Digital banking across Italian, German, CEE markets.",
+    "spend": "Not publicly broken out."
+  },
+  "operating_model": "Record profitability under Orcel. Operational efficiency. Attempted Commerzbank M&A. Capital returns to shareholders. Cost discipline.",
+  "people": [
+    {
+      "name": "Andrea Orcel",
+      "role": "CEO"
+    }
+  ],
+  "partnerships": [
+    "ECB/Eurosystem (CBDC)"
+  ],
+  "opportunities": [
+    "CEE growth markets",
+    "Commerzbank M&A (if pursued)",
+    "MiCA digital framework",
+    "Operational efficiency gains",
+    "European banking consolidation"
+  ],
+  "risks": [
+    "Commerzbank bid uncertainty",
+    "European economic stagnation",
+    "Italian sovereign exposure",
+    "Limited digital strategy",
+    "Multi-jurisdiction regulatory complexity"
+  ],
+  "skills_gaps": [
+    "Digital assets/tokenization",
+    "AI at scale",
+    "Cloud engineering",
+    "MiCA compliance",
+    "Integration capability"
+  ],
+  "competitive_position": "Leading Italian bank. Strong CEE. Record profit. Commerzbank would be transformational. Behind on digital. Competing: Intesa Sanpaolo, Deutsche Bank, Erste (CEE).",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "unicredit",
+  "strategy_intensity_score": 2,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3
+}

@@ -1,0 +1,143 @@
+{
+  "company_name": "HSBC",
+  "slug": "hsbc",
+  "company_type": "Universal Bank",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "Hong Kong",
+    "UK",
+    "Asia-Pacific",
+    "Middle East",
+    "Europe"
+  ],
+  "revenue": "$68.3B (FY2025)",
+  "profit_metric": "17.2% RoTE ex-notables",
+  "employees": "~220,000",
+  "key_stat": "$3,054B total assets | $1.7T deposits | $2.1T wealth balances",
+  "summary": "HSBC is undergoing a major transformation under CEO Georges Elhedery, restructuring from 3 legacy segments into 4 focused businesses (Hong Kong, UK, CIB, IWPB) effective January 2025. FY2025 revenue of $68.3B (+4%). Wealth income surged 24% to $9.4B. Transaction banking processed $500tn in payments (130 currencies, ~$1bn/minute) and $900B in trade. Named #1 Trade Finance bank for 9th consecutive year and #1 Payments bank by Euromoney. Targeting 17%+ RoTE through 2028 and 5% revenue growth by 2028. Proposed Hang Seng Bank privatisation for operational leverage.",
+  "business_segments": [
+    {
+      "name": "Hong Kong",
+      "detail": "Personal + Commercial Banking. $15.9B revenue (+6% YoY). 25% market share. $540B+ deposits. Hang Seng privatisation proposed for alignment and cross-sell.",
+      "priority": "core"
+    },
+    {
+      "name": "UK",
+      "detail": "Personal Banking (first direct, M&S Bank), Commercial Banking, HSBC Innovation Bank. SME coverage focus. Mortgage market leadership.",
+      "priority": "core"
+    },
+    {
+      "name": "Corporate & Institutional Banking (CIB)",
+      "detail": "Transaction Banking ($500tn payments, #1 FX, #1 Trade Finance 9 yrs). Securities Services (+15% fee growth). Debt & Equity Markets. Global Payments Solutions.",
+      "priority": "growth"
+    },
+    {
+      "name": "Intl Wealth & Premier Banking (IWPB)",
+      "detail": "$14.5B revenue (+5%). Wealth fees $9.4B (+24%). $2.1T wealth balances (>$1T Asia). Hiring RMs globally. Insurance and Investment Distribution growth.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "100+ GenAI solutions. 85% employees with GenAI productivity tool. 31K engineers with AI coding assistant. Wealth AI for 1000+ RMs. Banker Assist CRM for 1,400 colleagues. AML AI with Google Cloud: 1B+ transactions/month, 2-4x detection improvement, 60% alert reduction.",
+    "cloud": "Cloud-optimised (moved past cloud-first). Hybrid: most apps on cloud, selective on-prem. Portability and resilience focus. CEO: 'already where we want to be.'",
+    "data": "Wealth AI for customer insights at scale. CRM augmentation. Fraud analytics. Credit risk models. Customer behavioural analytics.",
+    "platforms": "Digital Merchant Services (live HK, India, SG; 6 more markets 2026). Mobile banking apps. Contact centre transformation. Wealth management platform. Global Payments Solutions platform.",
+    "spend": "$1.5B cost savings on track. Major tech investment within operating expense growth."
+  },
+  "operating_model": "Four-business reorganisation (Jan 2025). $1.5B cost savings programme. Organisation simplification with restructuring charges. Potential 10% service centre workforce reduction over 3-5 years via AI. Digital Merchant Services scaling. Branch network optimisation across markets.",
+  "people": [
+    {
+      "name": "Georges Elhedery",
+      "role": "Group CEO (since Sept 2024)"
+    },
+    {
+      "name": "Pam Kaur",
+      "role": "Group CFO"
+    },
+    {
+      "name": "John O'Neill",
+      "role": "Group Head of Digital Assets & Currencies"
+    },
+    {
+      "name": "Lewis Sun",
+      "role": "Global Head of Domestic & Emerging Payments, GPS"
+    }
+  ],
+  "partnerships": [
+    "Google Cloud (AML AI)",
+    "Ant International",
+    "HKMA",
+    "UK Treasury",
+    "Canton Network",
+    "BlackRock",
+    "Franklin Templeton"
+  ],
+  "opportunities": [
+    "Wealth expansion in Asia ($2.1T, +24% fees)",
+    "Digital Merchant Services: 6 new markets 2026",
+    "AI-driven ops efficiency at scale (100+ GenAI)",
+    "Transaction banking digitisation ($500tn payments)",
+    "Hang Seng privatisation synergies",
+    "Contact centre AI transformation",
+    "Sustainable finance ($54.1B deployed H1 2025)"
+  ],
+  "risks": [
+    "Geopolitical uncertainty (China/HK)",
+    "AI workforce transformation execution",
+    "$1.5B savings target delivery",
+    "Revenue growth (5% by 2028) amid macro uncertainty",
+    "ECL risk in China CRE",
+    "Regulatory complexity: 58 countries"
+  ],
+  "skills_gaps": [
+    "AI/ML at scale",
+    "GenAI governance",
+    "Cloud optimisation",
+    "Wealth tech specialists",
+    "Digital merchant product managers",
+    "Regulatory tech across jurisdictions"
+  ],
+  "partnership_opps": [
+    "AI compliance/RegTech",
+    "Wealth management platforms",
+    "Digital identity/KYC",
+    "Cross-border payments innovation",
+    "ESG data analytics",
+    "Contact centre AI",
+    "Merchant acquiring tech"
+  ],
+  "competitive_position": "Top 5 global bank. #1 Trade Finance (9 years). #1 FX. Leading Asian wealth manager. Strong HK franchise (25% share). Competing: JPMorgan/Citi (transaction banking), UBS/Morgan Stanley (wealth), StanChart (Asia).",
+  "analyst_view": "Aggressive transformer. Comprehensive restructuring + AI at scale + wealth growth engine. Strongest: Asia franchise, transaction banking dominance, AI deployment scale. Weakest: execution risk across 58 markets, geopolitical exposure. Watch: AI workforce impact, Merchant Services expansion, wealth AUM growth.",
+  "evidence": [
+    {
+      "claim": "FY2025 revenue $68.3B (+4%), wealth fees $9.4B (+24%), $500tn payments processed",
+      "source": "HSBC Annual Results 2025 media release",
+      "date": "2026-02-25"
+    },
+    {
+      "claim": "100+ GenAI solutions, 85% employees enabled, 31K engineers with AI coding assistant",
+      "source": "HSBC Fixed Income Investor Presentation 2025",
+      "date": "2026-02-25"
+    },
+    {
+      "claim": "AML AI with Google Cloud processes 1B+ transactions monthly, 2-4x detection improvement",
+      "source": "Industry analysis (whitehat-seo, Klover.ai)",
+      "date": "2025"
+    },
+    {
+      "claim": "#1 Trade Finance (9th year), #1 Payments bank by Euromoney survey of 30,000 customers",
+      "source": "HSBC Annual Results 2025",
+      "date": "2026-02-25"
+    }
+  ],
+  "questions": [
+    "How will 3-5 year AI workforce reduction unfold?",
+    "Cloud vendor strategy across regions?",
+    "Sustainable finance technology stack?",
+    "Hang Seng privatisation CET1 impact?",
+    "Digital Merchant Services competitive differentiation?"
+  ],
+  "strategy_intensity_score": 5,
+  "business_maturity_score": 5,
+  "technology_maturity_score": 5
+}

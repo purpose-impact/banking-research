@@ -1,0 +1,92 @@
+{
+  "company_name": "Morgan Stanley",
+  "company_type": "Investment Bank / Wealth Manager",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "revenue": "$61.8B (FY2025)",
+  "profit_metric": "Strong",
+  "employees": "~80,000",
+  "key_stat": "$8.2T wealth platform | 19M clients (E*Trade) | $1.9T AUM",
+  "summary": "Morgan Stanley is a leading wealth manager ($8.2T client assets) and investment bank. E*Trade integration completed. FY2025: strong IB performance. Digital assets shift from cautious to aggressive within 12 months: Amy Oldenburg appointed Head of Digital Asset Strategy (Jan 2026), all-client crypto ETF access, E*Trade crypto trading via Zerohash (H1 2026), OCC trust charter application. Broader strategy: wealth management growth, E*Trade scaling, institutional securities, Parametric custom indexing, alternatives.",
+  "business_segments": [
+    {
+      "name": "Institutional Securities",
+      "detail": "Investment banking, sales & trading (equities, FICC). $18.6B trading revenue (2025). Strong M&A advisory.",
+      "priority": "core"
+    },
+    {
+      "name": "Wealth Management",
+      "detail": "$8.2T client assets. 19M clients (E*Trade). Financial advisors. All-client crypto access. 0-4% crypto allocation models.",
+      "priority": "growth"
+    },
+    {
+      "name": "Investment Management",
+      "detail": "Active/passive strategies. Alternatives. Parametric custom indexing. Eaton Vance capabilities.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for investment research, portfolio analytics, wealth personalisation, risk modelling. GenAI for advisor productivity.",
+    "cloud": "Cloud for trading/wealth platforms. E*Trade modernisation.",
+    "data": "Investment analytics. Client portfolio data. Research data platforms.",
+    "platforms": "E*Trade (19M clients). Wealth advisory platform. Institutional trading systems. Crypto wallet (planned).",
+    "spend": "Not publicly broken out. Significant E*Trade integration investment."
+  },
+  "operating_model": "E*Trade integration completed. Wealth platform consolidation. Zerohash partnership ($104M investment) for crypto. OCC trust charter for future custody. Shift from cautious to aggressive on digital within 12 months.",
+  "people": [
+    {
+      "name": "Ted Pick",
+      "role": "CEO"
+    },
+    {
+      "name": "Amy Oldenburg",
+      "role": "Head of Digital Asset Strategy (Jan 2026)"
+    },
+    {
+      "name": "Jed Finn",
+      "role": "Head of Wealth Management"
+    },
+    {
+      "name": "Dan Simkowitz",
+      "role": "Co-President"
+    }
+  ],
+  "partnerships": [
+    "Zerohash (crypto infrastructure)",
+    "BlackRock (IBIT distribution)",
+    "Parametric (custom indexing)"
+  ],
+  "opportunities": [
+    "Wealth platform monetisation ($8.2T)",
+    "E*Trade crypto trading (19M clients)",
+    "OCC trust charter for custody",
+    "Proprietary crypto wallet",
+    "Advisor-led crypto allocation",
+    "Alternatives growth"
+  ],
+  "risks": [
+    "OCC charter pending",
+    "Zerohash dependency",
+    "Market volatility",
+    "Wealth competition (UBS, JPMorgan)",
+    "E*Trade crypto execution"
+  ],
+  "skills_gaps": [
+    "Digital asset PMs",
+    "Crypto custody engineering",
+    "Wallet development",
+    "Wealth tech engineers",
+    "AI for advisor tools"
+  ],
+  "competitive_position": "Largest wealth manager by client assets ($8.2T). Top 3 IB. E*Trade retail distribution. Competing: UBS (wealth), JPMorgan (IB), Schwab/Fidelity (retail).",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "morgan-stanley",
+  "strategy_intensity_score": 4,
+  "business_maturity_score": 5,
+  "technology_maturity_score": 4
+}

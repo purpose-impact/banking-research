@@ -1,0 +1,90 @@
+{
+  "company_name": "Lloyds Banking Group",
+  "company_type": "Retail / Commercial Bank",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK"
+  ],
+  "revenue": "~£17B annual",
+  "profit_metric": "~£5.5B annual profit",
+  "employees": "~60,000",
+  "key_stat": "27M customers | UK's largest retail bank | Brands: Lloyds, Halifax, BoS, Scottish Widows",
+  "summary": "Lloyds is the UK's largest retail and commercial bank with 27M customers across Lloyds, Halifax, Bank of Scotland, and Scottish Widows brands. CEO Charlie Nunn envisions tokenized deposits + AI transforming mortgage processing from weeks to days. Completed UK's first public blockchain tokenized deposit transaction (Canton Network, Jan 2026). Participating in UK Finance GBTD pilot (6 banks). Tesco Bank retail banking acquired (Nov 2024). Strategy: digital banking transformation, insurance & wealth growth, SME lending, sustainable finance. Significant mobile/digital investment.",
+  "business_segments": [
+    {
+      "name": "Retail Banking",
+      "detail": "27M customers. Mortgages (UK leader), current accounts, savings, personal loans. Digital channels. Tesco Bank integration.",
+      "priority": "core"
+    },
+    {
+      "name": "Commercial Banking",
+      "detail": "SME and mid-market lending. Trade finance. Working capital. Business accounts.",
+      "priority": "core"
+    },
+    {
+      "name": "Insurance & Wealth",
+      "detail": "Scottish Widows (pensions, insurance, investments). Wealth management. Protection products.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "AI for fraud prevention, customer service, credit decisioning. Mortgage process automation vision (tokenization + AI).",
+    "cloud": "Cloud migration for core banking. Digital channel modernisation.",
+    "data": "Customer analytics. Credit risk modelling. Fraud detection data.",
+    "platforms": "Mobile banking (Lloyds, Halifax). Internet banking. Open banking APIs.",
+    "spend": "Significant digital transformation investment."
+  },
+  "operating_model": "Digital banking transformation. Branch optimisation. Tesco Bank integration ('best of both' approach). Cost efficiency. CEO vision: tokenized deposits + AI cutting mortgage from weeks to days.",
+  "people": [
+    {
+      "name": "Charlie Nunn",
+      "role": "CEO"
+    },
+    {
+      "name": "Surath Sengupta",
+      "role": "Head of Transaction Banking Products"
+    },
+    {
+      "name": "Peter Left",
+      "role": "Head of Digital Finance"
+    }
+  ],
+  "partnerships": [
+    "Archax",
+    "Canton Network",
+    "Hedera Hashgraph",
+    "Aberdeen Investments",
+    "UK Finance consortium",
+    "Quant Network"
+  ],
+  "opportunities": [
+    "Mortgage transformation via tokenization + AI",
+    "Scottish Widows wealth growth",
+    "Digital banking leadership",
+    "Tesco Bank integration synergies",
+    "UK Finance GBTD outcomes",
+    "Open banking innovation"
+  ],
+  "risks": [
+    "UK economic cycle (mortgage book)",
+    "Challenger bank competition (Monzo, Starling, Revolut)",
+    "Technology vendor dependency",
+    "Branch network costs during transition",
+    "Tokenized deposit rollout execution (H1 2027)"
+  ],
+  "skills_gaps": [
+    "Blockchain engineering",
+    "AI for mortgage automation",
+    "Digital banking UX",
+    "Open banking APIs",
+    "Tokenization product management"
+  ],
+  "competitive_position": "UK's largest retail bank (27M customers). Mortgage leader. Leading UK banks in tokenization. Competing: Barclays, NatWest, HSBC UK, challengers (Monzo, Starling, Revolut).",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "lloyds-banking-group",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 4,
+  "technology_maturity_score": 3
+}

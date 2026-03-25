@@ -1,0 +1,69 @@
+{
+  "company_name": "Citizens Financial Group",
+  "company_type": "Regional Bank",
+  "headquarters": "Providence, USA",
+  "key_regions": [
+    "USA (Northeast, Mid-Atlantic, Midwest)"
+  ],
+  "revenue": "~$8B annual",
+  "profit_metric": "~$1.5B annual profit",
+  "employees": "~17,000",
+  "key_stat": "Top 15 US bank (~$220B assets) | Growing private banking",
+  "summary": "[PLACEHOLDER — Limited public data] Citizens is a large US regional bank focused on consumer and commercial banking. Growing from regional to super-regional. Private banking expansion. Capital markets fee diversification. Digital banking investment. No visible digital asset strategy. Post-GENIUS Act positioning unclear. Technology investment in mobile/digital channels and operational efficiency.",
+  "business_segments": [
+    {
+      "name": "Consumer Banking",
+      "detail": "Retail deposits, mortgages, auto, education lending, cards. Digital channels.",
+      "priority": "core"
+    },
+    {
+      "name": "Commercial Banking",
+      "detail": "Middle market, treasury management, capital markets, trade, leasing.",
+      "priority": "core"
+    },
+    {
+      "name": "Private Banking / Wealth",
+      "detail": "Emerging franchise. Growing segment.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "[Limited data] AI for credit, fraud, customer service.",
+    "cloud": "[Limited data] Cloud modernisation for digital banking.",
+    "data": "Customer analytics. Credit risk.",
+    "platforms": "Mobile/internet banking. Digital account opening.",
+    "spend": "Not publicly broken out."
+  },
+  "operating_model": "Fee income diversification. Private banking growth. Capital markets expansion. Cost efficiency. Digital banking investment.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Private banking growth",
+    "Capital markets diversification",
+    "Digital banking modernisation",
+    "SME banking technology",
+    "Post-GENIUS stablecoin positioning"
+  ],
+  "risks": [
+    "Regional concentration risk",
+    "Rate sensitivity",
+    "Competition from JPMorgan/BofA",
+    "No digital asset strategy",
+    "Technology scale vs larger peers"
+  ],
+  "skills_gaps": [
+    "Digital assets awareness",
+    "AI/ML engineering",
+    "Cloud-native development",
+    "Wealth technology",
+    "Digital banking UX"
+  ],
+  "competitive_position": "Top 15 US bank. Growing super-regional. Private banking expansion. Behind on digital assets. Competing: PNC, Truist, US Bancorp, KeyBank.",
+  "partnership_opps": [],
+  "evidence": [],
+  "questions": [],
+  "slug": "citizens",
+  "strategy_intensity_score": 1,
+  "business_maturity_score": 3,
+  "technology_maturity_score": 3
+}
