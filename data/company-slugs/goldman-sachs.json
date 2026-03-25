@@ -1,0 +1,38 @@
+{
+  "company_name": "Goldman Sachs",
+  "company_type": "Global Investment Bank",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Europe",
+    "Global"
+  ],
+  "financials": {
+    "revenue": "$15.18B Q3 2025",
+    "profit": "$4.1B Q3 2025",
+    "employees": "~46,000",
+    "key_metric": "$1.8T wealth management client assets, $355B alt AUS"
+  },
+  "overall_strategy_summary": "Goldman Sachs is executing a strategy focused on Global Banking & Markets and Asset & Wealth Management, having retreated from consumer banking (Marcus). Key digital: GS DAP tokenization platform (planned mid-2026 spinout), BNY MMF tokenization, Canton Network, active crypto trading desk. Technology: Banker Copilot, Research Assistant, Developer Copilot for 12K engineers (15% bug reduction), hundreds of autonomous AI coding agents planned. $1.8T wealth assets. Mathew McDermott leads digital assets. Strategic investments in Digital Asset, Tradeweb partnership.",
+  "strategy_intensity_score": 4,
+  "business_maturity_score": 5,
+  "technology_maturity_score": 5,
+  "slug": "goldman-sachs",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [],
+    "workforce_signals": ""
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [],
+  "analyst_judgment": {},
+  "evidence": [],
+  "last_updated": "2026-03-25",
+  "version": "1.0"
+}

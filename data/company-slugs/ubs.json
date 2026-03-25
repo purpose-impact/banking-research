@@ -1,0 +1,39 @@
+{
+  "company_name": "UBS",
+  "company_type": "Global Wealth Manager / Universal Bank",
+  "headquarters": "Zurich, Switzerland",
+  "key_regions": [
+    "Switzerland",
+    "Global",
+    "Singapore",
+    "Hong Kong"
+  ],
+  "financials": {
+    "revenue": "~$46B annual",
+    "profit": "53% profit increase FY2025",
+    "employees": "~115,000",
+    "key_metric": "$5.7T AUM. World's largest wealth manager."
+  },
+  "overall_strategy_summary": "UBS is the world's largest wealth manager ($5.7T AUM) executing post-Credit Suisse integration while building digital asset capabilities. CEO Ermotti describes firm as 'fast follower' in tokenization with 3-5 year rollout. Key digital: UBS Tokenize platform (bonds, funds, structured products), uMINT tokenized MMF on Ethereum, key4 gold (blockchain), Chainlink live transaction (Nov 2025). Broader: wealth management dominance, investment banking, Credit Suisse integration, Swiss banking leadership. Fnality Payment System participant.",
+  "strategy_intensity_score": 3,
+  "business_maturity_score": 5,
+  "technology_maturity_score": 4,
+  "slug": "ubs",
+  "business_segments": [],
+  "technology_strategy": {},
+  "operating_model": {},
+  "people": {
+    "key_leaders": [],
+    "workforce_signals": ""
+  },
+  "partnerships_and_ecosystem": [],
+  "opportunities": [],
+  "risks": [],
+  "skills_gaps": [],
+  "product_partnership_opportunities": [],
+  "open_questions": [],
+  "analyst_judgment": {},
+  "evidence": [],
+  "last_updated": "2026-03-25",
+  "version": "1.0"
+}
