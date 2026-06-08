@@ -40,7 +40,7 @@ export default async function handler(req, res) {
     ]
   );
 
-  const authUrl = new URL("https://twitter.com/i/oauth2/authorize");
+  const authUrl = new URL("https://x.com/i/oauth2/authorize");
   authUrl.searchParams.set("response_type", "code");
   authUrl.searchParams.set("client_id", clientId);
   authUrl.searchParams.set("redirect_uri", redirectUri);
