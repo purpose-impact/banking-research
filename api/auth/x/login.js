@@ -49,11 +49,13 @@ export default async function handler(req, res) {
   authUrl.searchParams.set("code_challenge", codeChallenge);
   authUrl.searchParams.set("code_challenge_method", "S256");
 
+  /*
   return res.status(200).json({
   authUrl: authUrl.toString(),
   redirectUri: process.env.X_REDIRECT_URI,
   hasClientId: !!process.env.X_CLIENT_ID,
 });
+*/
   
 
   return res.redirect(authUrl.toString());
