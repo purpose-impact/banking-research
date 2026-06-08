@@ -29,7 +29,6 @@ export default async function handler(req, res) {
   const scope = [
     "tweet.read",
     "users.read",
-    "bookmark.read",
     "offline.access"
   ].join(" ");
 
