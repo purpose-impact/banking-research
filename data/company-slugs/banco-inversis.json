@@ -1,0 +1,72 @@
+{
+  "company_name": "Banco Inversis",
+  "slug": "banco-inversis",
+  "category": "Growth",
+  "company_type": "Custodian / Securities Services",
+  "headquarters": "Madrid, Spain",
+  "key_regions": [
+    "Spain",
+    "Europe"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~500",
+  "key_stat": "Subsidiary of Banca March | Securities services | Fund platform",
+  "summary": "Banco Inversis is a Spanish securities services bank, subsidiary of Banca March. Provides custody, fund distribution, securities clearing and settlement, and technology platforms for financial institutions. Key player in Spanish fund distribution market. Serves banks, wealth managers, and insurance companies as an infrastructure provider. Technology-intensive business model: platforms for fund distribution, custody, and post-trade services.",
+  "business_segments": [
+    {
+      "name": "Custody & Securities Services",
+      "detail": "Custody, clearing, settlement for Spanish market. Post-trade infrastructure.",
+      "priority": "core"
+    },
+    {
+      "name": "Fund Distribution Platform",
+      "detail": "Platform for distributing investment funds to banks and wealth managers across Spain.",
+      "priority": "core"
+    },
+    {
+      "name": "Technology & Operations",
+      "detail": "BPO services for financial institutions. Technology platform for fund lifecycle.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "Limited public data. Likely exploring automation for operations.",
+    "cloud": "Platform modernisation likely in progress.",
+    "data": "Fund data, custody data, transaction reporting.",
+    "platforms": "Fund distribution platform. Custody systems. Post-trade processing.",
+    "spend": "Moderate — subsidiary of Banca March."
+  },
+  "operating_model": "Subsidiary of Banca March. Infrastructure provider to Spanish financial institutions. Platform-based model.",
+  "people": [],
+  "partnerships": [
+    "Banca March (parent)",
+    "Allfunds (competitor/partner)"
+  ],
+  "opportunities": [
+    "Platform modernisation consulting",
+    "Fund distribution technology",
+    "Post-trade automation",
+    "MiFID II/III compliance technology",
+    "Digital fund distribution"
+  ],
+  "risks": [
+    "Small market (Spain-focused)",
+    "Parent company dependency",
+    "Competition from Allfunds"
+  ],
+  "skills_gaps": [
+    "Platform modernisation",
+    "API development",
+    "Cloud migration",
+    "Regulatory reporting"
+  ],
+  "coforge_angle": "Growth. Coforge can support platform modernisation, fund distribution technology, post-trade automation, and regulatory compliance for this infrastructure-focused firm.",
+  "evidence": [],
+  "questions": [
+    "Current technology platform age and stack?",
+    "Modernisation plans?",
+    "Coforge existing relationship scope?"
+  ],
+  "owner": "Kumar"
+}

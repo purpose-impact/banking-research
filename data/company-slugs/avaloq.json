@@ -1,0 +1,47 @@
+{
+  "slug": "avaloq",
+  "company_name": "Avaloq",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "Wealth Management Software",
+  "headquarters": "Zurich, Switzerland",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~2,500",
+  "key_stat": "NEC subsidiary | Wealth management platform | 160+ banks",
+  "summary": "Avaloq: wealth management and banking software. 160+ bank/wealth clients. Acquired by NEC (2020). Products: core banking, wealth management, BPaaS. Key competitor to Temenos WealthSuite, ERI Bancaire.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Avaloq: wealth management and banking software. 160+ bank/wealth clients. Acquired by NEC (2020). Products: core banking, wealth management, BPaaS. Key competitor to Temenos WealthSuite, ERI Bancaire.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Wealth management software. Implementation partner opportunity for bank/wealth clients. 160+ clients."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). Wealth management software. Implementation partner opportunity for bank/wealth clients. 160+ clients.",
+  "evidence": [],
+  "questions": []
+}

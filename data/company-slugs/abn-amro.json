@@ -1,0 +1,72 @@
+{
+  "company_name": "ABN AMRO",
+  "slug": "abn-amro",
+  "company_type": "Dutch Bank",
+  "headquarters": "Amsterdam, Netherlands",
+  "key_regions": [
+    "Netherlands",
+    "Europe"
+  ],
+  "revenue": "~€8B annual",
+  "profit_metric": "~€2.5B annual",
+  "employees": "~21,000",
+  "key_stat": "Dutch retail + wealth + commercial | €286B total assets | Government stake reducing",
+  "summary": "ABN AMRO is a major Dutch bank focused on personal & business banking, wealth management, and corporate banking. Government stake reducing (from 2008 rescue). Strong sustainable finance positioning. Digital banking transformation. Key themes: wealth management growth, sustainability, digital channels, operational efficiency.",
+  "business_segments": [
+    {
+      "name": "Personal & Business Banking",
+      "detail": "Dutch retail and SME. Digital channels. Mortgage market.",
+      "priority": "core"
+    },
+    {
+      "name": "Wealth Management",
+      "detail": "Private banking Netherlands, Belgium, Germany. Growing segment.",
+      "priority": "growth"
+    },
+    {
+      "name": "Corporate Banking",
+      "detail": "Dutch corporate. Clearing (ABN AMRO Clearing). Trade finance.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for credit risk, customer service, AML.",
+    "cloud": "Cloud migration programme.",
+    "data": "Customer analytics. Risk data. ESG data.",
+    "platforms": "Digital banking. ABN AMRO Clearing platform.",
+    "spend": "Moderate."
+  },
+  "operating_model": "Government stake reducing. Efficiency focus. Sustainable finance leadership. Digital-first strategy.",
+  "people": [
+    {
+      "name": "Robert Swaak",
+      "role": "CEO"
+    }
+  ],
+  "partnerships": [],
+  "opportunities": [
+    "Digital banking platform engineering",
+    "Wealth management technology",
+    "Clearing technology (ABN AMRO Clearing)",
+    "AML/compliance",
+    "Cloud migration",
+    "Sustainable finance data"
+  ],
+  "risks": [
+    "Government stake wind-down",
+    "Netherlands-focused",
+    "Competition from ING, Rabobank"
+  ],
+  "skills_gaps": [
+    "Cloud-native development",
+    "AI/ML",
+    "Wealth technology",
+    "Clearing technology",
+    "ESG data"
+  ],
+  "coforge_angle": "NN TAL. 21K employees. Digital transformation, wealth technology, clearing platform, and AML/compliance needs. Accessible Dutch market.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

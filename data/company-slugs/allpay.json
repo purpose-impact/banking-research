@@ -1,0 +1,47 @@
+{
+  "slug": "allpay",
+  "company_name": "Allpay",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "Payment Services",
+  "headquarters": "Hereford, UK",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~300",
+  "key_stat": "UK payment services | Housing, local authority payments | Prepaid cards",
+  "summary": "Allpay: UK specialist payment services for social housing, local authorities, and charities. Prepaid cards, payment collection. Technology needs: payment platform, digital channels.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Allpay: UK specialist payment services for social housing, local authorities, and charities. Prepaid cards, payment collection. Technology needs: payment platform, digital channels.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "UK payment specialist. Payment platform engineering and digital channels."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). UK payment specialist. Payment platform engineering and digital channels.",
+  "evidence": [],
+  "questions": []
+}

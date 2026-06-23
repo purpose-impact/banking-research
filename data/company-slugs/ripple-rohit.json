@@ -1,0 +1,47 @@
+{
+  "slug": "ripple-rohit",
+  "company_name": "Ripple",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "Blockchain / Payments",
+  "headquarters": "San Francisco, USA",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~900",
+  "key_stat": "XRP | RLUSD stablecoin | Metaco custody | Cross-border payments",
+  "summary": "Ripple: blockchain payments company. XRP Ledger. RLUSD stablecoin. Acquired Metaco (custody), Standard Custody. Ripple Payments (formerly ODL) for cross-border. NYDFS licensed. SEC settlement.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Ripple: blockchain payments company. XRP Ledger. RLUSD stablecoin. Acquired Metaco (custody), Standard Custody. Ripple Payments (formerly ODL) for cross-border. NYDFS licensed. SEC settlement.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Blockchain payments + custody. Engineering for RLUSD, Metaco platform, and cross-border payments."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). Blockchain payments + custody. Engineering for RLUSD, Metaco platform, and cross-border payments.",
+  "evidence": [],
+  "questions": []
+}

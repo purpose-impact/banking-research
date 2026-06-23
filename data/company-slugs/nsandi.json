@@ -1,0 +1,57 @@
+{
+  "slug": "nsandi",
+  "company_name": "NS&I",
+  "owner": "Boaz",
+  "category": "MHA",
+  "company_type": "Government Savings",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK"
+  ],
+  "revenue": "N/A (government)",
+  "profit_metric": "N/A",
+  "employees": "~130 + Atos contract",
+  "key_stat": "UK government savings bank | ~£230B deposits | Premium Bonds | Atos managed service",
+  "summary": "National Savings & Investments (NS&I) is HM Treasury's savings bank. ~£230B deposits from 25M+ customers. Products: Premium Bonds, Income Bonds, Green Savings Bonds. Technology managed by Atos under long-term contract. Major IT transformation needed. Service issues in recent years. Green finance products growing.",
+  "business_segments": [
+    {
+      "name": "Savings Products",
+      "detail": "Premium Bonds, ISAs, Income Bonds, Green Savings Bonds. 25M+ customers. ~£230B.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "Limited. Customer service improvements needed.",
+    "cloud": "Legacy infrastructure. Atos managed.",
+    "data": "Customer data. Savings data. ERNIE (Premium Bonds draw).",
+    "platforms": "Customer portal. Atos-managed operations.",
+    "spend": "Atos contract (multi-hundred million)."
+  },
+  "operating_model": "HM Treasury backed. Atos managed service contract. Service issues drove customer complaints. Green Savings Bonds new product.",
+  "people": [],
+  "partnerships": [
+    "Atos (managed service)",
+    "HM Treasury"
+  ],
+  "opportunities": [
+    "Platform modernisation",
+    "Customer experience improvement",
+    "Green finance technology",
+    "Digital transformation",
+    "Testing and quality assurance"
+  ],
+  "risks": [
+    "Atos contract may limit direct access",
+    "Government procurement",
+    "Long decision cycles"
+  ],
+  "skills_gaps": [
+    "Digital banking UX",
+    "Cloud migration",
+    "Testing/QA",
+    "Customer service technology"
+  ],
+  "coforge_angle": "MHA (Boaz). NS&I = £230B deposits, 25M customers. Atos managed service creates subcontracting opportunities. Platform modernisation and testing are key needs.",
+  "evidence": [],
+  "questions": []
+}

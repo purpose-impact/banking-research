@@ -1,0 +1,74 @@
+{
+  "company_name": "Raiffeisen Bank",
+  "slug": "raiffeisen",
+  "company_type": "European Bank",
+  "headquarters": "Vienna, Austria",
+  "key_regions": [
+    "Austria",
+    "Central/Eastern Europe"
+  ],
+  "revenue": "~€8B annual",
+  "profit_metric": "Strong CEE earnings",
+  "employees": "~45,000",
+  "key_stat": "Major CEE franchise | Russia exposure | Digital banking | RBRO",
+  "summary": "Raiffeisen Bank International (RBI) is a major European bank with strong Central/Eastern European franchise across 13 markets. Significant Russia exposure (ongoing debate about exit). Digital banking: George platform (shared with Erste). Technology needs: core banking modernisation, digital channels, risk management, AML/compliance, payments.",
+  "business_segments": [
+    {
+      "name": "Retail Banking (CEE)",
+      "detail": "13 CEE markets. Digital banking (George). Consumer lending, deposits.",
+      "priority": "core"
+    },
+    {
+      "name": "Corporate Banking",
+      "detail": "Corporate lending, trade finance, transaction banking across CEE.",
+      "priority": "core"
+    },
+    {
+      "name": "Markets",
+      "detail": "FX, rates, credit trading in CEE markets.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for credit risk, fraud, AML.",
+    "cloud": "George platform. Cloud migration.",
+    "data": "Customer analytics. Credit risk. AML data.",
+    "platforms": "George (digital banking, shared with Erste). Core banking systems.",
+    "spend": "Moderate."
+  },
+  "operating_model": "CEE franchise across 13 markets. Russia exit debate. George digital platform with Erste.",
+  "people": [
+    {
+      "name": "Johann Strobl",
+      "role": "CEO"
+    }
+  ],
+  "partnerships": [
+    "Erste (George platform)"
+  ],
+  "opportunities": [
+    "Core banking modernisation (CEE)",
+    "George platform engineering",
+    "AML/compliance technology",
+    "Payments modernisation",
+    "Risk management systems",
+    "Russia exit technology (migration, separation)"
+  ],
+  "risks": [
+    "Russia exposure uncertainty",
+    "CEE economic volatility",
+    "Geopolitical risk"
+  ],
+  "skills_gaps": [
+    "Core banking engineering",
+    "AML/compliance tech",
+    "Digital banking",
+    "Payments",
+    "Risk systems"
+  ],
+  "coforge_angle": "NN TAL. 45K employees, 13 CEE markets. Core banking modernisation, AML/compliance, and digital banking needs. Russia exit may create separation technology work.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

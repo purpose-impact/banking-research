@@ -1,0 +1,48 @@
+{
+  "slug": "lgim",
+  "company_name": "Legal & General Investment Management",
+  "owner": "Boaz",
+  "category": "Growth",
+  "company_type": "Asset Manager",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~2,500",
+  "key_stat": "$1.3T+ AUM | UK's largest AM | Pensions, index, multi-asset",
+  "summary": "LGIM is the UK's largest asset manager ($1.3T+ AUM), part of Legal & General Group. Dominant in UK pensions, index, and liability-driven investment. Growing in active, multi-asset, and real assets. Technology: investment platforms, data analytics, ESG integration.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "LGIM is the UK's largest asset manager ($1.3T+ AUM), part of Legal & General Group. Dominant in UK pensions, index, and liability-driven investment. G",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "[See summary]",
+    "cloud": "Cloud-based platforms.",
+    "data": "Investment/business data.",
+    "platforms": "Core platforms.",
+    "spend": "Moderate."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "$1.3T AUM. Platform engineering, data analytics, ESG technology, and pensions administration technology."
+  ],
+  "risks": [
+    "Limited public detail for some areas"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Data analytics",
+    "Cloud migration"
+  ],
+  "coforge_angle": "Growth (Boaz). $1.3T AUM. Platform engineering, data analytics, ESG technology, and pensions administration technology.",
+  "evidence": [],
+  "questions": []
+}

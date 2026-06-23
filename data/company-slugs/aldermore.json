@@ -1,0 +1,47 @@
+{
+  "slug": "aldermore",
+  "company_name": "Aldermore Bank",
+  "owner": "Rohit",
+  "category": "Growth",
+  "company_type": "Specialist Lender",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~1,200",
+  "key_stat": "Specialist lender | FirstRand subsidiary | SME, property, savings",
+  "summary": "Aldermore Bank: specialist lender (SME, property, motor, savings). Subsidiary of FirstRand (South Africa). Digital-first challenger bank model. Core banking and lending platform technology.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Aldermore Bank: specialist lender (SME, property, motor, savings). Subsidiary of FirstRand (South Africa). Digital-first challenger bank model. Core banking and lending platform technology.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud migration.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Moderate."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Specialist lender. Lending platform, digital banking, and credit technology."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Digital banking"
+  ],
+  "coforge_angle": "Growth (Rohit). Specialist lender. Lending platform, digital banking, and credit technology.",
+  "evidence": [],
+  "questions": []
+}

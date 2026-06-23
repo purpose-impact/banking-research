@@ -1,0 +1,75 @@
+{
+  "company_name": "Equiniti (EQ)",
+  "slug": "equiniti",
+  "company_type": "Share Registration / Payment Services",
+  "headquarters": "Worthing, UK",
+  "key_regions": [
+    "UK",
+    "USA"
+  ],
+  "revenue": "~£700M annual",
+  "profit_metric": "Private (Siris Capital)",
+  "employees": "~6,000",
+  "key_stat": "UK's largest share registrar | Paymaster services | EQ Boardroom",
+  "summary": "Equiniti (now EQ) is the UK's largest share registrar, managing shareholder records for ~50% of FTSE 100 companies. Also provides payment services, pension administration, remediation services, and employee share plans. Acquired by Siris Capital (PE) in 2023. US operations via EQ Shareowner Services. Key platforms: EQ Boardroom (corporate governance), share registration, dividend processing, employee benefits administration.",
+  "business_segments": [
+    {
+      "name": "Registration Services",
+      "detail": "Share registration for ~50% FTSE 100. Dividend processing. Corporate actions.",
+      "priority": "core"
+    },
+    {
+      "name": "Remediation Services",
+      "detail": "Complex remediation for banks and insurers. PPI, interest rate hedging.",
+      "priority": "core"
+    },
+    {
+      "name": "Employee Benefits",
+      "detail": "Share plans, employee benefits administration. SaaS platforms.",
+      "priority": "growth"
+    },
+    {
+      "name": "Payment Services",
+      "detail": "Paymaster. Pension disbursements. Government payments.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "Exploring AI for remediation, customer service.",
+    "cloud": "Cloud migration for platforms. Legacy modernisation.",
+    "data": "Massive shareholder data. Payment data. Benefits data.",
+    "platforms": "EQ Boardroom, share registration systems, payment platforms, benefits platforms.",
+    "spend": "Moderate. PE owner will focus on efficiency + growth."
+  },
+  "operating_model": "PE-owned (Siris Capital). Efficiency focus. Platform consolidation. UK + US operations.",
+  "people": [],
+  "partnerships": [
+    "FTSE 100 companies (clients)",
+    "UK Government (payment services)"
+  ],
+  "opportunities": [
+    "Platform modernisation (legacy systems)",
+    "Cloud migration",
+    "Digital shareholder services",
+    "AI for remediation automation",
+    "Payment platform engineering",
+    "US expansion technology"
+  ],
+  "risks": [
+    "PE ownership may limit investment",
+    "Long-term contracts with slow switching",
+    "UK-focused"
+  ],
+  "skills_gaps": [
+    "Cloud migration",
+    "Platform engineering",
+    "AI for process automation",
+    "Digital experience",
+    "API development"
+  ],
+  "coforge_angle": "NN TAL. EQ has significant legacy platforms needing modernisation. PE ownership drives efficiency + digital transformation. Coforge can support platform engineering, cloud migration, and automation.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

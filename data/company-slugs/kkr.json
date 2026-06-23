@@ -1,0 +1,82 @@
+{
+  "company_name": "KKR",
+  "slug": "kkr",
+  "company_type": "Alternative Asset Manager / PE",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "revenue": "~$7B annual",
+  "profit_metric": "Strong",
+  "employees": "~4,700",
+  "key_stat": "$638B AUM | Alternatives leader | Tokenized funds via Securitize",
+  "summary": "KKR is a leading global alternative asset manager with $638B AUM across PE, credit, real assets, and infrastructure. Tokenized fund access via Securitize partnership. Apollo competitor. Growing in infrastructure and credit. Significant technology needs for portfolio management, fund operations, investor reporting, and data analytics.",
+  "business_segments": [
+    {
+      "name": "Private Equity",
+      "detail": "Global PE. Large-cap buyouts. Growth equity.",
+      "priority": "core"
+    },
+    {
+      "name": "Credit & Liquid Strategies",
+      "detail": "Direct lending, leveraged credit, liquid strategies.",
+      "priority": "growth"
+    },
+    {
+      "name": "Real Assets",
+      "detail": "Infrastructure, real estate, energy.",
+      "priority": "growth"
+    },
+    {
+      "name": "Strategic Holdings",
+      "detail": "Insurance (Global Atlantic), capital markets.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for deal sourcing, portfolio analytics, operational improvement.",
+    "cloud": "Cloud-based portfolio management.",
+    "data": "Portfolio company data. Fund performance. Investor reporting.",
+    "platforms": "Fund management, investor portal, deal pipeline.",
+    "spend": "Growing technology investment."
+  },
+  "operating_model": "Partnership model. 4,700 employees managing $638B. Global Atlantic insurance adds scale. Securitize for tokenized fund access.",
+  "people": [
+    {
+      "name": "Scott Nuttall",
+      "role": "Co-CEO"
+    },
+    {
+      "name": "Joe Bae",
+      "role": "Co-CEO"
+    }
+  ],
+  "partnerships": [
+    "Securitize (tokenized funds)",
+    "Global Atlantic (insurance)"
+  ],
+  "opportunities": [
+    "Fund operations technology",
+    "Investor reporting platforms",
+    "Portfolio analytics",
+    "AI for deal sourcing",
+    "Tokenized fund infrastructure",
+    "Data engineering"
+  ],
+  "risks": [
+    "PE firms traditionally build internally",
+    "Competitive and selective vendor process"
+  ],
+  "skills_gaps": [
+    "Fund operations engineering",
+    "Data analytics at scale",
+    "AI/ML for deal analysis",
+    "Tokenization infrastructure"
+  ],
+  "coforge_angle": "NN TAL. $638B AUM. Growing technology needs for fund operations, investor reporting, data analytics, and tokenized fund infrastructure via Securitize.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

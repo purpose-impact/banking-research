@@ -1,138 +1,48 @@
 {
-  "company_name": "BNY Mellon",
   "slug": "bny-mellon",
+  "company_name": "BNY Mellon",
+  "owner": "Boaz",
+  "category": "NN TAL",
   "company_type": "Custodian / Asset Servicer",
   "headquarters": "New York, USA",
   "key_regions": [
-    "USA",
-    "Europe",
-    "Asia-Pacific",
+    "UK",
     "Global"
   ],
-  "revenue": "$5.0B quarterly (Q2 2025, +9% YoY)",
-  "profit_metric": "28% ROTCE, 37% pre-tax margin (Q2 2025)",
+  "revenue": "N/A",
+  "profit_metric": "N/A",
   "employees": "~50,000",
-  "key_stat": "$55.8T AUC/A | $2.1T AUM | Serves 90%+ Fortune 100",
-  "summary": "BNY is executing a platform-centric transformation under CEO Robin Vince. Reorganised around platforms operating model (50%+ workforce, full by 2026). Delivered 500bps operating leverage improvement. Q2 2025: $5.0B revenue (+9%), $1.93 EPS (+27%). Record sales: $1T+ new AUC/A wins generating $145M new servicing fee revenue. Key strategic moves: Archer acquisition ($1.2B), Eliza AI platform, AI Hub, unified commercial model, Dublin Digital R&D Hub. BNY serves as critical infrastructure for global capital markets.",
+  "key_stat": "$55.8T AUC/A | Platform model | Eliza AI | Digital asset custody",
+  "summary": "BNY is world's largest custodian ($55.8T AUC/A). Platform operating model (50%+ workforce). Eliza AI. Digital Asset Platform. Record sales: $1T+ new AUC/A. 28% ROTCE.",
   "business_segments": [
     {
-      "name": "Securities Services",
-      "detail": "$55.8T AUC/A. Custody, fund accounting, transfer agency, depositary, securities lending, collateral management. Fee revenue +7% YoY.",
+      "name": "Core Business",
+      "detail": "BNY is world's largest custodian ($55.8T AUC/A). Platform operating model (50%+ workforce). Eliza AI. Digital Asset Platform. Record sales: $1T+ new AUC/A. 28% ROTCE.",
       "priority": "core"
-    },
-    {
-      "name": "Market & Wealth Services",
-      "detail": "Clearance, collateral management, treasury services, Pershing (broker-dealer clearing), wealth management. NII +17% YoY. LiquidityDirect platform.",
-      "priority": "core"
-    },
-    {
-      "name": "Investment & Wealth Management",
-      "detail": "$2.1T AUM. BNY Investments (multiple boutiques). Dreyfus liquidity. Wealth Management for HNW/UHNW.",
-      "priority": "growth"
     }
   ],
   "technology": {
-    "ai": "Eliza AI platform launched. AI Hub created. ML for fund accounting, data validation, risk. AI analytics for client insights. GenAI exploration across operations.",
-    "cloud": "Data Vault cloud platform. Cloud-based data sharing/integration. Modernising as part of platform transformation. Dublin R&D Hub (€8M investment).",
-    "data": "Data Vault empowers clients to consolidate and analyse investment data. Real-time data sharing via cloud. Fund accounting data tools.",
-    "platforms": "Platform operating model (50%+ workforce). Unified commercial model. LiquidityDirect. Wove (new). Buy-side trading enhancements. Accelerator Programme for fintechs.",
-    "spend": "Significant — mid-30s margin target implies sustained investment while maintaining operating leverage."
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
   },
-  "operating_model": "Platform-centric transformation: 50%+ workforce on platforms, full integration by 2026. 500bps operating leverage improvement. 'Project Catalyst' efficiency programme. Unified commercial model achieving record sales. Archer acquisition ($1.2B) for risk analytics and capabilities. Dublin Digital R&D Hub for AI/ML innovation.",
-  "people": [
-    {
-      "name": "Robin Vince",
-      "role": "CEO"
-    },
-    {
-      "name": "Caroline Butler",
-      "role": "Global Head of Digital Assets"
-    },
-    {
-      "name": "Carolyn Weinberg",
-      "role": "Chief Product and Innovation Officer"
-    },
-    {
-      "name": "Laide Majiyagbe",
-      "role": "Global Head of Liquidity, Financing and Collateral"
-    },
-    {
-      "name": "Jennifer Barker",
-      "role": "Global Head of Payments & Trade"
-    }
-  ],
-  "partnerships": [
-    "Goldman Sachs (GS DAP)",
-    "BlackRock",
-    "WisdomTree",
-    "OpenEden",
-    "Fidelity",
-    "Federated Hermes",
-    "Digital Asset (Canton Network)"
-  ],
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
   "opportunities": [
-    "Platform model completion (remaining 50% workforce)",
-    "AI-driven fund accounting at scale",
-    "Wealth management HNW/UHNW growth",
-    "Alternative investments servicing",
-    "Outsourcing/vendor consolidation trend",
-    "International digital product expansion",
-    "Fintech Accelerator Programme"
+    "$55.8T AUC/A. Platform model, AI, digital assets. Massive engineering needs across fund services, custody, and data."
   ],
   "risks": [
-    "Platform transformation execution",
-    "Competitive pressure from State Street Alpha, JPMorgan",
-    "NII sensitivity to rate moves",
-    "Wealth market share vs dedicated managers",
-    "Technology vendor dependencies"
+    "Varies"
   ],
   "skills_gaps": [
-    "AI/ML for fund operations",
-    "Cloud-native development",
-    "Wealth advisory technology",
-    "Data engineering at scale",
-    "Platform integration engineering"
+    "Platform engineering",
+    "Cloud",
+    "Data analytics"
   ],
-  "partnership_opps": [
-    "AI fund accounting solutions",
-    "Alternative investment servicing platforms",
-    "Data analytics/reporting",
-    "Regulatory reporting automation",
-    "Client onboarding/KYC",
-    "Wealth management technology"
-  ],
-  "competitive_position": "World's largest custodian ($55.8T AUC/A). Serves 90%+ Fortune 100. Platform model differentiates. Competing: State Street (custody/Alpha), JPMorgan (custody), Citi (securities services), Northern Trust.",
-  "analyst_view": "Strategic leader executing disciplined transformation. Platform model + AI + scale = competitive moat. Strongest: scale, platform model, client relationships. Weakest: wealth scale vs dedicated managers, technology vendor dependencies. Watch: platform conversion completion, AI adoption, wealth growth.",
-  "evidence": [
-    {
-      "claim": "Q2 2025: $5.0B revenue (+9%), $1.93 EPS (+27%), 37% pre-tax margin, 28% ROTCE",
-      "source": "BNY Q2 2025 earnings",
-      "date": "2025-07"
-    },
-    {
-      "claim": "$1T+ new AUC/A wins, $145M new servicing fee revenue",
-      "source": "BNY investor materials",
-      "date": "2025"
-    },
-    {
-      "claim": "Platform operating model covers 50%+ workforce, full by 2026",
-      "source": "BNY SEC filings, analyst coverage",
-      "date": "2025-2026"
-    },
-    {
-      "claim": "Archer acquisition $1.2B for digital asset and risk analytics",
-      "source": "BNY press releases",
-      "date": "2024"
-    }
-  ],
-  "questions": [
-    "Platform conversion completion timeline?",
-    "AI Hub and Eliza impact on ops costs?",
-    "Wealth management growth targets?",
-    "International expansion for platform services?",
-    "Dublin R&D Hub output and scaling?"
-  ],
-  "strategy_intensity_score": 5,
-  "business_maturity_score": 5,
-  "technology_maturity_score": 5
+  "coforge_angle": "NN TAL (Boaz). $55.8T AUC/A. Platform model, AI, digital assets. Massive engineering needs across fund services, custody, and data.",
+  "evidence": [],
+  "questions": []
 }

@@ -1,0 +1,90 @@
+{
+  "company_name": "Fidelity",
+  "slug": "fidelity",
+  "company_type": "Asset Manager / Financial Services",
+  "headquarters": "Boston, USA / London, UK",
+  "key_regions": [
+    "USA",
+    "UK",
+    "Europe",
+    "Asia-Pacific"
+  ],
+  "revenue": "~$29B (Fidelity Investments, FY2024)",
+  "profit_metric": "Private",
+  "employees": "~74,000 (FMR) + ~9,000 (Fidelity International)",
+  "key_stat": "$4.9T AUM (US) | FBTC Bitcoin ETF | Fidelity Digital Assets (in-house custody) | OCC charter",
+  "summary": "Fidelity operates as two separate entities: Fidelity Investments (US, $4.9T AUM) and Fidelity International (UK, ~$800B AUM). US: FBTC spot Bitcoin ETF, Fidelity Digital Assets (in-house custody, OCC charter), Fidelity Crypto for retail. International: active management, JPMorgan TCN collateral, Sygnum partnership. Combined, one of the world's largest and most technology-forward asset managers with 74K+ employees.",
+  "business_segments": [
+    {
+      "name": "Asset Management",
+      "detail": "$4.9T AUM (US). Active, passive, alternatives. International: ~$800B.",
+      "priority": "core"
+    },
+    {
+      "name": "Brokerage & Wealth",
+      "detail": "Retail brokerage. Wealth management. 401(k) administration. E-trading.",
+      "priority": "core"
+    },
+    {
+      "name": "Digital Assets",
+      "detail": "FBTC ($19B+). FETH. Fidelity Digital Assets (in-house custody). OCC charter. Fidelity Crypto.",
+      "priority": "growth"
+    },
+    {
+      "name": "Workplace Solutions",
+      "detail": "Retirement plans, benefits administration, HR solutions.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for investment research, customer service, portfolio analytics.",
+    "cloud": "Cloud-native brokerage platform. Modernisation across operations.",
+    "data": "Massive data estate. Research data. Client analytics.",
+    "platforms": "Fidelity.com, Fidelity Digital Assets, workplace platforms, institutional platforms.",
+    "spend": "$4B+ annual technology investment (estimated)."
+  },
+  "operating_model": "Private (Johnson family). Self-custodies crypto (unlike competitors using Coinbase). Vertically integrated. OCC national bank charter for digital assets.",
+  "people": [
+    {
+      "name": "Abigail Johnson",
+      "role": "CEO, Fidelity Investments"
+    },
+    {
+      "name": "Anne Richards",
+      "role": "CEO, Fidelity International"
+    },
+    {
+      "name": "Tom Jessop",
+      "role": "President, Fidelity Digital Assets"
+    }
+  ],
+  "partnerships": [
+    "JPMorgan (TCN, Fidelity Intl)",
+    "Sygnum",
+    "Stellar"
+  ],
+  "opportunities": [
+    "Digital assets platform engineering",
+    "Brokerage platform modernisation",
+    "Workplace solutions technology",
+    "AI for investment research",
+    "Cloud migration",
+    "International platform development"
+  ],
+  "risks": [
+    "Strong internal tech culture",
+    "Private company — less public info",
+    "Competition for vendor slots"
+  ],
+  "skills_gaps": [
+    "Blockchain custody engineering",
+    "Cloud-native brokerage",
+    "AI/ML for research",
+    "Workplace platform engineering"
+  ],
+  "coforge_angle": "NN TAL. Combined 83K employees. $4.9T AUM. Massive technology spender. Coforge can support brokerage modernisation, workplace solutions, digital assets engineering, and international platform work.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

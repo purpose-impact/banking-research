@@ -1,0 +1,91 @@
+{
+  "company_name": "Euronext",
+  "slug": "euronext",
+  "company_type": "Exchange / Market Infrastructure",
+  "headquarters": "Amsterdam / Paris",
+  "key_regions": [
+    "Netherlands",
+    "France",
+    "Italy",
+    "Belgium",
+    "Ireland",
+    "Norway",
+    "Portugal"
+  ],
+  "revenue": "~€1.7B annual",
+  "profit_metric": "Strong margins",
+  "employees": "~2,400",
+  "key_stat": "Pan-European exchange group | Borsa Italiana | MTS fixed income | Euronext Clearing",
+  "summary": "Euronext is the leading pan-European exchange group operating 7 national exchanges (Amsterdam, Brussels, Dublin, Lisbon, Milan/Borsa Italiana, Oslo, Paris). Also operates Euronext Clearing, MTS (European fixed income), and Euronext Securities (CSDs). Post-Borsa Italiana acquisition, Euronext is building integrated European capital market infrastructure. Technology: Optiq trading platform, clearing system migration, CSD consolidation.",
+  "business_segments": [
+    {
+      "name": "Trading",
+      "detail": "Cash equities, derivatives, commodities, FX across 7 markets. Optiq platform.",
+      "priority": "core"
+    },
+    {
+      "name": "Listing",
+      "detail": "IPOs, debt listing. Pan-European venue.",
+      "priority": "core"
+    },
+    {
+      "name": "Clearing",
+      "detail": "Euronext Clearing (formerly CC&G). CCP services. Migrating from LCH.",
+      "priority": "growth"
+    },
+    {
+      "name": "Post-Trade & Custody",
+      "detail": "Euronext Securities (CSDs in Denmark, Italy, Norway). Settlement services.",
+      "priority": "growth"
+    },
+    {
+      "name": "Data & Technology",
+      "detail": "Market data, indices, technology solutions for clients.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for market surveillance, trading analytics.",
+    "cloud": "Core technology migration. Optiq platform enhancements.",
+    "data": "Market data feeds. Reference data. Analytics.",
+    "platforms": "Optiq (trading), Euronext Clearing, CSD platforms, MTS.",
+    "spend": "Growing — post-acquisition integration driving investment."
+  },
+  "operating_model": "Pan-European integration. 7 national exchanges consolidating onto Optiq. Euronext Clearing migration from LCH. CSD consolidation.",
+  "people": [
+    {
+      "name": "Stéphane Boujnah",
+      "role": "CEO"
+    }
+  ],
+  "partnerships": [
+    "LCH (transitioning away)",
+    "Euroclear"
+  ],
+  "opportunities": [
+    "Clearing system migration",
+    "CSD technology consolidation",
+    "Optiq platform engineering",
+    "Post-trade technology integration",
+    "Market data platform",
+    "Regulatory reporting",
+    "Pan-European technology harmonisation"
+  ],
+  "risks": [
+    "Complex multi-country integration",
+    "Regulatory fragmentation across 7 jurisdictions",
+    "Competition from LSEG, Deutsche Börse"
+  ],
+  "skills_gaps": [
+    "Clearing system engineering",
+    "CSD technology",
+    "Trading platform development",
+    "Multi-jurisdiction regulatory compliance",
+    "Data platform engineering"
+  ],
+  "coforge_angle": "NN TAL. Euronext integrating 7 exchanges + clearing + CSDs = massive multi-year technology programme. Coforge can support clearing migration, CSD consolidation, platform engineering, and data.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

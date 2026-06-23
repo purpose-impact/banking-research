@@ -1,0 +1,47 @@
+{
+  "slug": "bbva",
+  "company_name": "BBVA",
+  "owner": "Boaz",
+  "category": "NN TAL",
+  "company_type": "Global Bank",
+  "headquarters": "Madrid, Spain",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~120,000",
+  "key_stat": "Spanish + LatAm bank | Digital banking leader | Turkey (Garanti)",
+  "summary": "BBVA is a leading Spanish bank with strong Latin American and Turkish franchises. Digital banking pioneer (high digital adoption rates). New Gen platform. BBVA Switzerland for crypto. Technology-forward culture but strong internal engineering.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "BBVA is a leading Spanish bank with strong Latin American and Turkish franchises. Digital banking pioneer (high digital adoption rates). New Gen platform. BBVA Switzerland for crypto. Technology-forwa",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "120K employees. Digital banking leader. Platform engineering, LatAm technology, and digital assets."
+  ],
+  "risks": [
+    "Varies"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data analytics"
+  ],
+  "coforge_angle": "NN TAL (Boaz). 120K employees. Digital banking leader. Platform engineering, LatAm technology, and digital assets.",
+  "evidence": [],
+  "questions": []
+}

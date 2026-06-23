@@ -1,0 +1,48 @@
+{
+  "slug": "cinven",
+  "company_name": "Cinven",
+  "owner": "Boaz",
+  "category": "NN TAL",
+  "company_type": "Private Equity",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~200",
+  "key_stat": "€30B+ AUM | European mid-large buyout | Financial services investments",
+  "summary": "Cinven is a European PE firm (€30B+ AUM). Mid-to-large buyout focus. Financial services investments include Miller Insurance, Viridium. Technology needs: portfolio management, deal analytics, investor reporting. Smaller direct opportunity but portfolio companies relevant.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Cinven is a European PE firm (€30B+ AUM). Mid-to-large buyout focus. Financial services investments include Miller Insurance, Viridium. Technology needs: portfolio management, deal analytics, investor",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "€30B+ PE. Smaller direct but portfolio companies in financial services create indirect opportunity."
+  ],
+  "risks": [
+    "Varies"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data analytics"
+  ],
+  "coforge_angle": "NN TAL (Boaz). €30B+ PE. Smaller direct but portfolio companies in financial services create indirect opportunity.",
+  "evidence": [],
+  "questions": []
+}

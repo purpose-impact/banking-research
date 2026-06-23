@@ -1,0 +1,89 @@
+{
+  "company_name": "S&P Global",
+  "slug": "sp-global",
+  "company_type": "Data & Analytics / Ratings",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "revenue": "~$14B annual",
+  "profit_metric": "~$4.5B operating profit",
+  "employees": "~40,000",
+  "key_stat": "S&P 500 Index | Platts | Ratings | Market Intelligence | Kensho AI",
+  "summary": "S&P Global is a global data, analytics, and ratings powerhouse. Post-IHS Markit merger ($44B, 2022). Key divisions: Ratings, Market Intelligence, Commodity Insights (Platts), Mobility, Indices. Kensho AI division. $14B revenue. Technology-driven business with massive data assets. Key clients: banks, asset managers, corporates, governments.",
+  "business_segments": [
+    {
+      "name": "Market Intelligence",
+      "detail": "Capital IQ, SNL. Financial data, analytics, research for banks and AM. Largest segment.",
+      "priority": "core"
+    },
+    {
+      "name": "Ratings",
+      "detail": "Credit ratings. Globally dominant with Moody's. Regulatory moat.",
+      "priority": "core"
+    },
+    {
+      "name": "Commodity Insights",
+      "detail": "Platts. Energy, metals, agriculture pricing. Benchmarks.",
+      "priority": "core"
+    },
+    {
+      "name": "Indices",
+      "detail": "S&P 500, Dow Jones. $11T+ benchmarked. ESG indices.",
+      "priority": "core"
+    },
+    {
+      "name": "Mobility",
+      "detail": "Automotive data and analytics. IHS Markit heritage.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "Kensho AI division (NLP, data extraction, analytics). AI across all segments.",
+    "cloud": "Cloud-native platforms. AWS and Azure.",
+    "data": "Massive data estate: financial, credit, commodity, automotive. Core competitive advantage.",
+    "platforms": "Capital IQ Pro, Platts, Kensho, RatingsDirect.",
+    "spend": "$2B+ annual technology investment."
+  },
+  "operating_model": "Post-IHS Markit integration (completed). Data-as-a-service model. Kensho AI driving product innovation. Platform consolidation.",
+  "people": [
+    {
+      "name": "Martina Cheung",
+      "role": "CEO (from Nov 2024)"
+    },
+    {
+      "name": "Saugata Saha",
+      "role": "President, Market Intelligence"
+    }
+  ],
+  "partnerships": [
+    "Kensho (owned)",
+    "AWS",
+    "Azure"
+  ],
+  "opportunities": [
+    "Kensho AI engineering support",
+    "Platform engineering (Capital IQ Pro)",
+    "Data engineering and pipelines",
+    "Cloud migration",
+    "IHS Markit integration residual work",
+    "ESG data solutions"
+  ],
+  "risks": [
+    "Strong internal tech (Kensho)",
+    "Selective vendor approach",
+    "Competitive procurement"
+  ],
+  "skills_gaps": [
+    "AI/NLP engineering",
+    "Data engineering at scale",
+    "Cloud-native development",
+    "API platform engineering"
+  ],
+  "coforge_angle": "NN TAL. $14B revenue, 40K employees. Massive data and technology company. Coforge can support platform engineering, data pipelines, AI integration, and cloud migration.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

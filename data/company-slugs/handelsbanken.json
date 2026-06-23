@@ -1,0 +1,48 @@
+{
+  "slug": "handelsbanken",
+  "company_name": "Handelsbanken",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "Swedish Bank",
+  "headquarters": "Stockholm / London",
+  "key_regions": [
+    "UK",
+    "Europe"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~10,000",
+  "key_stat": "Swedish bank | UK franchise | Decentralised model | Relationship banking",
+  "summary": "Handelsbanken: Swedish bank with significant UK franchise. Highly decentralised (branch-led). Relationship banking. Conservative technology approach. UK operations scaling back to London hub.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Handelsbanken: Swedish bank with significant UK franchise. Highly decentralised (branch-led). Relationship banking. Conservative technology approach. UK operations scaling back to London hub.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "UK franchise. Core banking, digital channels, and operational technology."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). UK franchise. Core banking, digital channels, and operational technology.",
+  "evidence": [],
+  "questions": []
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "waystone",
+  "company_name": "Waystone",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "Fund Governance / ManCo",
+  "headquarters": "Dublin, Ireland",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~1,000",
+  "key_stat": "Global fund governance | ManCo services | Risk, compliance",
+  "summary": "Waystone: global fund governance and management company (ManCo) services. Risk, compliance, distribution for fund managers. Growing through acquisition. Technology needs: compliance platforms, reporting, client portals.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Waystone: global fund governance and management company (ManCo) services. Risk, compliance, distribution for fund managers. Growing through acquisition. Technology needs: compliance platforms, reporti",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Fund governance. Compliance platforms, reporting, and client portal technology."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). Fund governance. Compliance platforms, reporting, and client portal technology.",
+  "evidence": [],
+  "questions": []
+}

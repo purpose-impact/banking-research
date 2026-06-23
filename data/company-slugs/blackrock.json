@@ -1,0 +1,48 @@
+{
+  "slug": "blackrock",
+  "company_name": "BlackRock",
+  "owner": "Boaz",
+  "category": "NN TAL",
+  "company_type": "Global Asset Manager",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~20,000",
+  "key_stat": "$11.5T AUM | Aladdin platform | BUIDL tokenized fund | iShares",
+  "summary": "BlackRock is the world's largest asset manager ($11.5T AUM). Aladdin platform ($21T managed). iShares ETFs. BUIDL tokenized fund ($2.5B+ via Securitize on 9 chains). IBIT Bitcoin ETF (607K BTC via Coinbase). Massive technology operation.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "BlackRock is the world's largest asset manager ($11.5T AUM). Aladdin platform ($21T managed). iShares ETFs. BUIDL tokenized fund ($2.5B+ via Securitize on 9 chains). IBIT Bitcoin ETF (607K BTC via Coi",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "$11.5T AUM. Aladdin platform engineering, BUIDL infrastructure, iShares technology, and data analytics."
+  ],
+  "risks": [
+    "Varies"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data analytics"
+  ],
+  "coforge_angle": "NN TAL (Boaz). $11.5T AUM. Aladdin platform engineering, BUIDL infrastructure, iShares technology, and data analytics.",
+  "evidence": [],
+  "questions": []
+}

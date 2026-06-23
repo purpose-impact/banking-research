@@ -1,0 +1,78 @@
+{
+  "company_name": "Amundi Technology",
+  "slug": "amundi-technology",
+  "company_type": "Asset Management Technology",
+  "headquarters": "Paris, France",
+  "key_regions": [
+    "France",
+    "Europe",
+    "Global"
+  ],
+  "revenue": "Part of Amundi (~€2.2B group revenue)",
+  "profit_metric": "Part of Amundi",
+  "employees": "Part of Amundi (~5,500 group)",
+  "key_stat": "ALTO platform | €2.2T AUM group | Sells technology to 60+ third-party clients",
+  "summary": "Amundi Technology is the technology arm of Amundi (Europe's largest asset manager, €2.2T AUM). Sells the ALTO (Amundi Leading Technologies and Operations) platform to 60+ third-party asset management firms globally. ALTO covers front-to-back investment management: portfolio management, trading, risk, compliance, data, operations. Positioned as SaaS platform for mid-tier asset managers competing with Bloomberg AIM, Charles River (State Street), SimCorp (Deutsche Börse). Strategic growth driver for Amundi group.",
+  "business_segments": [
+    {
+      "name": "ALTO Platform",
+      "detail": "Front-to-back investment management SaaS. Portfolio management, trading, risk, compliance, operations. 60+ external clients.",
+      "priority": "core"
+    },
+    {
+      "name": "ALTO Wealth",
+      "detail": "Wealth management technology platform. Discretionary and advisory portfolio management.",
+      "priority": "growth"
+    },
+    {
+      "name": "ALTO Sustainability",
+      "detail": "ESG data, scoring, portfolio analytics for responsible investing.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "AI for portfolio analytics, risk, ESG scoring. NLP for research.",
+    "cloud": "Cloud-native ALTO platform. SaaS delivery.",
+    "data": "Investment data management. ESG data. Market data integration.",
+    "platforms": "ALTO (core investment platform). ALTO Wealth. ALTO Sustainability.",
+    "spend": "Growing — ALTO is Amundi's strategic bet on technology revenue."
+  },
+  "operating_model": "SaaS platform model selling to 60+ third-party clients. Revenue diversification for Amundi beyond management fees. Competing with Bloomberg AIM, Charles River, SimCorp.",
+  "people": [
+    {
+      "name": "Valerie Baudson",
+      "role": "Amundi CEO"
+    },
+    {
+      "name": "Guillaume Lesage",
+      "role": "COO (oversees Technology)"
+    }
+  ],
+  "partnerships": [
+    "60+ third-party AM clients globally"
+  ],
+  "opportunities": [
+    "ALTO platform engineering and enhancement",
+    "Cloud migration support",
+    "ESG/sustainability data engineering",
+    "ALTO Wealth development",
+    "Client onboarding and implementation",
+    "API development and integration"
+  ],
+  "risks": [
+    "ALTO competes with well-funded competitors (Bloomberg, State Street CRD, SimCorp)",
+    "Amundi may prefer internal development"
+  ],
+  "skills_gaps": [
+    "Cloud-native platform engineering",
+    "ESG data engineering",
+    "API integration",
+    "Wealth technology",
+    "Client implementation"
+  ],
+  "coforge_angle": "NN TAL. Amundi Technology sells ALTO to 60+ external clients. Growing platform business needs engineering, implementation, and integration support. Direct competitor to State Street Alpha / Charles River.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

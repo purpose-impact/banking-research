@@ -1,0 +1,48 @@
+{
+  "slug": "shawbrook",
+  "company_name": "Shawbrook Bank",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "Specialist Lender",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Europe"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~1,200",
+  "key_stat": "Specialist lender | SME, property, consumer | PE-owned",
+  "summary": "Shawbrook Bank: specialist lender (SME, property, consumer finance). PE-owned (BC Partners). Digital lending platform. Technology modernisation and platform engineering.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Shawbrook Bank: specialist lender (SME, property, consumer finance). PE-owned (BC Partners). Digital lending platform. Technology modernisation and platform engineering.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Specialist lender. Lending platform, digital banking, and credit technology."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). Specialist lender. Lending platform, digital banking, and credit technology.",
+  "evidence": [],
+  "questions": []
+}

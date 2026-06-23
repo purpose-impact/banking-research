@@ -1,0 +1,106 @@
+{
+  "company_name": "European Central Bank",
+  "slug": "ecb",
+  "category": "Growth",
+  "company_type": "Central Bank / Regulator",
+  "headquarters": "Frankfurt, Germany",
+  "key_regions": [
+    "Eurozone",
+    "EU"
+  ],
+  "revenue": "N/A (central bank)",
+  "profit_metric": "N/A",
+  "employees": "~4,000 (ECB) + NCBs",
+  "key_stat": "Digital Euro project | TARGET2 / T2S settlement | Eurozone monetary policy",
+  "summary": "The ECB is the central bank for the Eurozone, responsible for monetary policy across 20 member states. Key technology programmes: Digital Euro (investigation phase, retail CBDC), TARGET2/T2S modernisation (pan-European settlement), New Eurosystem Collateral Management System (ECMS). MiCA regulation implementation support. The ECB runs significant technology procurement for market infrastructure, data analytics, and cybersecurity. DLT experiments via Eurosystem wholesale CBDC trials with BNP Paribas, Deutsche Börse, and others.",
+  "business_segments": [
+    {
+      "name": "Monetary Policy & Operations",
+      "detail": "Rate setting, asset purchases, collateral framework. Central banking operations.",
+      "priority": "core"
+    },
+    {
+      "name": "Market Infrastructure",
+      "detail": "TARGET2 (payments), T2S (securities settlement), TIPS (instant payments), ECMS (collateral). Modernisation programmes.",
+      "priority": "core"
+    },
+    {
+      "name": "Banking Supervision (SSM)",
+      "detail": "Single Supervisory Mechanism. 111 significant banks. SREP process. Stress testing.",
+      "priority": "core"
+    },
+    {
+      "name": "Digital Euro",
+      "detail": "Investigation phase since Oct 2021. Preparation phase from Nov 2023. Retail CBDC for Eurozone citizens. Legislation pending.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "AI for supervisory technology (SupTech). Natural language processing for regulatory analysis. Data-driven supervision.",
+    "cloud": "Hybrid infrastructure. European data sovereignty requirements. Gradual cloud adoption.",
+    "data": "Massive data infrastructure: AnaCredit (credit), SHSDB (securities holdings), MFI statistics. Real-time data for policy decisions.",
+    "platforms": "TARGET2, T2S, TIPS, ECMS. DLT pilots for wholesale CBDC.",
+    "spend": "Significant procurement budget for IT services, consulting, data platforms."
+  },
+  "operating_model": "Pan-European. Coordinates with 20 national central banks. Eurosystem shared services. Procurement via formal tender processes.",
+  "people": [
+    {
+      "name": "Christine Lagarde",
+      "role": "President"
+    },
+    {
+      "name": "Fabio Panetta",
+      "role": "Former Board Member (now Banca d'Italia, led Digital Euro)"
+    },
+    {
+      "name": "Piero Cipollone",
+      "role": "Board Member (Digital Euro responsibility)"
+    }
+  ],
+  "partnerships": [
+    "BNP Paribas (DLT pilot)",
+    "Deutsche Börse (DLT pilot)",
+    "National central banks",
+    "European Commission (Digital Euro legislation)"
+  ],
+  "opportunities": [
+    "TARGET2/T2S/ECMS modernisation consulting",
+    "Digital Euro technology advisory",
+    "SupTech and RegTech solutions",
+    "Data analytics and reporting platforms",
+    "Cybersecurity services",
+    "SSM supervisory technology"
+  ],
+  "risks": [
+    "Formal procurement processes (long cycles)",
+    "Political complexity across member states",
+    "Digital Euro timeline uncertain",
+    "Competition from major consulting firms (Accenture, McKinsey)"
+  ],
+  "skills_gaps": [
+    "DLT/CBDC engineering",
+    "SupTech development",
+    "Cloud migration for central banking",
+    "Data engineering at scale",
+    "Cybersecurity for critical infrastructure"
+  ],
+  "coforge_angle": "Growth. ECB procurement for market infrastructure modernisation (TARGET2/T2S), Digital Euro technology, SupTech/RegTech, data analytics. Long procurement cycles but high-value multi-year contracts.",
+  "evidence": [
+    {
+      "claim": "Digital Euro preparation phase from Nov 2023",
+      "source": "ECB official",
+      "date": "2023-11"
+    },
+    {
+      "claim": "TARGET2/T2S consolidation programme",
+      "source": "ECB market infrastructure",
+      "date": "2024"
+    }
+  ],
+  "questions": [
+    "Current vendor landscape for IT services?",
+    "Digital Euro technology partner selection timeline?",
+    "SupTech development priorities?"
+  ],
+  "owner": "Kumar"
+}

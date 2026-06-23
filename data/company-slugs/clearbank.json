@@ -1,0 +1,48 @@
+{
+  "slug": "clearbank",
+  "company_name": "ClearBank",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "Clearing Bank / BaaS",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Europe"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~600",
+  "key_stat": "UK's first new clearing bank in 250 years | BaaS | API-first",
+  "summary": "ClearBank: UK's first new clearing bank in 250 years (2017). Banking-as-a-Service via API. Real-time payments clearing. Serves fintechs, banks, financial institutions. Cloud-native. Growing rapidly.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "ClearBank: UK's first new clearing bank in 250 years (2017). Banking-as-a-Service via API. Real-time payments clearing. Serves fintechs, banks, financial institutions. Cloud-native. Growing rapidly.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Cloud-native clearing bank. API engineering, payments infrastructure, and BaaS platform scaling."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). Cloud-native clearing bank. API engineering, payments infrastructure, and BaaS platform scaling.",
+  "evidence": [],
+  "questions": []
+}

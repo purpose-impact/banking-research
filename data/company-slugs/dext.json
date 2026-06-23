@@ -1,0 +1,48 @@
+{
+  "slug": "dext",
+  "company_name": "Dext",
+  "owner": "Boaz",
+  "category": "Growth",
+  "company_type": "FinTech / Accounting Tech",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~500",
+  "key_stat": "Pre-accounting automation | Invoice capture | Bookkeeping | SME focused",
+  "summary": "Dext (formerly Receipt Bank) is a UK fintech providing pre-accounting automation for accountants and bookkeepers. AI-powered invoice and receipt capture. Integrates with Xero, QuickBooks, Sage. PE-owned. Growing internationally.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Dext (formerly Receipt Bank) is a UK fintech providing pre-accounting automation for accountants and bookkeepers. AI-powered invoice and receipt captu",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "[See summary]",
+    "cloud": "Cloud-based platforms.",
+    "data": "Investment/business data.",
+    "platforms": "Core platforms.",
+    "spend": "Moderate."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Fintech. AI/ML engineering, platform scaling, and integration development needs."
+  ],
+  "risks": [
+    "Limited public detail for some areas"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Data analytics",
+    "Cloud migration"
+  ],
+  "coforge_angle": "Growth (Boaz). Fintech. AI/ML engineering, platform scaling, and integration development needs.",
+  "evidence": [],
+  "questions": []
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "societe-generale",
+  "company_name": "Societe Generale",
+  "owner": "Boaz",
+  "category": "NN TAL",
+  "company_type": "Global Bank",
+  "headquarters": "Paris, France",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~117,000",
+  "key_stat": "Major French bank | SG Forge (digital assets) | CIB + Retail | Boursorama",
+  "summary": "Societe Generale is a major French bank. SG Forge is the regulated digital assets subsidiary (EUR CoinVertible stablecoin, MiCA licensed). Boursorama (digital bank, 6M+ customers). CIB, retail France, international. ALD Automotive. BoursoBank.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Societe Generale is a major French bank. SG Forge is the regulated digital assets subsidiary (EUR CoinVertible stablecoin, MiCA licensed). Boursorama (digital bank, 6M+ customers). CIB, retail France,",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "117K employees. SG Forge digital assets, CIB technology, BoursoBank engineering, and wholesale banking platforms."
+  ],
+  "risks": [
+    "Varies"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data analytics"
+  ],
+  "coforge_angle": "NN TAL (Boaz). 117K employees. SG Forge digital assets, CIB technology, BoursoBank engineering, and wholesale banking platforms.",
+  "evidence": [],
+  "questions": []
+}

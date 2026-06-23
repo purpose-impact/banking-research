@@ -1,0 +1,48 @@
+{
+  "slug": "cabot-financial",
+  "company_name": "Cabot Financial",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "Debt Purchase / Collection",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Europe"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~2,000",
+  "key_stat": "Encore Capital subsidiary | UK + European debt purchase | Collections",
+  "summary": "Cabot Financial: UK and European debt purchaser and collector. Subsidiary of Encore Capital Group (US listed). Technology: collections platforms, analytics, digital engagement, regulatory reporting.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Cabot Financial: UK and European debt purchaser and collector. Subsidiary of Encore Capital Group (US listed). Technology: collections platforms, analytics, digital engagement, regulatory reporting.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Debt collection. Collections platform engineering, analytics, and digital engagement."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). Debt collection. Collections platform engineering, analytics, and digital engagement.",
+  "evidence": [],
+  "questions": []
+}

@@ -1,152 +1,89 @@
 {
-  "company_name": "State Street",
   "slug": "state-street",
+  "company_name": "State Street",
+  "owner": "Boaz",
+  "category": "MHA",
   "company_type": "Custodian / Asset Servicer",
   "headquarters": "Boston, USA",
   "key_regions": [
     "USA",
-    "Europe",
-    "Asia-Pacific",
-    "Global (100+ markets)"
+    "Global"
   ],
   "revenue": "~$12B annual",
-  "profit_metric": "$2.78 EPS Q3 2025 (+23% YoY)",
+  "profit_metric": "$2.78 EPS Q3 2025 (+23%)",
   "employees": "~52,000",
-  "key_stat": "$51.7T AUC/A | $5.4T AUM | $1.95T ETF AUM (SPDR) | ~$2B annual tech spend",
-  "summary": "State Street is a leading custodian and asset manager executing a platform-centric transformation via State Street Alpha (Charles River Development front-office + middle/back services). Invests ~$2B/year in technology. Delivered $500M productivity savings in 2025. SSGA rebranded as State Street Investment Management with $1.95T ETF AUM (including flagship SPY). 134 new products launched in 2025. Alpha Data Platform on Snowflake/Azure. AI tools: Co-Pilot (conversational), AADQ (data quality), ML NAV benchmarking for 12K funds. $100M repositioning charge (900 employees) for workforce transformation. Digital Asset Platform launched Jan 2026 (Taurus partnership).",
+  "key_stat": "$51.7T AUC/A | $5.4T AUM | SPDR $1.95T | ~$2B tech spend",
+  "summary": "State Street: Alpha platform (CRD front-to-back, $58T on CRD). $500M productivity savings 2025. SSIM rebranded. 134 new products. Snowflake/Azure data. AI: Co-Pilot, AADQ. Digital Asset Platform (Jan 2026, Taurus). $100M repositioning (900 employees).",
   "business_segments": [
     {
       "name": "Investment Services",
-      "detail": "$51.7T AUC/A. Custody, fund accounting, transfer agency, securities lending, collateral management. >$1T new wins in 2025. Alpha platform as enterprise offering.",
+      "detail": "$51.7T AUC/A. Custody, fund admin, lending, collateral. Alpha platform.",
       "priority": "core"
     },
     {
-      "name": "State Street Alpha (Platform)",
-      "detail": "Front-to-back (Charles River IMS + services). $58T managed on CRD. 2 new mandates ($380B). 11% ARR growth. Enterprise outsource model. 30+ countries.",
+      "name": "State Street Alpha",
+      "detail": "Front-to-back (CRD + services). $58T on CRD. 11% ARR growth.",
       "priority": "growth"
     },
     {
       "name": "Investment Management (SSIM)",
-      "detail": "Rebranded from SSGA. $5.4T AUM. SPDR ETFs ($1.95T incl. SPY). 134 new products in 2025. Apollo credit ETF partnership. Coller Capital PE secondaries. Groww AMC India.",
+      "detail": "$5.4T AUM. SPDR ETFs ($1.95T). 134 new products 2025.",
       "priority": "growth"
-    },
-    {
-      "name": "Markets & FX",
-      "detail": "FX trading, securities finance, agency lending. Franchise growth from client expansion.",
-      "priority": "core"
     }
   ],
   "technology": {
-    "ai": "Alpha AI Data Quality (AADQ): automated ML data cleansing. Alpha Co-Pilot: conversational AI for data queries. ML NAV benchmarking for 12K funds. GenAI use cases expanding.",
-    "cloud": "Snowflake on Azure for Alpha Data Platform. Cloud-native CRD. Data sharing in <10 min (vs months). 50% cost reduction in data onboarding.",
-    "data": "Alpha Data Platform: end-to-end management on Snowflake. Real-time data sharing. Rimes partnership (index/benchmark). Octaura (syndicated loans). Enterprise data management with AI quality.",
-    "platforms": "State Street Alpha (front-to-back). Charles River IMS ($58T). Alpha Data Platform. Enterprise Performance (Opturo). ETF lifecycle services. Digital Asset Platform (Jan 2026, Taurus).",
-    "spend": "~$2B annual. $500M productivity savings delivered 2025. Plan to replicate 2026."
+    "ai": "AADQ (data quality ML). Alpha Co-Pilot. ML NAV benchmarking 12K funds.",
+    "cloud": "Snowflake on Azure. <10 min data onboarding (vs months). 50% cost reduction.",
+    "data": "Alpha Data Platform (Snowflake). Rimes, Octaura partnerships.",
+    "platforms": "Alpha, CRD ($58T), Alpha Data Platform, Digital Asset Platform (Taurus).",
+    "spend": "~$2B annual. $500M savings delivered 2025."
   },
-  "operating_model": "$500M productivity savings (2025). $100M repositioning (900 employees). Enterprise outsource solutions provider. 'Only large servicers have scale for AI-driven post-trade automation.' Partner: Taurus (digital assets), Snowflake (data), Azure (cloud), Rimes (data).",
+  "operating_model": "$500M savings. $100M repositioning (900 employees). Enterprise outsource model. Taurus for digital assets.",
   "people": [
     {
       "name": "Ron O'Hanley",
       "role": "CEO"
     },
     {
-      "name": "Donna Milrod",
-      "role": "Chief Product Officer"
-    },
-    {
-      "name": "Joerg Ambrosius",
-      "role": "President, Investment Services"
-    },
-    {
-      "name": "Anna Paglia",
-      "role": "CBO, Investment Management"
+      "name": "John Plansky",
+      "role": "Head of Alpha"
     },
     {
       "name": "Spiros Giannaros",
-      "role": "CEO, Charles River Development"
-    },
-    {
-      "name": "John Plansky",
-      "role": "Head of State Street Alpha"
+      "role": "CEO, Charles River"
     }
   ],
   "partnerships": [
-    "Snowflake (data)",
-    "Microsoft Azure (cloud)",
-    "Taurus (digital assets)",
-    "Rimes (data)",
-    "Octaura (syndicated loans)",
-    "Opturo (performance)",
-    "Apollo (credit ETF)",
-    "Coller Capital (PE)",
-    "Groww AMC (India)",
-    "Galaxy Digital (ETFs)"
+    "Snowflake",
+    "Azure",
+    "Taurus",
+    "Rimes",
+    "Apollo",
+    "Coller Capital",
+    "Groww AMC"
   ],
   "opportunities": [
     "Alpha mandate pipeline",
-    "AI/GenAI scaling (Co-Pilot, AADQ)",
-    "Digital Asset Platform adoption",
-    "Private markets servicing (Apollo, Coller)",
-    "ETF innovation (134 products/year)",
-    "India (Groww AMC)",
-    "Enterprise outsourcing trend"
+    "AI scaling",
+    "Digital Asset Platform",
+    "Private markets",
+    "ETF innovation",
+    "India (Groww)"
   ],
   "risks": [
-    "Cautious 2026 guidance (stock dropped 4.47% on beat)",
-    "Digital assets 3+ years behind BNY",
+    "Cautious guidance",
+    "Digital assets behind BNY",
     "Alpha implementation complexity",
-    "Workforce restructuring execution",
-    "Taurus vendor dependency"
+    "Workforce restructuring"
   ],
   "skills_gaps": [
-    "AI/ML for investment ops",
+    "AI/ML for ops",
     "Digital asset specialists",
     "Cloud-native development",
-    "Data engineering at scale",
-    "ETF product innovation",
-    "Alpha implementation consultants"
+    "Data engineering",
+    "Alpha consultants"
   ],
-  "partnership_opps": [
-    "AI fund accounting",
-    "Data analytics/reporting",
-    "Private markets fund admin tech",
-    "ESG data integration",
-    "Regulatory reporting automation",
-    "Cloud migration services",
-    "Alpha consulting/implementation"
-  ],
-  "competitive_position": "#2 global custodian ($51.7T vs BNY $55.8T). SPDR franchise unique (SPY). Alpha differentiates front-to-back. Digital assets behind BNY. Competing: BNY, JPMorgan, Northern Trust (custody), Broadridge/SS&C (technology).",
-  "analyst_view": "Platform-centric incumbent investing heavily. Alpha + SPDR + AI = strong position. Strongest: Alpha platform, SPDR, Snowflake data architecture, outsourcing proposition. Weakest: cautious growth outlook, digital assets behind BNY, implementation complexity. Watch: Alpha mandates, AI ROI, digital platform adoption.",
-  "evidence": [
-    {
-      "claim": "$51.7T AUC/A, $5.4T AUM, $1.95T ETF AUM, $2.78 EPS Q3 2025 (+23%)",
-      "source": "State Street Q4 2025 earnings (SEC)",
-      "date": "2026-01"
-    },
-    {
-      "claim": "$500M productivity savings delivered 2025, $100M repositioning (900 employees)",
-      "source": "State Street Q4 2025 earnings",
-      "date": "2026-01"
-    },
-    {
-      "claim": "Alpha Data Platform: Snowflake/Azure, <10 min data onboarding, 50% cost reduction",
-      "source": "Snowflake customer story",
-      "date": "2025"
-    },
-    {
-      "claim": "134 new products launched in 2025, 2 new Alpha mandates ($380B)",
-      "source": "State Street Q1 2025 earnings",
-      "date": "2025"
-    }
-  ],
-  "questions": [
-    "Alpha client retention rate?",
-    "How does $2B tech spend break down (build vs buy vs partner)?",
-    "Competitive response if BNY accelerates?",
-    "ESG integration in technology strategy?",
-    "Private markets product pipeline?"
-  ],
-  "strategy_intensity_score": 4,
-  "business_maturity_score": 4,
-  "technology_maturity_score": 4
+  "coforge_angle": "MHA (Boaz). $2B/yr tech spend. Alpha platform + Snowflake/Azure + AI = massive engineering opportunity. Implementation consulting, data engineering, and digital assets platform work.",
+  "evidence": [],
+  "questions": []
 }

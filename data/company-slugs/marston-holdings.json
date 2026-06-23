@@ -1,0 +1,48 @@
+{
+  "slug": "marston-holdings",
+  "company_name": "Marston Holdings",
+  "owner": "Boaz",
+  "category": "NN TAL",
+  "company_type": "Enforcement / Debt Collection",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~4,500",
+  "key_stat": "UK's largest judicial services | Enforcement, debt collection, transport tech",
+  "summary": "Marston Holdings is the UK's largest judicial enforcement services group. Debt collection, enforcement, transport technology (parking, tolling). PE-owned (Inflexion). Technology-intensive: field workforce management, payment platforms, data analytics.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Marston Holdings is the UK's largest judicial enforcement services group. Debt collection, enforcement, transport technology (parking, tolling). PE-owned (Inflexion). Technology-intensive: field workf",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Enforcement/debt tech. Payment platforms, field workforce tech, data analytics."
+  ],
+  "risks": [
+    "Varies"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data analytics"
+  ],
+  "coforge_angle": "NN TAL (Boaz). Enforcement/debt tech. Payment platforms, field workforce tech, data analytics.",
+  "evidence": [],
+  "questions": []
+}

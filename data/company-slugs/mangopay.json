@@ -1,0 +1,47 @@
+{
+  "slug": "mangopay",
+  "company_name": "Mangopay",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "FinTech / Payments",
+  "headquarters": "Luxembourg",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~400",
+  "key_stat": "Marketplace payments | Wallets | KYC | Advent International-backed",
+  "summary": "Mangopay: payment infrastructure for marketplaces and platforms. Wallets, KYC, payouts. Advent International-backed. Serves 2,500+ platforms. API-first. Growing in e-commerce.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Mangopay: payment infrastructure for marketplaces and platforms. Wallets, KYC, payouts. Advent International-backed. Serves 2,500+ platforms. API-first. Growing in e-commerce.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Marketplace payments fintech. API engineering, wallet infrastructure, KYC, and scaling."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). Marketplace payments fintech. API engineering, wallet infrastructure, KYC, and scaling.",
+  "evidence": [],
+  "questions": []
+}

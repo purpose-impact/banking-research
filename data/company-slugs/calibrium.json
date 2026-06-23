@@ -1,0 +1,50 @@
+{
+  "company_name": "Calibrium",
+  "slug": "calibrium",
+  "category": "Growth",
+  "company_type": "FinTech / Fund Services",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Europe"
+  ],
+  "revenue": "N/A (private)",
+  "profit_metric": "N/A",
+  "employees": "[Requires validation]",
+  "key_stat": "[Requires validation] Fund services / financial technology",
+  "summary": "[REQUIRES VALIDATION] Calibrium appears to be a UK-based financial technology or fund services firm. Limited public information available. May be involved in fund administration, investment operations, or financial data services. Coforge has some existing relationship (Growth account status).",
+  "business_segments": [
+    {
+      "name": "[Requires validation]",
+      "detail": "Financial technology / fund services. Details to be confirmed.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "[Requires validation]",
+    "cloud": "[Requires validation]",
+    "data": "[Requires validation]",
+    "platforms": "[Requires validation]",
+    "spend": "[Requires validation]"
+  },
+  "operating_model": "[Requires validation]",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "[Requires validation — pending further research]"
+  ],
+  "risks": [
+    "Limited public information"
+  ],
+  "skills_gaps": [
+    "[Requires validation]"
+  ],
+  "coforge_angle": "Growth account. Existing relationship. Need to validate company details and Coforge engagement history.",
+  "evidence": [],
+  "questions": [
+    "What is Calibrium's core business?",
+    "What is the current Coforge relationship?",
+    "Revenue and growth trajectory?"
+  ],
+  "owner": "Kumar"
+}

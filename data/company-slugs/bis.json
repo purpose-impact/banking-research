@@ -1,0 +1,77 @@
+{
+  "company_name": "BIS",
+  "slug": "bis",
+  "company_type": "International Financial Institution",
+  "headquarters": "Basel, Switzerland",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~700",
+  "key_stat": "Central bank of central banks | BIS Innovation Hub | Project mBridge, Agora, Mariana",
+  "summary": "The Bank for International Settlements (BIS) is the 'central bank of central banks' serving 63 central banks. The BIS Innovation Hub runs cutting-edge fintech experiments: Project mBridge (multi-CBDC platform), Project Agora (tokenised cross-border payments with 7 central banks + 41 private firms), Project Mariana (DeFi for FX). BIS also sets regulatory standards (Basel Committee) and provides banking services to central banks. Technology procurement for internal systems and Innovation Hub projects.",
+  "business_segments": [
+    {
+      "name": "Banking Services",
+      "detail": "Banking for central banks. Reserve management. FX services.",
+      "priority": "core"
+    },
+    {
+      "name": "BIS Innovation Hub",
+      "detail": "7 centres globally. CBDC projects: mBridge, Agora, Mariana, Tourbillon. Fintech experimentation.",
+      "priority": "growth"
+    },
+    {
+      "name": "Monetary & Financial Stability",
+      "detail": "Basel Committee. Financial stability research. Statistics.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for financial stability monitoring, economic research.",
+    "cloud": "Modernising internal systems.",
+    "data": "Global financial statistics. BIS Data Portal. Cross-border data.",
+    "platforms": "mBridge, Agora (tokenised payments). Internal banking systems.",
+    "spend": "Moderate. Innovation Hub has dedicated budget."
+  },
+  "operating_model": "International organisation. 63 central bank members. 7 Innovation Hub centres. Basel Committee.",
+  "people": [
+    {
+      "name": "Agustín Carstens",
+      "role": "General Manager"
+    },
+    {
+      "name": "Cecilia Skingsley",
+      "role": "Head of BIS Innovation Hub"
+    }
+  ],
+  "partnerships": [
+    "7 central banks (Agora)",
+    "HKMA/Bank of Thailand/PBOC (mBridge)",
+    "41 private firms in Agora (incl. JPMorgan, UBS, Deutsche Bank)"
+  ],
+  "opportunities": [
+    "Innovation Hub project support",
+    "CBDC platform engineering",
+    "Cross-border payments technology",
+    "Data analytics and statistics",
+    "Internal systems modernisation"
+  ],
+  "risks": [
+    "Small organisation — limited vendor spend",
+    "Formal international procurement",
+    "Competition from major consultancies"
+  ],
+  "skills_gaps": [
+    "CBDC engineering",
+    "Cross-border payments",
+    "DLT/blockchain",
+    "Data platform engineering"
+  ],
+  "coforge_angle": "NN TAL. BIS Innovation Hub runs cutting-edge CBDC and tokenisation projects. Smaller opportunity but prestigious. Coforge can support CBDC engineering and data platforms.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

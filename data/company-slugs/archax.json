@@ -1,0 +1,73 @@
+{
+  "company_name": "Archax",
+  "slug": "archax",
+  "company_type": "Digital Asset Exchange / Custodian",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK"
+  ],
+  "revenue": "N/A (private/startup)",
+  "profit_metric": "N/A",
+  "employees": "~50",
+  "key_stat": "FCA-regulated | Hedera-based | Lloyds/abrdn partnerships | Tokenized MMFs",
+  "summary": "Archax is an FCA-regulated digital asset exchange, broker, and custodian based in London. Built on Hedera Hashgraph. Key partnerships: Lloyds (collateral tokenization pilot), abrdn (tokenized MMF), UK Finance GBTD pilot participation. Positioned as UK's institutional-grade digital asset venue. Growing importance as UK tokenization accelerates.",
+  "business_segments": [
+    {
+      "name": "Exchange",
+      "detail": "FCA-regulated digital asset exchange on Hedera.",
+      "priority": "core"
+    },
+    {
+      "name": "Custody",
+      "detail": "Institutional digital asset custody. FCA regulated.",
+      "priority": "core"
+    },
+    {
+      "name": "Tokenization",
+      "detail": "abrdn MMF tokenization. Lloyds collateral pilot. Growing pipeline.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "Limited — focus on exchange/custody infrastructure.",
+    "cloud": "Cloud-native exchange platform.",
+    "data": "Market data, trading data.",
+    "platforms": "Exchange on Hedera. Custody platform. Tokenization services.",
+    "spend": "Startup-level."
+  },
+  "operating_model": "Startup/scale-up. FCA regulated. Growing from exchange to full-service tokenization platform.",
+  "people": [
+    {
+      "name": "Graham Rodford",
+      "role": "CEO"
+    }
+  ],
+  "partnerships": [
+    "Hedera",
+    "Lloyds",
+    "abrdn",
+    "UK Finance"
+  ],
+  "opportunities": [
+    "Engineering support for scaling exchange/custody",
+    "Tokenization platform development",
+    "Regulatory compliance technology",
+    "Integration with bank clients"
+  ],
+  "risks": [
+    "Small company — limited budget",
+    "Dependent on UK tokenization momentum",
+    "Competition from larger exchanges"
+  ],
+  "skills_gaps": [
+    "Exchange platform scaling",
+    "Custody engineering",
+    "Compliance automation",
+    "API development"
+  ],
+  "coforge_angle": "NN TAL. Small but strategic — FCA-regulated UK digital asset venue with Lloyds/abrdn partnerships. Coforge can provide engineering support for scaling and bank integration work.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

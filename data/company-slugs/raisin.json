@@ -1,0 +1,47 @@
+{
+  "slug": "raisin",
+  "company_name": "Raisin",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "FinTech / Deposit Platform",
+  "headquarters": "Berlin, Germany",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~700",
+  "key_stat": "€50B+ deposited | Pan-European deposit marketplace | Open banking",
+  "summary": "Raisin: pan-European deposit and investment marketplace. €50B+ deposited. Connects savers with banks across Europe. Raisin UK (formerly Raisin Bank). Open banking powered. Growing.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Raisin: pan-European deposit and investment marketplace. €50B+ deposited. Connects savers with banks across Europe. Raisin UK (formerly Raisin Bank). Open banking powered. Growing.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Deposit marketplace fintech. Platform engineering, open banking, and scaling."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). Deposit marketplace fintech. Platform engineering, open banking, and scaling.",
+  "evidence": [],
+  "questions": []
+}

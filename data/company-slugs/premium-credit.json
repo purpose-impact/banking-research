@@ -1,0 +1,47 @@
+{
+  "slug": "premium-credit",
+  "company_name": "Premium Credit Limited",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "Premium Finance",
+  "headquarters": "Leatherhead, UK",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~500",
+  "key_stat": "UK's largest premium finance provider | Insurance/tax premium lending",
+  "summary": "Premium Credit: UK's largest premium finance provider. Funds insurance premiums and tax payments via instalments. Technology: lending platform, origination, collections. PE-owned (Cinven).",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Premium Credit: UK's largest premium finance provider. Funds insurance premiums and tax payments via instalments. Technology: lending platform, origination, collections. PE-owned (Cinven).",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Premium finance. Lending platform, origination, collections technology."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). Premium finance. Lending platform, origination, collections technology.",
+  "evidence": [],
+  "questions": []
+}

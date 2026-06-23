@@ -1,0 +1,48 @@
+{
+  "slug": "towerbrook",
+  "company_name": "TowerBrook",
+  "owner": "Boaz",
+  "category": "NN TAL",
+  "company_type": "Private Equity",
+  "headquarters": "London / New York",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~100",
+  "key_stat": "~$18B AUM | Mid-market PE | ESG pioneer | Soros heritage",
+  "summary": "TowerBrook Capital Partners: ~$18B AUM PE/credit firm. Soros Fund Management heritage. ESG pioneer (B Corp certified PE). Technology needs: fund operations, investor reporting. Smaller direct opportunity.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "TowerBrook Capital Partners: ~$18B AUM PE/credit firm. Soros Fund Management heritage. ESG pioneer (B Corp certified PE). Technology needs: fund operations, investor reporting. Smaller direct opportun",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "~$18B PE. Smaller direct but ESG-focused fund operations and reporting technology."
+  ],
+  "risks": [
+    "Varies"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data analytics"
+  ],
+  "coforge_angle": "NN TAL (Boaz). ~$18B PE. Smaller direct but ESG-focused fund operations and reporting technology.",
+  "evidence": [],
+  "questions": []
+}

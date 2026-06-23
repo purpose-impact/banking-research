@@ -1,0 +1,89 @@
+{
+  "company_name": "LSEG",
+  "slug": "lseg",
+  "company_type": "Exchange / Data & Analytics",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "~£8.6B annual (FY2024)",
+  "profit_metric": "Strong growth",
+  "employees": "~25,000",
+  "key_stat": "Refinitiv integration | Microsoft $2.8B partnership | Workspace, Eikon, FTSE Russell",
+  "summary": "London Stock Exchange Group is a global financial infrastructure company. Post-Refinitiv acquisition ($27B, 2021). Microsoft 10-year partnership ($2.8B investment for 4% stake). Key products: Workspace (data terminal), FTSE Russell (indices), LCH (clearing), UnaVista (regulatory reporting), Acadia (derivatives). Massive technology transformation underway with Microsoft (Azure cloud, AI integration, Teams integration). Digital assets: limited but exploring via LCH and post-trade.",
+  "business_segments": [
+    {
+      "name": "Data & Analytics",
+      "detail": "Workspace, Eikon, Datastream. Refinitiv integrated. Financial data, news, analytics. ~60% of revenue.",
+      "priority": "core"
+    },
+    {
+      "name": "Capital Markets",
+      "detail": "London Stock Exchange, Borsa Italiana (sold to Euronext), Turquoise. Trading venues.",
+      "priority": "core"
+    },
+    {
+      "name": "Post-Trade",
+      "detail": "LCH (clearing), UnaVista (reporting), Acadia, TORA. Post-trade services.",
+      "priority": "core"
+    },
+    {
+      "name": "FTSE Russell",
+      "detail": "Index provider. ~$15T benchmarked. ESG indices growing.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "Microsoft AI partnership. Copilot integration into Workspace. AI-powered analytics. NLP for news.",
+    "cloud": "Microsoft Azure migration (10-year deal). Cloud-native Workspace rebuild. Infrastructure modernisation.",
+    "data": "Massive data estate (Refinitiv). Real-time market data. Reference data. ESG data.",
+    "platforms": "Workspace, Eikon, FTSE Russell, LCH, UnaVista, TORA, Acadia.",
+    "spend": "$2.8B Microsoft partnership. Significant annual tech investment."
+  },
+  "operating_model": "Post-Refinitiv integration. Microsoft partnership driving cloud transformation. Open platform strategy. API-first approach.",
+  "people": [
+    {
+      "name": "Julia Hoggett",
+      "role": "CEO (from Jan 2025)"
+    },
+    {
+      "name": "David Schwimmer",
+      "role": "Former CEO"
+    },
+    {
+      "name": "Andrea Sheridan",
+      "role": "CTO"
+    }
+  ],
+  "partnerships": [
+    "Microsoft ($2.8B, 10-year)",
+    "Accenture (implementation)"
+  ],
+  "opportunities": [
+    "Microsoft/Azure partnership work",
+    "Workspace platform engineering",
+    "Post-trade modernisation (LCH)",
+    "Data platform engineering",
+    "API development",
+    "Regulatory reporting (UnaVista)",
+    "ESG data solutions"
+  ],
+  "risks": [
+    "Microsoft partnership may limit other vendors",
+    "Large incumbent vendor ecosystem",
+    "Competitive procurement"
+  ],
+  "skills_gaps": [
+    "Azure cloud engineering",
+    "AI/ML for financial data",
+    "API platform development",
+    "Post-trade technology",
+    "ESG data engineering"
+  ],
+  "coforge_angle": "NN TAL. LSEG spending billions on Microsoft cloud migration and Workspace rebuild. Massive engineering need. Coforge can support Azure migration, platform engineering, data integration, post-trade technology.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

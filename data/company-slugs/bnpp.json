@@ -1,0 +1,82 @@
+{
+  "company_name": "BNP Paribas",
+  "slug": "bnpp",
+  "company_type": "Global Universal Bank",
+  "headquarters": "Paris, France",
+  "key_regions": [
+    "France",
+    "Belgium",
+    "Italy",
+    "Europe",
+    "Global"
+  ],
+  "revenue": "~€46B annual",
+  "profit_metric": "~€11B annual profit",
+  "employees": "~190,000",
+  "key_stat": "Eurozone's largest bank | AXA IM acquired | AssetFoundry tokenization",
+  "summary": "BNP Paribas is the Eurozone's largest bank. Retail (France, Belgium, Italy), CIB, Investment Solutions, Insurance. AssetFoundry tokenization platform on Ethereum. Canton Network member. Digital Asset $135M investment. AXA IM acquisition. Eurosystem CBDC experiments. MiCA positioning. Strategy: European leadership, sustainable finance, integrated group model (AM + Securities Services + CIB).",
+  "business_segments": [
+    {
+      "name": "Commercial & Personal Banking",
+      "detail": "Retail in France, Belgium, Italy. BNL, Fortis. Digital transformation.",
+      "priority": "core"
+    },
+    {
+      "name": "CIB",
+      "detail": "Global markets, securities services, corporate banking. AssetFoundry. Canton.",
+      "priority": "core"
+    },
+    {
+      "name": "Investment & Protection Services",
+      "detail": "BNP Paribas AM (incl. AXA IM). Insurance (Cardif). Real estate. Wealth.",
+      "priority": "growth"
+    }
+  ],
+  "technology": {
+    "ai": "AI for trading, risk, customer service. AXA IM innovation.",
+    "cloud": "Cloud transformation. Multi-country regulatory.",
+    "data": "Risk analytics. Investment data. Client reporting.",
+    "platforms": "AssetFoundry, Securities Services, digital banking.",
+    "spend": "Significant across 190K employees."
+  },
+  "operating_model": "Integrated group (AM + Securities Services + CIB). AXA IM acquisition. MiCA positioning.",
+  "people": [
+    {
+      "name": "Jean-Laurent Bonnafé",
+      "role": "CEO"
+    },
+    {
+      "name": "Julien Clausse",
+      "role": "Head of AssetFoundry"
+    }
+  ],
+  "partnerships": [
+    "Digital Asset (Canton, $135M)",
+    "Ethereum",
+    "Banque de France (CBDC)"
+  ],
+  "opportunities": [
+    "Securities services technology",
+    "AXA IM integration",
+    "AssetFoundry implementation",
+    "MiCA compliance",
+    "Wealth management technology",
+    "CIB platform engineering"
+  ],
+  "risks": [
+    "European economic uncertainty",
+    "Behind US peers on digital",
+    "AXA IM integration complexity"
+  ],
+  "skills_gaps": [
+    "Tokenization engineering",
+    "MiCA compliance",
+    "AI for asset management",
+    "Cloud migration at scale"
+  ],
+  "coforge_angle": "NN TAL. BNP Paribas is 190K employees with massive technology spend. Securities services, CIB technology, AXA IM integration, and digital banking transformation all need vendor support.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "leeds-bs",
+  "company_name": "Leeds Building Society",
+  "owner": "Rohit",
+  "category": "Growth",
+  "company_type": "Building Society",
+  "headquarters": "Leeds, UK",
+  "key_regions": [
+    "UK"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~1,400",
+  "key_stat": "UK's 5th largest BS | £22B+ assets | Mortgages, savings",
+  "summary": "Leeds Building Society: 5th largest UK BS. £22B+ assets. Mortgages and savings. Digital transformation. Core banking modernisation needed.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Leeds Building Society: 5th largest UK BS. £22B+ assets. Mortgages and savings. Digital transformation. Core banking modernisation needed.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud migration.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Moderate."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Building society. Core banking, digital channels, mortgage technology."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Digital banking"
+  ],
+  "coforge_angle": "Growth (Rohit). Building society. Core banking, digital channels, mortgage technology.",
+  "evidence": [],
+  "questions": []
+}

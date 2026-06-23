@@ -1,0 +1,48 @@
+{
+  "slug": "oaknorth",
+  "company_name": "OakNorth Bank",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "AI-Powered Bank",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Europe"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~800",
+  "key_stat": "AI-powered SME lender | OakNorth Credit Intelligence | $1B+ revenue",
+  "summary": "OakNorth: UK challenger bank specialising in AI-powered SME lending. OakNorth Credit Intelligence (ONCI) platform licensed to other banks globally. SoftBank-backed. $1B+ platform revenue.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "OakNorth: UK challenger bank specialising in AI-powered SME lending. OakNorth Credit Intelligence (ONCI) platform licensed to other banks globally. SoftBank-backed. $1B+ platform revenue.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "AI-powered lending. ONCI platform engineering, AI/ML, and scaling support."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). AI-powered lending. ONCI platform engineering, AI/ML, and scaling support.",
+  "evidence": [],
+  "questions": []
+}

@@ -1,0 +1,84 @@
+{
+  "company_name": "EBRD",
+  "slug": "ebrd",
+  "category": "Growth",
+  "company_type": "Multilateral Development Bank",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "Central/Eastern Europe",
+    "Central Asia",
+    "Southern/Eastern Mediterranean"
+  ],
+  "revenue": "N/A (development bank)",
+  "profit_metric": "N/A",
+  "employees": "~3,000",
+  "key_stat": "Invests in 36 economies | ~€13B annual investment | Green Economy Transition",
+  "summary": "The European Bank for Reconstruction and Development (EBRD) invests in private enterprise across 36 emerging economies from Central Europe to Central Asia and the Southern/Eastern Mediterranean. ~€13B annual investment. Key themes: Green Economy Transition (GET), digital transformation, private sector development. Technology needs: portfolio management, risk systems, data analytics, digital lending platforms, ESG reporting, cybersecurity. Formal procurement processes.",
+  "business_segments": [
+    {
+      "name": "Banking",
+      "detail": "Debt, equity, guarantees, trade finance. ~€13B annual. Infrastructure, manufacturing, agribusiness, property.",
+      "priority": "core"
+    },
+    {
+      "name": "Green Economy Transition",
+      "detail": "50%+ of investments now green-aligned. Climate finance, renewable energy, energy efficiency.",
+      "priority": "growth"
+    },
+    {
+      "name": "Policy & Advisory",
+      "detail": "Technical cooperation, policy dialogue, reform support in target economies.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "Exploring AI for credit risk, portfolio analytics, ESG assessment.",
+    "cloud": "Cloud migration for internal systems. Microsoft partnership likely.",
+    "data": "Portfolio data, ESG metrics, impact measurement. Data-driven investment decisions.",
+    "platforms": "Treasury systems, lending platforms, risk management, client portal.",
+    "spend": "Significant IT budget for a development bank. Formal procurement."
+  },
+  "operating_model": "Multilateral development bank. HQ London + 40+ resident offices. Formal procurement processes. Large consulting and technology vendor ecosystem.",
+  "people": [
+    {
+      "name": "Odile Renaud-Basso",
+      "role": "President"
+    }
+  ],
+  "partnerships": [
+    "World Bank Group",
+    "EIB",
+    "IFC",
+    "Bilateral donors",
+    "Technology vendors (formal procurement)"
+  ],
+  "opportunities": [
+    "Digital lending platform modernisation",
+    "ESG/climate data analytics",
+    "Portfolio risk management systems",
+    "Treasury and ALM technology",
+    "Cybersecurity services",
+    "Data warehouse and reporting"
+  ],
+  "risks": [
+    "Formal procurement (long, competitive)",
+    "Multilateral governance complexity",
+    "Budget constraints",
+    "Competition from Accenture, Deloitte, McKinsey"
+  ],
+  "skills_gaps": [
+    "ESG data engineering",
+    "Cloud migration",
+    "Digital lending technology",
+    "Risk analytics",
+    "Cybersecurity"
+  ],
+  "coforge_angle": "Growth. EBRD needs technology for lending platforms, ESG analytics, risk systems, treasury. Formal procurement but multi-year contracts. Coforge's BFS domain expertise is relevant.",
+  "evidence": [],
+  "questions": [
+    "Current IT vendor landscape?",
+    "Digital transformation programme scope?",
+    "ESG technology roadmap?"
+  ],
+  "owner": "Kumar"
+}

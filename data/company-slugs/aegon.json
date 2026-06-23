@@ -1,0 +1,48 @@
+{
+  "slug": "aegon",
+  "company_name": "Aegon",
+  "owner": "Boaz",
+  "category": "Growth",
+  "company_type": "Insurance / Asset Manager",
+  "headquarters": "The Hague, Netherlands",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~22,000",
+  "key_stat": "Major European insurer | Aegon AM | Transamerica (US) | Pensions",
+  "summary": "Aegon is a major European insurance and asset management group. Brands: Aegon, Transamerica (US), Cofunds (UK platforms). Significant UK presence in pensions and platform distribution. Sold Aegon UK to Royal London (2023). Aegon Asset Management remains. Technology needs: insurance platforms, pensions admin, distribution technology.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Aegon is a major European insurance and asset management group. Brands: Aegon, Transamerica (US), Cofunds (UK platforms). Significant UK presence in p",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "[See summary]",
+    "cloud": "Cloud-based platforms.",
+    "data": "Investment/business data.",
+    "platforms": "Core platforms.",
+    "spend": "Moderate."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "European insurer/AM. Pensions, insurance platform, and distribution technology needs. Post-UK disposal, Aegon AM remains a target."
+  ],
+  "risks": [
+    "Limited public detail for some areas"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Data analytics",
+    "Cloud migration"
+  ],
+  "coforge_angle": "Growth (Boaz). European insurer/AM. Pensions, insurance platform, and distribution technology needs. Post-UK disposal, Aegon AM remains a target.",
+  "evidence": [],
+  "questions": []
+}

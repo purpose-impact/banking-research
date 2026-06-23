@@ -1,5 +1,7 @@
 {
   "company_name": "UBS",
+  "slug": "ubs",
+  "category": "MHA",
   "company_type": "Global Wealth Manager / Universal Bank",
   "headquarters": "Zurich, Switzerland",
   "key_regions": [
@@ -12,37 +14,37 @@
   "profit_metric": "53% profit increase FY2025",
   "employees": "~115,000",
   "key_stat": "$5.7T AUM | World's largest wealth manager | Credit Suisse integration ongoing",
-  "summary": "UBS is the world's largest wealth manager ($5.7T AUM) executing post-Credit Suisse integration while building digital capabilities. FY2025 profit up 53%. CEO Ermotti describes firm as 'fast follower' in tokenization with 3-5 year rollout. UBS Tokenize platform for bonds, funds, structured products. uMINT tokenized MMF on Ethereum. Key4 gold on blockchain. Chainlink live transaction (Nov 2025). Exploring retail crypto access. Credit Suisse integration consuming significant bandwidth. Swiss banking market leader. Fnality Payment System participant.",
+  "summary": "UBS is the world's largest wealth manager ($5.7T AUM) executing post-Credit Suisse integration. FY2025 profit up 53%. CEO Ermotti: 'fast follower' in tokenization (3-5 year plan). UBS Tokenize platform for bonds, funds, structured products. uMINT tokenized MMF on Ethereum. Chainlink live transaction. Exploring retail crypto access. Fnality Payment System founding participant. Credit Suisse integration is the largest technology project in Swiss banking history.",
   "business_segments": [
     {
       "name": "Global Wealth Management",
-      "detail": "$5.7T AUM. UHNW/HNW/affluent globally. 40+ countries. Investing, lending, trust, advisory.",
+      "detail": "$5.7T AUM. UHNW/HNW globally. 40+ countries.",
       "priority": "core"
     },
     {
       "name": "Personal & Corporate Banking",
-      "detail": "Swiss universal bank. Retail, corporate, institutional. Market leader in Switzerland.",
+      "detail": "Swiss universal bank. Market leader in Switzerland.",
       "priority": "core"
     },
     {
       "name": "Asset Management",
-      "detail": "Institutional AM. Index, active, alternatives. Tokenized funds (uMINT).",
+      "detail": "Institutional AM. Index, active, alternatives. uMINT tokenized fund.",
       "priority": "core"
     },
     {
       "name": "Investment Bank",
-      "detail": "Advisory, capital markets, equities, FICC. UBS Tokenize platform.",
+      "detail": "Advisory, capital markets, equities, FICC. UBS Tokenize.",
       "priority": "core"
     }
   ],
   "technology": {
-    "ai": "AI for wealth personalisation, risk management, trading. GenAI for advisor productivity.",
-    "cloud": "Complex transformation alongside Credit Suisse integration.",
-    "data": "Wealth analytics. Risk data. Client portfolio insights.",
-    "platforms": "Wealth advisory platforms. Swiss digital banking. Trading systems. UBS Tokenize.",
-    "spend": "Significant — Credit Suisse integration is largest single tech project."
+    "ai": "AI for wealth personalisation, risk, trading. GenAI for advisor productivity.",
+    "cloud": "Massive CS integration. Hybrid cloud. Legacy estate rationalisation.",
+    "data": "Wealth analytics. Client portfolio insights. Risk data.",
+    "platforms": "Wealth advisory. Swiss digital banking. UBS Tokenize. Trading systems.",
+    "spend": "CS integration = largest single tech programme. Multi-billion."
   },
-  "operating_model": "Credit Suisse integration (massive multi-year). 115K employees post-merger. Cost synergies being captured. Infrastructure consolidation. 53% profit increase despite integration costs.",
+  "operating_model": "Credit Suisse integration (multi-year). 115K employees. Cost synergies. Infrastructure consolidation.",
   "people": [
     {
       "name": "Sergio Ermotti",
@@ -50,47 +52,60 @@
     },
     {
       "name": "Christoph Puhr",
-      "role": "Digital Assets Lead, UBS Group"
+      "role": "Digital Assets Lead"
     },
     {
       "name": "Todd Tuckner",
       "role": "CFO"
+    },
+    {
+      "name": "Mike Dargan",
+      "role": "Group CIO"
     }
   ],
   "partnerships": [
     "Chainlink",
-    "ZKsync",
-    "Fnality",
-    "MAS (Project Guardian)"
+    "Fnality (founding)",
+    "MAS (Project Guardian)",
+    "ZKsync"
   ],
   "opportunities": [
-    "Wealth scale post-CS integration ($5.7T)",
+    "CS integration technology (massive vendor need)",
+    "Wealth platform modernisation",
     "UBS Tokenize expansion",
-    "Retail crypto access (CEO confirmed)",
-    "Credit Suisse synergies",
-    "Swiss market dominance",
-    "APAC wealth growth"
+    "Retail crypto access",
+    "Swiss market digitisation"
   ],
   "risks": [
-    "Credit Suisse integration execution",
+    "CS integration execution",
     "Fast follower may miss window",
-    "Wealth competition (Morgan Stanley, JPMorgan)",
-    "Swiss regulatory complexity",
-    "Legacy tech from CS integration"
+    "Wealth competition",
+    "Legacy tech from CS"
   ],
   "skills_gaps": [
     "Integration engineering (CS systems)",
     "Digital asset PMs",
     "Wealth platform engineers",
-    "L2 blockchain engineering",
-    "Cross-border compliance tech"
+    "Cloud migration at scale",
+    "Data migration and quality"
   ],
-  "competitive_position": "World's largest wealth manager ($5.7T). Swiss leader. CS integration = scale + complexity. Competing: Morgan Stanley (wealth), JPMorgan (IB), Pictet/Julius Baer (Swiss wealth).",
-  "partnership_opps": [],
-  "evidence": [],
-  "questions": [],
-  "slug": "ubs",
-  "strategy_intensity_score": 3,
-  "business_maturity_score": 5,
-  "technology_maturity_score": 4
+  "coforge_angle": "MHA. Massive CS integration creates multi-year technology vendor opportunity. Coforge can support infrastructure consolidation, data migration, testing, wealth platform engineering, and digital transformation.",
+  "evidence": [
+    {
+      "claim": "$5.7T AUM, 53% profit increase FY2025",
+      "source": "UBS Annual Report 2025",
+      "date": "2026-02"
+    },
+    {
+      "claim": "CEO: fast follower, 3-5 year tokenization plan",
+      "source": "The Block",
+      "date": "2025"
+    }
+  ],
+  "questions": [
+    "CS integration vendor landscape and gaps?",
+    "Wealth platform technology roadmap?",
+    "Digital assets team expansion plans?"
+  ],
+  "owner": "Kumar"
 }

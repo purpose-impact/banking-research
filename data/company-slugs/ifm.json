@@ -1,0 +1,48 @@
+{
+  "slug": "ifm",
+  "company_name": "IFM Investors",
+  "owner": "Boaz",
+  "category": "Growth",
+  "company_type": "Infrastructure / Asset Manager",
+  "headquarters": "Melbourne, Australia",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~900",
+  "key_stat": "A$230B+ AUM | Infrastructure specialist | Australian superannuation",
+  "summary": "IFM Investors is a global institutional asset manager owned by 27 Australian superannuation funds. A$230B+ AUM. Specialises in infrastructure, debt, listed equities, private equity. Growing European and UK presence. Technology needs: portfolio management, data analytics, investor reporting.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "IFM Investors is a global institutional asset manager owned by 27 Australian superannuation funds. A$230B+ AUM. Specialises in infrastructure, debt, l",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "[See summary]",
+    "cloud": "Cloud-based platforms.",
+    "data": "Investment/business data.",
+    "platforms": "Core platforms.",
+    "spend": "Moderate."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "A$230B AUM. Infrastructure specialist. Portfolio management, data analytics, and investor reporting technology needs."
+  ],
+  "risks": [
+    "Limited public detail for some areas"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Data analytics",
+    "Cloud migration"
+  ],
+  "coforge_angle": "Growth (Boaz). A$230B AUM. Infrastructure specialist. Portfolio management, data analytics, and investor reporting technology needs.",
+  "evidence": [],
+  "questions": []
+}

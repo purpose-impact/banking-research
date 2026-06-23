@@ -1,0 +1,48 @@
+{
+  "slug": "thomson-reuters",
+  "company_name": "Thomson Reuters",
+  "owner": "Boaz",
+  "category": "NN TAL",
+  "company_type": "Data & Analytics / Legal",
+  "headquarters": "Toronto / New York",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~26,000",
+  "key_stat": "$7.3B revenue | Westlaw, Refinitiv stake (sold to LSEG) | AI-powered legal/tax",
+  "summary": "Thomson Reuters: legal (Westlaw), tax (ONESOURCE), news (Reuters). Post-Refinitiv sale to LSEG, retained significant revenue. AI-first strategy: CoCounsel AI assistant. $7.3B revenue. Growing AI capabilities.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Thomson Reuters: legal (Westlaw), tax (ONESOURCE), news (Reuters). Post-Refinitiv sale to LSEG, retained significant revenue. AI-first strategy: CoCounsel AI assistant. $7.3B revenue. Growing AI capab",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "$7.3B revenue. AI-powered legal/tax platforms. Engineering for CoCounsel AI, data platforms, and cloud migration."
+  ],
+  "risks": [
+    "Varies"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data analytics"
+  ],
+  "coforge_angle": "NN TAL (Boaz). $7.3B revenue. AI-powered legal/tax platforms. Engineering for CoCounsel AI, data platforms, and cloud migration.",
+  "evidence": [],
+  "questions": []
+}

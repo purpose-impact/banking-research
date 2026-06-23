@@ -1,0 +1,71 @@
+{
+  "company_name": "ING",
+  "slug": "ing",
+  "company_type": "Digital-First Bank",
+  "headquarters": "Amsterdam, Netherlands",
+  "key_regions": [
+    "Netherlands",
+    "Belgium",
+    "Germany",
+    "Europe",
+    "Global"
+  ],
+  "revenue": "~€22B annual",
+  "profit_metric": "Strong",
+  "employees": "~60,000",
+  "key_stat": "Pioneer in digital banking | ING Direct heritage | Fnality shareholder | Wholesale banking",
+  "summary": "ING is a Dutch digital-first bank with strong wholesale banking franchise. Pioneer in digital banking (ING Direct). Fnality shareholder. Operations across Europe, Americas, Asia-Pacific. Key business: wholesale banking (lending, transaction services, financial markets), retail banking (Benelux, Germany, Australia). Technology: digital banking platforms, AI for credit risk, real-time payments.",
+  "business_segments": [
+    {
+      "name": "Wholesale Banking",
+      "detail": "Lending, transaction services, financial markets. Global corporate franchise.",
+      "priority": "core"
+    },
+    {
+      "name": "Retail Banking",
+      "detail": "Netherlands, Belgium, Germany, Australia. Digital-first. Mobile banking leader.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for credit risk, fraud, customer insights. Pace of change model.",
+    "cloud": "Cloud-native approach. Agile at scale (ING model widely copied).",
+    "data": "Customer analytics. Real-time risk. Transaction data.",
+    "platforms": "Digital banking platforms. ING model (agile/DevOps pioneer).",
+    "spend": "Significant. Pioneer in technology-driven banking."
+  },
+  "operating_model": "ING agile model (squads, tribes, chapters) — widely copied. Digital-first. Lean operations. Fnality shareholder.",
+  "people": [
+    {
+      "name": "Steven van Rijswijk",
+      "role": "CEO"
+    }
+  ],
+  "partnerships": [
+    "Fnality (shareholder)"
+  ],
+  "opportunities": [
+    "Agile/DevOps consulting",
+    "Digital banking platform engineering",
+    "Wholesale banking technology",
+    "AI/ML for credit risk",
+    "Real-time payments",
+    "Cloud-native development"
+  ],
+  "risks": [
+    "ING has strong internal tech culture — less outsourcing",
+    "Competitive Dutch market",
+    "Regulatory scrutiny"
+  ],
+  "skills_gaps": [
+    "Cloud-native engineering",
+    "AI/ML at scale",
+    "Real-time payments",
+    "Digital identity"
+  ],
+  "coforge_angle": "NN TAL. ING is an agile technology pioneer but still needs vendor support for wholesale banking technology, platform engineering, regulatory compliance, and scaling.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

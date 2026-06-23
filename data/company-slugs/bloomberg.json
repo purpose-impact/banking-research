@@ -1,0 +1,48 @@
+{
+  "slug": "bloomberg",
+  "company_name": "Bloomberg",
+  "owner": "Boaz",
+  "category": "NN TAL",
+  "company_type": "Data & Analytics / Media",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~20,000",
+  "key_stat": "$12.5B+ revenue | Bloomberg Terminal | Bloomberg AIM | Fixed income",
+  "summary": "Bloomberg: Terminal (325K subscribers), Bloomberg AIM (OEMS), fixed income trading, news, data. $12.5B+ revenue. Private (Michael Bloomberg). Massive technology operation. Terminal modernisation and AI integration.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Bloomberg: Terminal (325K subscribers), Bloomberg AIM (OEMS), fixed income trading, news, data. $12.5B+ revenue. Private (Michael Bloomberg). Massive technology operation. Terminal modernisation and A",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "$12.5B revenue, 20K employees. Terminal engineering, AIM platform, AI integration, and data platform needs."
+  ],
+  "risks": [
+    "Varies"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data analytics"
+  ],
+  "coforge_angle": "NN TAL (Boaz). $12.5B revenue, 20K employees. Terminal engineering, AIM platform, AI integration, and data platform needs.",
+  "evidence": [],
+  "questions": []
+}

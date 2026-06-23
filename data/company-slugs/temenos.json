@@ -1,0 +1,85 @@
+{
+  "slug": "temenos",
+  "company_name": "Temenos",
+  "owner": "Rohit",
+  "category": "MHA",
+  "company_type": "Banking Software",
+  "headquarters": "Geneva, Switzerland",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "~$1B annual",
+  "profit_metric": "SaaS transition",
+  "employees": "~7,500",
+  "key_stat": "#1 banking software vendor | 3,000+ banks globally | Core banking + wealth + payments",
+  "summary": "Temenos is the world's largest pure-play banking software company. 3,000+ bank clients in 150 countries. Products: Transact (core banking), Infinity (digital), Multifonds (fund admin), WealthSuite. SaaS transition underway. Partnered with major cloud providers. Key competitor to Finastra, Oracle Financial Services, Thought Machine.",
+  "business_segments": [
+    {
+      "name": "Core Banking (Transact)",
+      "detail": "T24/Transact. Core banking for retail, corporate, Islamic, microfinance. SaaS migration.",
+      "priority": "core"
+    },
+    {
+      "name": "Digital Banking (Infinity)",
+      "detail": "Digital front-end. Mobile, internet banking. Open banking.",
+      "priority": "growth"
+    },
+    {
+      "name": "Fund Administration (Multifonds)",
+      "detail": "Transfer agency, fund accounting. Asset servicing clients.",
+      "priority": "core"
+    },
+    {
+      "name": "Wealth (WealthSuite)",
+      "detail": "Private banking, wealth management platform.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for credit scoring, fraud, personalisation within banking platform.",
+    "cloud": "SaaS transition. AWS, Azure, Google Cloud deployment.",
+    "data": "Banking data models. Regulatory reporting. Analytics.",
+    "platforms": "Transact, Infinity, Multifonds, WealthSuite, Temenos Banking Cloud.",
+    "spend": "~$300M R&D annually."
+  },
+  "operating_model": "SaaS transition. 3,000+ bank clients. Implementation partner ecosystem. Acquisition target speculation.",
+  "people": [
+    {
+      "name": "Andreas Andreades",
+      "role": "CEO"
+    },
+    {
+      "name": "Caline Karouni",
+      "role": "CTO"
+    }
+  ],
+  "partnerships": [
+    "AWS",
+    "Azure",
+    "Google Cloud",
+    "Implementation partners (Accenture, Deloitte, Cognizant, Infosys)"
+  ],
+  "opportunities": [
+    "Implementation partner opportunities",
+    "SaaS migration support for bank clients",
+    "Multifonds fund admin implementations",
+    "WealthSuite implementations",
+    "Testing and QA",
+    "Data migration"
+  ],
+  "risks": [
+    "SaaS transition execution",
+    "Competition from Thought Machine, Mambu",
+    "Bank client switching costs"
+  ],
+  "skills_gaps": [
+    "Core banking implementation",
+    "Cloud migration",
+    "Testing/QA",
+    "Data migration",
+    "Wealth platform"
+  ],
+  "coforge_angle": "MHA (Rohit). Temenos uses large implementation partner ecosystem. Coforge can become Temenos SI partner for bank implementations, SaaS migration, testing, and data migration.",
+  "evidence": [],
+  "questions": []
+}

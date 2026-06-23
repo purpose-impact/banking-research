@@ -1,0 +1,47 @@
+{
+  "slug": "coventry-bs",
+  "company_name": "Coventry Building Society",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "Building Society",
+  "headquarters": "Coventry, UK",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~2,700",
+  "key_stat": "UK's 2nd largest BS | £56B+ assets | Mortgages, savings",
+  "summary": "Coventry Building Society: UK's 2nd largest. £56B+ assets. Mortgages and savings. Co-operative Bank merger (2024/25). Technology modernisation and integration.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Coventry Building Society: UK's 2nd largest. £56B+ assets. Mortgages and savings. Co-operative Bank merger (2024/25). Technology modernisation and integration.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "UK's 2nd largest BS. Core banking, mortgage tech, and Co-op Bank integration."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). UK's 2nd largest BS. Core banking, mortgage tech, and Co-op Bank integration.",
+  "evidence": [],
+  "questions": []
+}

@@ -1,0 +1,48 @@
+{
+  "slug": "finastra",
+  "company_name": "Finastra",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "Banking Software",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Europe"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~8,000",
+  "key_stat": "$1.7B revenue | FusionBanking | Kondor | Misys+D+H heritage",
+  "summary": "Finastra: $1.7B revenue banking software. Products: Fusion (core, lending, treasury, payments, trade). 8,600+ clients. Vista Equity Partners owned. Competes with Temenos, Oracle, FIS. Open platform strategy.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Finastra: $1.7B revenue banking software. Products: Fusion (core, lending, treasury, payments, trade). 8,600+ clients. Vista Equity Partners owned. Competes with Temenos, Oracle, FIS. Open platform st",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "$1.7B revenue. Fusion platform implementations, integration, and modernisation. SI partner opportunity like Temenos."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). $1.7B revenue. Fusion platform implementations, integration, and modernisation. SI partner opportunity like Temenos.",
+  "evidence": [],
+  "questions": []
+}

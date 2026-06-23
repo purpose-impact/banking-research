@@ -1,0 +1,47 @@
+{
+  "slug": "transfermate",
+  "company_name": "TransferMate",
+  "owner": "Rohit",
+  "category": "Growth",
+  "company_type": "FinTech / Cross-border",
+  "headquarters": "Killarney, Ireland",
+  "key_regions": [
+    "UK"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~300",
+  "key_stat": "B2B cross-border payments | Licensed in 100+ countries | Clune Technology",
+  "summary": "TransferMate: B2B cross-border payments fintech. Licensed in 100+ countries. Part of Clune Technology Group. Serves banks, corporates, universities. API-first platform.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "TransferMate: B2B cross-border payments fintech. Licensed in 100+ countries. Part of Clune Technology Group. Serves banks, corporates, universities. API-first platform.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud migration.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Moderate."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Cross-border payments fintech. API engineering, compliance, and platform scaling."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Digital banking"
+  ],
+  "coforge_angle": "Growth (Rohit). Cross-border payments fintech. API engineering, compliance, and platform scaling.",
+  "evidence": [],
+  "questions": []
+}

@@ -1,0 +1,47 @@
+{
+  "slug": "brookfield",
+  "company_name": "Brookfield",
+  "owner": "Boaz",
+  "category": "NN TAL",
+  "company_type": "Alternative Asset Manager",
+  "headquarters": "Toronto, Canada",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~250,000 (with portfolio)",
+  "key_stat": "$1T+ AUM | Infrastructure, RE, PE, credit | Global scale",
+  "summary": "Brookfield Asset Management: $1T+ AUM across infrastructure, real estate, PE, credit, insurance. Massive global platform. Oaktree Credit. Brookfield Reinsurance. Technology needs: portfolio management at scale, real asset analytics, investor reporting.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Brookfield Asset Management: $1T+ AUM across infrastructure, real estate, PE, credit, insurance. Massive global platform. Oaktree Credit. Brookfield Reinsurance. Technology needs: portfolio management",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "$1T+ AUM. Massive. Portfolio management, real asset analytics, investor reporting, and infrastructure technology."
+  ],
+  "risks": [
+    "Varies"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data analytics"
+  ],
+  "coforge_angle": "NN TAL (Boaz). $1T+ AUM. Massive. Portfolio management, real asset analytics, investor reporting, and infrastructure technology.",
+  "evidence": [],
+  "questions": []
+}

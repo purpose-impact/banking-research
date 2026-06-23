@@ -1,0 +1,81 @@
+{
+  "company_name": "CACEIS",
+  "slug": "caceis",
+  "company_type": "Custodian / Asset Servicer",
+  "headquarters": "Paris, France",
+  "key_regions": [
+    "France",
+    "Europe",
+    "Global"
+  ],
+  "revenue": "~€2B annual",
+  "profit_metric": "Strong",
+  "employees": "~7,000",
+  "key_stat": "Part of Crédit Agricole Group | €4.6T AUC | Fund admin, custody, clearing",
+  "summary": "CACEIS is a major European asset servicing company, subsidiary of Crédit Agricole Group. €4.6T AUC. Provides custody, fund administration, clearing, middle-office outsourcing, and transfer agency services. Key European competitor to BNY, State Street, and Northern Trust. Acquired KAS BANK and RBC Investor Services. Growing through M&A and organic. Technology modernisation needed to compete with US custodians.",
+  "business_segments": [
+    {
+      "name": "Custody",
+      "detail": "€4.6T AUC. Safekeeping, settlement, corporate actions. European network.",
+      "priority": "core"
+    },
+    {
+      "name": "Fund Administration",
+      "detail": "NAV calculation, transfer agency, fund reporting. Serving AM clients.",
+      "priority": "core"
+    },
+    {
+      "name": "Middle Office",
+      "detail": "Outsourced middle office services. Trade matching, reconciliation, compliance.",
+      "priority": "growth"
+    },
+    {
+      "name": "Clearing",
+      "detail": "Clearing services for derivatives and securities.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "Exploring AI for fund operations, reconciliation, NAV.",
+    "cloud": "Cloud transformation. Legacy modernisation.",
+    "data": "Fund data, custody data, regulatory reporting.",
+    "platforms": "Custody systems, fund admin platform, clearing systems, OLIS transfer agency.",
+    "spend": "Growing — under pressure to modernise vs US competitors."
+  },
+  "operating_model": "Crédit Agricole subsidiary. European champion in asset servicing. M&A growth (KAS BANK, RBC IS). Scale to compete with BNY/State Street.",
+  "people": [
+    {
+      "name": "Jean-François Abadie",
+      "role": "CEO"
+    }
+  ],
+  "partnerships": [
+    "Crédit Agricole (parent)",
+    "Santander (cooperation)"
+  ],
+  "opportunities": [
+    "Platform modernisation (custody, fund admin)",
+    "Middle office outsourcing technology",
+    "Regulatory reporting automation",
+    "Cloud migration",
+    "Data analytics for clients",
+    "Transfer agency technology"
+  ],
+  "risks": [
+    "Parent company (Crédit Agricole) may control vendor selection",
+    "Competition from US custodians",
+    "Legacy technology estate"
+  ],
+  "skills_gaps": [
+    "Cloud-native custody systems",
+    "AI for fund operations",
+    "Regulatory reporting tech",
+    "Data engineering",
+    "API development"
+  ],
+  "coforge_angle": "NN TAL. €4.6T AUC. Major European custodian needing platform modernisation. Coforge's BFS expertise directly relevant for custody, fund admin, and regulatory reporting technology.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

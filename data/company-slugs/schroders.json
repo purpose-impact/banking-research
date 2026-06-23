@@ -1,0 +1,48 @@
+{
+  "slug": "schroders",
+  "company_name": "Schroders",
+  "owner": "Boaz",
+  "category": "NN TAL",
+  "company_type": "Asset Manager",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~6,100",
+  "key_stat": "£773B AUM | Wealth management | Sustainability | Listed",
+  "summary": "Schroders is a major UK-listed asset manager (£773B AUM). Active management, wealth (Cazenove), sustainability focus. Technology: investment platforms, wealth technology, data analytics, ESG integration. Competing with LGIM, abrdn, Fidelity International.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "Schroders is a major UK-listed asset manager (£773B AUM). Active management, wealth (Cazenove), sustainability focus. Technology: investment platforms, wealth technology, data analytics, ESG integrati",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "£773B AUM. Investment platform engineering, wealth technology, ESG data, and analytics."
+  ],
+  "risks": [
+    "Varies"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data analytics"
+  ],
+  "coforge_angle": "NN TAL (Boaz). £773B AUM. Investment platform engineering, wealth technology, ESG data, and analytics.",
+  "evidence": [],
+  "questions": []
+}

@@ -1,0 +1,65 @@
+{
+  "company_name": "Warburg Pincus",
+  "slug": "warburg-pincus",
+  "company_type": "Private Equity",
+  "headquarters": "New York, USA",
+  "key_regions": [
+    "USA",
+    "Global",
+    "Asia"
+  ],
+  "revenue": "N/A (PE)",
+  "profit_metric": "N/A",
+  "employees": "~900",
+  "key_stat": "$86B AUM | 50+ years | Fintech investor (BPCE/Fidelity National)",
+  "summary": "Warburg Pincus is a leading global PE firm with $86B AUM. 50+ year track record. Key sectors: financial services, technology, healthcare, industrial, energy. Significant fintech investments including Green Dot, BPCE, Fidelity National. Technology needs: portfolio management, data analytics, investor reporting, fund operations.",
+  "business_segments": [
+    {
+      "name": "Private Equity",
+      "detail": "Growth-oriented PE. $86B AUM. Sectors: financial services, tech, healthcare, industrial.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for deal sourcing, portfolio analytics.",
+    "cloud": "Cloud-based operations.",
+    "data": "Portfolio company data. Deal analytics. Investor reporting.",
+    "platforms": "Fund management, CRM, investor portal.",
+    "spend": "Moderate — lean PE model."
+  },
+  "operating_model": "Partnership model. ~900 employees. Lean, high-value operations. Global platform.",
+  "people": [
+    {
+      "name": "Charles Kaye",
+      "role": "Co-CEO"
+    },
+    {
+      "name": "Jeffrey Perlman",
+      "role": "Co-CEO"
+    }
+  ],
+  "partnerships": [
+    "Portfolio companies"
+  ],
+  "opportunities": [
+    "Fund operations technology",
+    "Portfolio analytics",
+    "Investor reporting",
+    "AI for deal sourcing",
+    "Digital transformation support for portfolio companies"
+  ],
+  "risks": [
+    "Small firm — limited direct vendor spend",
+    "PE firms build lean"
+  ],
+  "skills_gaps": [
+    "Fund operations engineering",
+    "Data analytics",
+    "Portfolio management technology"
+  ],
+  "coforge_angle": "NN TAL. $86B AUM. Smaller opportunity directly but significant indirectly through portfolio companies in financial services.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

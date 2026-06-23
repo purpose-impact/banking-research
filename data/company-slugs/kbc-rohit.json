@@ -1,0 +1,47 @@
+{
+  "slug": "kbc-rohit",
+  "company_name": "KBC",
+  "owner": "Rohit",
+  "category": "NN TAL",
+  "company_type": "European Bank",
+  "headquarters": "Brussels, Belgium",
+  "key_regions": [
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~42,000",
+  "key_stat": "Belgian + CEE bank-insurer | €300B+ assets | Digital banking",
+  "summary": "KBC: Belgian bank-insurer with CEE franchise (Czech Republic, Slovakia, Hungary, Bulgaria). Digital banking leader (Kate AI assistant). Insurance + banking integrated model. Fnality shareholder.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "KBC: Belgian bank-insurer with CEE franchise (Czech Republic, Slovakia, Hungary, Bulgaria). Digital banking leader (Kate AI assistant). Insurance + banking integrated model. Fnality shareholder.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "42K employees. Digital banking, insurance technology, and CEE platform engineering."
+  ],
+  "risks": [
+    "Market-specific risks"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data"
+  ],
+  "coforge_angle": "NN TAL (Rohit). 42K employees. Digital banking, insurance technology, and CEE platform engineering.",
+  "evidence": [],
+  "questions": []
+}

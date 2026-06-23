@@ -1,0 +1,48 @@
+{
+  "slug": "c-hoare",
+  "company_name": "C. Hoare & Co",
+  "owner": "Boaz",
+  "category": "NN TAL",
+  "company_type": "Private Bank",
+  "headquarters": "London, UK",
+  "key_regions": [
+    "UK",
+    "Global"
+  ],
+  "revenue": "N/A",
+  "profit_metric": "N/A",
+  "employees": "~400",
+  "key_stat": "UK's oldest private bank (1672) | Family-owned | Wealth management",
+  "summary": "C. Hoare & Co is the UK's oldest private bank (est. 1672), still family-owned (Hoare family, 12th generation). Exclusive wealth management for HNW/UHNW clients. Conservative, relationship-driven. Technology modernisation needed while preserving heritage.",
+  "business_segments": [
+    {
+      "name": "Core Business",
+      "detail": "C. Hoare & Co is the UK's oldest private bank (est. 1672), still family-owned (Hoare family, 12th generation). Exclusive wealth management for HNW/UHNW clients. Conservative, relationship-driven. Tech",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "See summary.",
+    "cloud": "Cloud platforms.",
+    "data": "Business data.",
+    "platforms": "Core platforms.",
+    "spend": "Varies."
+  },
+  "operating_model": "See summary.",
+  "people": [],
+  "partnerships": [],
+  "opportunities": [
+    "Heritage private bank. Core banking modernisation, wealth technology, digital channels while preserving bespoke service."
+  ],
+  "risks": [
+    "Varies"
+  ],
+  "skills_gaps": [
+    "Platform engineering",
+    "Cloud",
+    "Data analytics"
+  ],
+  "coforge_angle": "NN TAL (Boaz). Heritage private bank. Core banking modernisation, wealth technology, digital channels while preserving bespoke service.",
+  "evidence": [],
+  "questions": []
+}

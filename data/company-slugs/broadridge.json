@@ -1,0 +1,73 @@
+{
+  "company_name": "Broadridge",
+  "slug": "broadridge",
+  "company_type": "FinTech Infrastructure",
+  "headquarters": "Lake Success, NY, USA",
+  "key_regions": [
+    "USA",
+    "Global"
+  ],
+  "revenue": "$6.5B (FY2024)",
+  "profit_metric": "Strong recurring revenue",
+  "employees": "~14,000",
+  "key_stat": "$10T+ daily processed | DLR (blockchain repo) | 70%+ US proxy communications",
+  "summary": "Broadridge is a critical financial infrastructure provider processing >$10T daily in securities trades. Products: investor communications (70%+ US proxy), post-trade processing, wealth management technology, fixed income technology, DLR (blockchain distributed ledger repo with Fnality). Serves broker-dealers, banks, asset managers, corporates. Key platform: Broadridge DLR for real-time repo settlement on blockchain. Regulated Industries Technology segment growing.",
+  "business_segments": [
+    {
+      "name": "Investor Communication Solutions",
+      "detail": "Proxy, regulatory communications, data-driven fund solutions. 70%+ US proxy market. Recurring revenue.",
+      "priority": "core"
+    },
+    {
+      "name": "Global Technology & Operations",
+      "detail": "Post-trade processing, securities operations, wealth management platforms. Fixed income tech. DLR blockchain.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for communications, analytics, client insights.",
+    "cloud": "Cloud migration. SaaS transformation for post-trade.",
+    "data": "Massive transaction data. Analytics. Client communications data.",
+    "platforms": "DLR (blockchain repo), wealth management, post-trade, proxy communications, fixed income.",
+    "spend": "~$1.5B annual technology spend."
+  },
+  "operating_model": "Critical infrastructure. High recurring revenue. Platform-centric. DLR + Fnality = real-time repo innovation.",
+  "people": [
+    {
+      "name": "Tim Gokey",
+      "role": "CEO"
+    },
+    {
+      "name": "Vijay Mayadas",
+      "role": "President, Capital Markets"
+    }
+  ],
+  "partnerships": [
+    "Fnality (DLR+FnPS repo)",
+    "Canton Network",
+    "DTCC"
+  ],
+  "opportunities": [
+    "DLR blockchain implementation support",
+    "Post-trade platform engineering",
+    "Wealth management technology",
+    "Data analytics solutions",
+    "Cloud migration services"
+  ],
+  "risks": [
+    "Dominant incumbent — hard to displace",
+    "Long sales cycles",
+    "Competitive procurement"
+  ],
+  "skills_gaps": [
+    "Blockchain/DLT (DLR)",
+    "Cloud-native post-trade",
+    "Wealth platform engineering",
+    "AI for communications"
+  ],
+  "coforge_angle": "NN TAL. Broadridge processes $10T+ daily. DLR blockchain platform is growing. Coforge can support DLR implementation for bank clients, post-trade engineering, wealth platform work.",
+  "category": "NN TAL",
+  "evidence": [],
+  "questions": [],
+  "owner": "Kumar"
+}

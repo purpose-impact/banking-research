@@ -1,0 +1,88 @@
+{
+  "slug": "deutsche-bank",
+  "company_name": "Deutsche Bank",
+  "owner": "Rohit",
+  "category": "MHA",
+  "company_type": "Global Bank",
+  "headquarters": "Frankfurt, Germany",
+  "key_regions": [
+    "Germany",
+    "Europe",
+    "USA",
+    "Global"
+  ],
+  "revenue": "~€28B annual",
+  "profit_metric": "Improving under Sewing",
+  "employees": "~90,000",
+  "key_stat": "Major European bank | Investment banking | DWS asset management | dbX",
+  "summary": "Deutsche Bank is undergoing multi-year transformation under CEO Christian Sewing. Investment bank (top 10 global), corporate bank, private bank, DWS (asset management, €963B AUM). Technology modernisation: cloud migration (Google Cloud partnership), platform consolidation, AI deployment. Significant vendor spend. Post-2019 restructuring executing well.",
+  "business_segments": [
+    {
+      "name": "Investment Bank",
+      "detail": "FICC, equities, advisory. Top 10 global. Growing market share.",
+      "priority": "core"
+    },
+    {
+      "name": "Corporate Bank",
+      "detail": "Transaction banking, trade finance, cash management. German corporates.",
+      "priority": "core"
+    },
+    {
+      "name": "Private Bank",
+      "detail": "Wealth management Germany + international. Postbank retail.",
+      "priority": "core"
+    },
+    {
+      "name": "DWS",
+      "detail": "€963B AUM. Listed AM subsidiary. Passive + active.",
+      "priority": "core"
+    }
+  ],
+  "technology": {
+    "ai": "AI for trading, risk, compliance, customer service. Growing capabilities.",
+    "cloud": "Google Cloud partnership. Major cloud migration.",
+    "data": "Risk data, client data, market data. Data quality improvement.",
+    "platforms": "Trading, banking, wealth, payments platforms. dbX.",
+    "spend": "Major — multi-billion annual technology investment."
+  },
+  "operating_model": "Multi-year transformation. Google Cloud partnership. Platform consolidation. Cost reduction ongoing. Vendor spend significant.",
+  "people": [
+    {
+      "name": "Christian Sewing",
+      "role": "CEO"
+    },
+    {
+      "name": "Bernd Leukert",
+      "role": "CTO"
+    }
+  ],
+  "partnerships": [
+    "Google Cloud",
+    "DWS",
+    "Postbank"
+  ],
+  "opportunities": [
+    "Cloud migration (Google Cloud)",
+    "Platform engineering",
+    "AI deployment",
+    "Risk/compliance technology",
+    "Corporate banking digitisation",
+    "DWS technology"
+  ],
+  "risks": [
+    "Transformation execution",
+    "Regulatory scrutiny",
+    "Competition from US banks",
+    "Legacy technology"
+  ],
+  "skills_gaps": [
+    "Cloud engineering (GCP)",
+    "AI/ML",
+    "Platform modernisation",
+    "Risk technology",
+    "Data engineering"
+  ],
+  "coforge_angle": "MHA (Rohit). 90K employees. Multi-billion tech spend. Google Cloud migration, platform engineering, AI, and risk technology needs.",
+  "evidence": [],
+  "questions": []
+}
