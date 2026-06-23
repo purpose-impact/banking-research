@@ -1,197 +1,560 @@
 {
-  "schema_version": "4.0",
-  "last_updated": "2026-03-25",
-  "scope": "Holistic Business & Technology Strategy",
+  "schema_version": "6.0",
+  "last_updated": "2026-04-12",
+  "scope": "Coforge BFS UK Growth Strategy – Full Team",
   "prepared_by": "Kumar Raju",
   "companies": [
     {
-      "company_name": "BNY Mellon",
-      "slug": "bny-mellon",
-      "company_type": "Custodian / Asset Servicer",
-      "headquarters": "New York, USA",
-      "strategy_intensity_score": 5,
-      "business_maturity_score": 5,
-      "technology_maturity_score": 5
-    },
-    {
-      "company_name": "Citi",
-      "slug": "citi",
-      "company_type": "Global Bank",
-      "headquarters": "New York, USA",
-      "strategy_intensity_score": 5,
-      "business_maturity_score": 4,
-      "technology_maturity_score": 4
-    },
-    {
-      "company_name": "HSBC",
-      "slug": "hsbc",
+      "company_name": "Barclays",
+      "slug": "barclays",
       "company_type": "Universal Bank",
       "headquarters": "London, UK",
-      "strategy_intensity_score": 5,
-      "business_maturity_score": 5,
-      "technology_maturity_score": 5
+      "category": "MHA",
+      "owner": "Boaz"
     },
     {
-      "company_name": "JP Morgan",
-      "slug": "jp-morgan",
-      "company_type": "Global Investment Bank",
-      "headquarters": "New York, USA",
-      "strategy_intensity_score": 5,
-      "business_maturity_score": 5,
-      "technology_maturity_score": 5
-    },
-    {
-      "company_name": "WisdomTree",
-      "slug": "wisdomtree",
-      "company_type": "Asset Manager / Digital Native",
-      "headquarters": "New York, USA",
-      "strategy_intensity_score": 5,
-      "business_maturity_score": 4,
-      "technology_maturity_score": 4
-    },
-    {
-      "company_name": "Fiserv",
-      "slug": "fiserv",
-      "company_type": "Payments / FinTech Infrastructure",
-      "headquarters": "Milwaukee, USA",
-      "strategy_intensity_score": 4,
-      "business_maturity_score": 4,
-      "technology_maturity_score": 4
-    },
-    {
-      "company_name": "Goldman Sachs",
-      "slug": "goldman-sachs",
-      "company_type": "Global Investment Bank",
-      "headquarters": "New York, USA",
-      "strategy_intensity_score": 4,
-      "business_maturity_score": 5,
-      "technology_maturity_score": 5
-    },
-    {
-      "company_name": "Morgan Stanley",
-      "slug": "morgan-stanley",
-      "company_type": "Investment Bank / Wealth Manager",
-      "headquarters": "New York, USA",
-      "strategy_intensity_score": 4,
-      "business_maturity_score": 5,
-      "technology_maturity_score": 4
+      "company_name": "NS&I",
+      "slug": "nsandi",
+      "company_type": "Government Savings",
+      "headquarters": "London, UK",
+      "category": "MHA",
+      "owner": "Boaz"
     },
     {
       "company_name": "State Street",
       "slug": "state-street",
       "company_type": "Custodian / Asset Servicer",
       "headquarters": "Boston, USA",
-      "strategy_intensity_score": 4,
-      "business_maturity_score": 4,
-      "technology_maturity_score": 4
+      "category": "MHA",
+      "owner": "Boaz"
     },
     {
-      "company_name": "BNP Paribas",
-      "slug": "bnp-paribas",
-      "company_type": "Global Universal Bank",
-      "headquarters": "Paris, France",
-      "strategy_intensity_score": 3,
-      "business_maturity_score": 5,
-      "technology_maturity_score": 4
-    },
-    {
-      "company_name": "Barclays",
-      "slug": "barclays",
-      "company_type": "Universal Bank",
-      "headquarters": "London, UK",
-      "strategy_intensity_score": 3,
-      "business_maturity_score": 4,
-      "technology_maturity_score": 3
-    },
-    {
-      "company_name": "Fidelity International",
-      "slug": "fidelity-international",
-      "company_type": "Asset Manager",
-      "headquarters": "London, UK",
-      "strategy_intensity_score": 3,
-      "business_maturity_score": 4,
-      "technology_maturity_score": 3
-    },
-    {
-      "company_name": "Lloyds Banking Group",
-      "slug": "lloyds-banking-group",
-      "company_type": "Retail / Commercial Bank",
-      "headquarters": "London, UK",
-      "strategy_intensity_score": 3,
-      "business_maturity_score": 4,
-      "technology_maturity_score": 3
-    },
-    {
-      "company_name": "Northern Trust",
-      "slug": "northern-trust",
-      "company_type": "Custodian / Asset Manager",
-      "headquarters": "Chicago, USA",
-      "strategy_intensity_score": 3,
-      "business_maturity_score": 4,
-      "technology_maturity_score": 3
+      "company_name": "Goldman Sachs",
+      "slug": "goldman-sachs",
+      "company_type": "Global Investment Bank",
+      "headquarters": "New York, USA",
+      "category": "MHA",
+      "owner": "Kumar"
     },
     {
       "company_name": "UBS",
       "slug": "ubs",
       "company_type": "Global Wealth Manager / Universal Bank",
       "headquarters": "Zurich, Switzerland",
-      "strategy_intensity_score": 3,
-      "business_maturity_score": 5,
-      "technology_maturity_score": 4
+      "category": "MHA",
+      "owner": "Kumar"
     },
     {
-      "company_name": "American Express",
-      "slug": "american-express",
-      "company_type": "Card Network / Payments",
+      "company_name": "Deutsche Bank",
+      "slug": "deutsche-bank",
+      "company_type": "Global Bank",
+      "headquarters": "Frankfurt, Germany",
+      "category": "MHA",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Lloyds Banking Group",
+      "slug": "lloyds-banking-group",
+      "company_type": "Retail / Commercial Bank",
+      "headquarters": "London, UK",
+      "category": "MHA",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Temenos",
+      "slug": "temenos",
+      "company_type": "Banking Software",
+      "headquarters": "Geneva, Switzerland",
+      "category": "MHA",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Aegon",
+      "slug": "aegon",
+      "company_type": "Insurance / Asset Manager",
+      "headquarters": "The Hague, Netherlands",
+      "category": "Growth",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "Dext",
+      "slug": "dext",
+      "company_type": "FinTech / Accounting Tech",
+      "headquarters": "London, UK",
+      "category": "Growth",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "IFM Investors",
+      "slug": "ifm",
+      "company_type": "Infrastructure / Asset Manager",
+      "headquarters": "Melbourne, Australia",
+      "category": "Growth",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "Legal & General Investment Management",
+      "slug": "lgim",
+      "company_type": "Asset Manager",
+      "headquarters": "London, UK",
+      "category": "Growth",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "Banco Inversis",
+      "slug": "banco-inversis",
+      "company_type": "Custodian / Securities Services",
+      "headquarters": "Madrid, Spain",
+      "category": "Growth",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "Calibrium",
+      "slug": "calibrium",
+      "company_type": "FinTech / Fund Services",
+      "headquarters": "London, UK",
+      "category": "Growth",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "EBRD",
+      "slug": "ebrd",
+      "company_type": "Multilateral Development Bank",
+      "headquarters": "London, UK",
+      "category": "Growth",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "European Central Bank",
+      "slug": "ecb",
+      "company_type": "Central Bank / Regulator",
+      "headquarters": "Frankfurt, Germany",
+      "category": "Growth",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "Aldermore Bank",
+      "slug": "aldermore",
+      "company_type": "Specialist Lender",
+      "headquarters": "London, UK",
+      "category": "Growth",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Leeds Building Society",
+      "slug": "leeds-bs",
+      "company_type": "Building Society",
+      "headquarters": "Leeds, UK",
+      "category": "Growth",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Principality Building Society",
+      "slug": "principality-bs",
+      "company_type": "Building Society",
+      "headquarters": "Cardiff, Wales",
+      "category": "Growth",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "TransferMate",
+      "slug": "transfermate",
+      "company_type": "FinTech / Cross-border",
+      "headquarters": "Killarney, Ireland",
+      "category": "Growth",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "BBVA",
+      "slug": "bbva",
+      "company_type": "Global Bank",
+      "headquarters": "Madrid, Spain",
+      "category": "NN TAL",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "BNY Mellon",
+      "slug": "bny-mellon",
+      "company_type": "Custodian / Asset Servicer",
       "headquarters": "New York, USA",
-      "strategy_intensity_score": 2,
-      "business_maturity_score": 4,
-      "technology_maturity_score": 3
+      "category": "NN TAL",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "BlackRock",
+      "slug": "blackrock",
+      "company_type": "Global Asset Manager",
+      "headquarters": "New York, USA",
+      "category": "NN TAL",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "Bloomberg",
+      "slug": "bloomberg",
+      "company_type": "Data & Analytics / Media",
+      "headquarters": "New York, USA",
+      "category": "NN TAL",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "Brookfield",
+      "slug": "brookfield",
+      "company_type": "Alternative Asset Manager",
+      "headquarters": "Toronto, Canada",
+      "category": "NN TAL",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "C. Hoare & Co",
+      "slug": "c-hoare",
+      "company_type": "Private Bank",
+      "headquarters": "London, UK",
+      "category": "NN TAL",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "Cinven",
+      "slug": "cinven",
+      "company_type": "Private Equity",
+      "headquarters": "London, UK",
+      "category": "NN TAL",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "Marston Holdings",
+      "slug": "marston-holdings",
+      "company_type": "Enforcement / Debt Collection",
+      "headquarters": "London, UK",
+      "category": "NN TAL",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "Schroders",
+      "slug": "schroders",
+      "company_type": "Asset Manager",
+      "headquarters": "London, UK",
+      "category": "NN TAL",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "Societe Generale",
+      "slug": "societe-generale",
+      "company_type": "Global Bank",
+      "headquarters": "Paris, France",
+      "category": "NN TAL",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "Thomson Reuters",
+      "slug": "thomson-reuters",
+      "company_type": "Data & Analytics / Legal",
+      "headquarters": "Toronto / New York",
+      "category": "NN TAL",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "TowerBrook",
+      "slug": "towerbrook",
+      "company_type": "Private Equity",
+      "headquarters": "London / New York",
+      "category": "NN TAL",
+      "owner": "Boaz"
+    },
+    {
+      "company_name": "ABN AMRO",
+      "slug": "abn-amro",
+      "company_type": "Dutch Bank",
+      "headquarters": "Amsterdam, Netherlands",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "Amundi Technology",
+      "slug": "amundi-technology",
+      "company_type": "Asset Management Technology",
+      "headquarters": "Paris, France",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "Archax",
+      "slug": "archax",
+      "company_type": "Digital Asset Exchange / Custodian",
+      "headquarters": "London, UK",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "BIS",
+      "slug": "bis",
+      "company_type": "International Financial Institution",
+      "headquarters": "Basel, Switzerland",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "BNP Paribas",
+      "slug": "bnpp",
+      "company_type": "Global Universal Bank",
+      "headquarters": "Paris, France",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "Broadridge",
+      "slug": "broadridge",
+      "company_type": "FinTech Infrastructure",
+      "headquarters": "Lake Success, NY, USA",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "CACEIS",
+      "slug": "caceis",
+      "company_type": "Custodian / Asset Servicer",
+      "headquarters": "Paris, France",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "Equiniti (EQ)",
+      "slug": "equiniti",
+      "company_type": "Share Registration / Payment Services",
+      "headquarters": "Worthing, UK",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "Euronext",
+      "slug": "euronext",
+      "company_type": "Exchange / Market Infrastructure",
+      "headquarters": "Amsterdam / Paris",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "Fidelity",
+      "slug": "fidelity",
+      "company_type": "Asset Manager / Financial Services",
+      "headquarters": "Boston, USA / London, UK",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "ING",
+      "slug": "ing",
+      "company_type": "Digital-First Bank",
+      "headquarters": "Amsterdam, Netherlands",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "KKR",
+      "slug": "kkr",
+      "company_type": "Alternative Asset Manager / PE",
+      "headquarters": "New York, USA",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "LSEG",
+      "slug": "lseg",
+      "company_type": "Exchange / Data & Analytics",
+      "headquarters": "London, UK",
+      "category": "NN TAL",
+      "owner": "Kumar"
     },
     {
       "company_name": "NatWest",
       "slug": "natwest",
       "company_type": "Retail / Commercial Bank",
       "headquarters": "London, UK",
-      "strategy_intensity_score": 2,
-      "business_maturity_score": 4,
-      "technology_maturity_score": 3
+      "category": "NN TAL",
+      "owner": "Kumar"
     },
     {
-      "company_name": "UOB",
-      "slug": "uob",
-      "company_type": "Regional Bank",
-      "headquarters": "Singapore",
-      "strategy_intensity_score": 2,
-      "business_maturity_score": 4,
-      "technology_maturity_score": 3
+      "company_name": "Raiffeisen Bank",
+      "slug": "raiffeisen",
+      "company_type": "European Bank",
+      "headquarters": "Vienna, Austria",
+      "category": "NN TAL",
+      "owner": "Kumar"
     },
     {
-      "company_name": "UniCredit",
-      "slug": "unicredit",
-      "company_type": "European Universal Bank",
-      "headquarters": "Milan, Italy",
-      "strategy_intensity_score": 2,
-      "business_maturity_score": 4,
-      "technology_maturity_score": 3
-    },
-    {
-      "company_name": "Citizens Financial Group",
-      "slug": "citizens",
-      "company_type": "Regional Bank",
-      "headquarters": "Providence, USA",
-      "strategy_intensity_score": 1,
-      "business_maturity_score": 3,
-      "technology_maturity_score": 3
-    },
-    {
-      "company_name": "Gen II",
-      "slug": "gen-ii",
-      "company_type": "Fund Administrator",
+      "company_name": "S&P Global",
+      "slug": "sp-global",
+      "company_type": "Data & Analytics / Ratings",
       "headquarters": "New York, USA",
-      "strategy_intensity_score": 1,
-      "business_maturity_score": 3,
-      "technology_maturity_score": 2
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "Warburg Pincus",
+      "slug": "warburg-pincus",
+      "company_type": "Private Equity",
+      "headquarters": "New York, USA",
+      "category": "NN TAL",
+      "owner": "Kumar"
+    },
+    {
+      "company_name": "Allpay",
+      "slug": "allpay",
+      "company_type": "Payment Services",
+      "headquarters": "Hereford, UK",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Avaloq",
+      "slug": "avaloq",
+      "company_type": "Wealth Management Software",
+      "headquarters": "Zurich, Switzerland",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Bankinter",
+      "slug": "bankinter",
+      "company_type": "Spanish Bank",
+      "headquarters": "Madrid, Spain",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Cabot Financial",
+      "slug": "cabot-financial",
+      "company_type": "Debt Purchase / Collection",
+      "headquarters": "London, UK",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "ClearBank",
+      "slug": "clearbank",
+      "company_type": "Clearing Bank / BaaS",
+      "headquarters": "London, UK",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Coventry Building Society",
+      "slug": "coventry-bs",
+      "company_type": "Building Society",
+      "headquarters": "Coventry, UK",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Finastra",
+      "slug": "finastra",
+      "company_type": "Banking Software",
+      "headquarters": "London, UK",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Fioneer",
+      "slug": "fioneer",
+      "company_type": "Banking Software",
+      "headquarters": "Berlin, Germany",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Handelsbanken",
+      "slug": "handelsbanken",
+      "company_type": "Swedish Bank",
+      "headquarters": "Stockholm / London",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "KBC",
+      "slug": "kbc-rohit",
+      "company_type": "European Bank",
+      "headquarters": "Brussels, Belgium",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Mangopay",
+      "slug": "mangopay",
+      "company_type": "FinTech / Payments",
+      "headquarters": "Luxembourg",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Nasdaq",
+      "slug": "nasdaq-rohit",
+      "company_type": "Exchange / FinTech",
+      "headquarters": "New York, USA",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Nottingham Building Society",
+      "slug": "nottingham-bs",
+      "company_type": "Building Society",
+      "headquarters": "Nottingham, UK",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "OakNorth Bank",
+      "slug": "oaknorth",
+      "company_type": "AI-Powered Bank",
+      "headquarters": "London, UK",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Premium Credit Limited",
+      "slug": "premium-credit",
+      "company_type": "Premium Finance",
+      "headquarters": "Leatherhead, UK",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Raisin",
+      "slug": "raisin",
+      "company_type": "FinTech / Deposit Platform",
+      "headquarters": "Berlin, Germany",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Ripple",
+      "slug": "ripple-rohit",
+      "company_type": "Blockchain / Payments",
+      "headquarters": "San Francisco, USA",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Shawbrook Bank",
+      "slug": "shawbrook",
+      "company_type": "Specialist Lender",
+      "headquarters": "London, UK",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Skipton Building Society",
+      "slug": "skipton-bs",
+      "company_type": "Building Society",
+      "headquarters": "Skipton, UK",
+      "category": "NN TAL",
+      "owner": "Rohit"
+    },
+    {
+      "company_name": "Waystone",
+      "slug": "waystone",
+      "company_type": "Fund Governance / ManCo",
+      "headquarters": "Dublin, Ireland",
+      "category": "NN TAL",
+      "owner": "Rohit"
     }
   ]
 }
