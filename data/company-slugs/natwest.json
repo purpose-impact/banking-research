@@ -42,8 +42,24 @@
       "role": "CEO"
     },
     {
+      "name": "Katie Murray",
+      "role": "CFO"
+    },
+    {
       "name": "Lee McNabb",
       "role": "Payments and Digital Assets"
+    },
+    {
+      "name": "Jen Mayfield",
+      "role": "Chief Digital Information Officer"
+    },
+    {
+      "name": "David Lindberg",
+      "role": "CEO Retail Banking"
+    },
+    {
+      "name": "Peter Flavel",
+      "role": "CEO Coutts"
     }
   ],
   "partnerships": [

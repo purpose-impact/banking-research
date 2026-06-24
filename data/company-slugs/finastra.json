@@ -9,10 +9,10 @@
     "UK",
     "Europe"
   ],
-  "revenue": "N/A",
+  "revenue": "$1.7B annual",
   "profit_metric": "N/A",
   "employees": "~8,000",
-  "key_stat": "$1.7B revenue | FusionBanking | Kondor | Misys+D+H heritage",
+  "key_stat": "$1.7B revenue | 8,600+ clients | FusionBanking suite | Vista Equity-owned",
   "summary": "Finastra: $1.7B revenue banking software. Products: Fusion (core, lending, treasury, payments, trade). 8,600+ clients. Vista Equity Partners owned. Competes with Temenos, Oracle, FIS. Open platform strategy.",
   "business_segments": [
     {
@@ -22,14 +22,35 @@
     }
   ],
   "technology": {
-    "ai": "See summary.",
-    "cloud": "Cloud platforms.",
-    "data": "Business data.",
-    "platforms": "Core platforms.",
-    "spend": "Varies."
+    "ai": "AI for credit decisioning, fraud, regulatory compliance. FusionAI capabilities.",
+    "cloud": "FusionFabric.cloud (open platform). SaaS transition for Fusion products. AWS, Azure deployments.",
+    "data": "Banking data models. Regulatory reporting. Trade finance data. Treasury analytics.",
+    "platforms": "Fusion (core banking, lending, treasury, payments, trade finance). FusionCreator (open innovation). FusionFabric.cloud. Kondor (treasury).",
+    "spend": "$500M+ R&D. Vista Equity ownership drives efficiency."
   },
   "operating_model": "See summary.",
-  "people": [],
+  "people": [
+    {
+      "name": "Simon Paris",
+      "role": "CEO"
+    },
+    {
+      "name": "Julie Sheridan",
+      "role": "CFO"
+    },
+    {
+      "name": "Narendra Mistry",
+      "role": "CTO"
+    },
+    {
+      "name": "Sanjay Sharma",
+      "role": "Chief Revenue Officer"
+    },
+    {
+      "name": "Mariana Gomez de la Villa",
+      "role": "Head of DLT & Digital Assets (leads Finastra blockchain strategy)"
+    }
+  ],
   "partnerships": [],
   "opportunities": [
     "$1.7B revenue. Fusion platform implementations, integration, and modernisation. SI partner opportunity like Temenos."
@@ -42,7 +63,7 @@
     "Cloud",
     "Data"
   ],
-  "coforge_angle": "NN TAL (Rohit). $1.7B revenue. Fusion platform implementations, integration, and modernisation. SI partner opportunity like Temenos.",
+  "coforge_angle": "NN TAL (Rohit). Finastra has 8,600+ bank clients and $1.7B revenue. Like Temenos, uses SI partners for implementation. Key opportunities: (1) FusionBanking implementations for bank clients, (2) Cloud/SaaS migration support, (3) Kondor treasury implementations, (4) Trade finance technology, (5) Regulatory reporting (MIFID, EMIR), (6) FusionFabric.cloud integrations. SI partner model = direct opportunity for Coforge. Entry points: Simon Paris (CEO), Narendra Mistry (CTO), Sanjay Sharma (CRO).",
   "evidence": [],
   "questions": []
 }

@@ -18,47 +18,91 @@
   "business_segments": [
     {
       "name": "Barclays UK",
-      "detail": "Ring-fenced retail. 20M+ customers. Barclaycard UK. Tesco Bank integration.",
+      "detail": "Ring-fenced retail bank. 20M+ customers. Personal banking, Barclaycard UK, business banking. Tesco Bank retail integration (Nov 2024). 146K mortgage completions in 2025. Digital channels.",
       "priority": "core"
     },
     {
-      "name": "Investment Bank",
-      "detail": "£13B income. Global Markets +15%. Top 5 target. US/UK focus.",
+      "name": "Barclays Investment Bank",
+      "detail": "£13B income 2025 (+11%). Global Markets +15%. Equities, FICC, advisory, underwriting. Top 5 market share ambition. US and UK focus. Chetan Vohra appointed Global Head Securitized Products.",
       "priority": "growth"
+    },
+    {
+      "name": "Barclays UK Corporate Bank",
+      "detail": "13K+ businesses. Robust income growth 2025. Greg Mayfield now leads Global Transaction Banking. Payments (Cat Sheridan), Trade & Working Capital.",
+      "priority": "core"
     },
     {
       "name": "US Consumer Bank",
-      "detail": "Credit cards, Best Egg, online deposits. Growth plans.",
+      "detail": "Credit cards (partnerships). Best Egg. Online deposits. Auto lending. Growth target via organic + acquisitions.",
       "priority": "growth"
     },
     {
-      "name": "Private Bank & Wealth",
-      "detail": "Growing AUM. Transactional activity strong.",
+      "name": "Private Bank & Wealth Management",
+      "detail": "Growing AUM. Transactional activity strong 2025. Adrish Ghosh appointed Head of Private Bank India (Aug 2025). Increasing non-interest income.",
       "priority": "growth"
     }
   ],
   "technology": {
-    "ai": "GenAI + copilots. AI for productivity, fraud, credit. Doubling digital investment.",
-    "cloud": "Cloud modernisation. Agile scalable platforms.",
-    "data": "Unified data platforms. Customer analytics. Risk data.",
-    "platforms": "Mobile banking. Trading. Open banking.",
-    "spend": "Doubling digital investment 2026-2028."
+    "ai": "GenAI + copilots integrated into unified internal systems. AI for productivity, fraud detection, credit risk, customer service. Craig Bright (Group CIO): 'scaling AI at Barclays' (Jul 2025). Intelligent assistants for customers. AI-powered search unifying internal tools. Plans to double digital/AI investment.",
+    "cloud": "Major cloud transformation. Agile scalable platforms. Craig Bright brought cloud expertise from Westpac and Citi. Technology campuses globally (Radbroke, Glasgow, Pune, Whippany NJ).",
+    "data": "Unified data platforms initiative with GenAI. Solving fragmentation. Customer analytics. Risk data. Regulatory reporting. Real-time transaction monitoring.",
+    "platforms": "Mobile banking (Barclays app). Business banking digital. Trading platforms. Open banking. Barclays Execution Services (BX) technology and operations entity.",
+    "spend": "Doubling digital transformation investment over 2026-2028 period. Cost-income ratio target: low 50s by 2028."
   },
   "operating_model": "2025 PBT £9.1B (+12%). New targets: >14% ROTE, >£15B returns. Doubling AI/digital. Cost-income low 50s by 2028. Tesco Bank integration.",
   "people": [
     {
-      "name": "C.S. Venkatakrishnan",
-      "role": "CEO"
+      "name": "C.S. Venkatakrishnan (Venkat)",
+      "role": "Group CEO"
     },
     {
       "name": "Anna Cross",
-      "role": "CFO"
+      "role": "Group CFO"
+    },
+    {
+      "name": "Craig Bright",
+      "role": "Group Co-COO, Co-CEO BX (ex-Westpac Group CIO, ex-Citi CTO Consumer). Leads technology, operations, data, cyber, procurement. 30 yrs experience."
+    },
+    {
+      "name": "Anne Marie Morris",
+      "role": "Group Co-COO, Co-CEO BX (joined Apr 2025 from Goldman Sachs, 25 yrs, partner 12 yrs, Head Marquee Digital Distribution)"
+    },
+    {
+      "name": "Saket Sharma",
+      "role": "CIO Corporate Bank"
+    },
+    {
+      "name": "Manu Thapar",
+      "role": "CTO Chief Technologist"
+    },
+    {
+      "name": "Greg Mayfield",
+      "role": "Head of Global Transaction Banking (ex-Group Head of Strategy & Transformation)"
+    },
+    {
+      "name": "Ryan Hayward",
+      "role": "Head of Digital Assets"
+    },
+    {
+      "name": "Jason Morrison",
+      "role": "CEO Barclays Execution Services UK (joined Jan 2025, ex-Mastercard, Conferma, Square)"
+    },
+    {
+      "name": "Cat Sheridan",
+      "role": "Head of Payments, Corporate Banking"
+    },
+    {
+      "name": "Lucy Sherwood",
+      "role": "Head of Transformation, Global Transaction Banking"
     }
   ],
   "partnerships": [
-    "UK Finance (GBTD)",
-    "Ubyx (stablecoin)",
-    "Quant Network"
+    "UK Finance (GBTD pilot)",
+    "Ubyx (stablecoin settlement investment)",
+    "Quant Network (GBTD tech)",
+    "Mastercard",
+    "Fnality (shareholder)",
+    "Goldman Sachs (Anne Marie Morris hire)"
   ],
   "opportunities": [
     "IB revenue growth",
@@ -81,7 +125,33 @@
     "IT resilience",
     "Cloud-native development"
   ],
-  "coforge_angle": "MHA (Boaz). Barclays doubling digital investment. £9.1B PBT. Massive engineering need across retail banking, IB platforms, AI/GenAI, Tesco integration, and IT resilience.",
-  "evidence": [],
+  "coforge_angle": "MHA (Boaz). Barclays is doubling digital investment over 2026-2028. Craig Bright (ex-Westpac CIO, ex-Citi CTO) and Anne Marie Morris (ex-Goldman 25yrs) are Co-COOs leading massive technology transformation. Key opportunities: (1) BX technology and operations — Barclays Execution Services runs tech for the entire group, (2) GenAI scaling programme, (3) Tesco Bank integration technology, (4) Trading platform engineering for IB, (5) Payments platform (Cat Sheridan's team), (6) Cloud migration, (7) Global Transaction Banking technology (Greg Mayfield's team). Entry points: Craig Bright (technology decisions), Saket Sharma (CIO Corporate Bank), Jason Morrison (BX CEO).",
+  "evidence": [
+    {
+      "claim": "£9.1B PBT 2025 (+12%). IB £13B income (+11%). >14% ROTE target by 2028. >£15B capital returns 2026-2028.",
+      "source": "Barclays 2025 Annual Results",
+      "date": "2026-02"
+    },
+    {
+      "claim": "Craig Bright: Group Co-COO. 30 yrs tech experience. Ex-Westpac Group CIO, ex-Citi CTO Consumer. Leading technology, ops, data, cyber, procurement.",
+      "source": "Barclays Group Structure / Leadership page",
+      "date": "2025"
+    },
+    {
+      "claim": "Anne Marie Morris joined Apr 2025 as Group Co-COO. 25 years Goldman Sachs, partner 12 years. Head of Marquee Digital Distribution.",
+      "source": "Barclays press release",
+      "date": "2025-07-01"
+    },
+    {
+      "claim": "GenAI scaling: intelligent assistants, AI-powered search, unified tools. Doubling digital investment.",
+      "source": "Barclays AI page, Craig Bright article",
+      "date": "2025-07"
+    },
+    {
+      "claim": "Jason Morrison appointed CEO BX UK (Jan 2025). Ex-Mastercard, Conferma, Square.",
+      "source": "Barclays press release",
+      "date": "2025-01"
+    }
+  ],
   "questions": []
 }

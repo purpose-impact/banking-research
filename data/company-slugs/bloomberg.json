@@ -9,10 +9,10 @@
     "UK",
     "Global"
   ],
-  "revenue": "N/A",
+  "revenue": "$12.5B+ annual (2024, estimated)",
   "profit_metric": "N/A",
   "employees": "~20,000",
-  "key_stat": "$12.5B+ revenue | Bloomberg Terminal | Bloomberg AIM | Fixed income",
+  "key_stat": "325K Terminal subscribers | Bloomberg AIM (OEMS) | Fixed income leader | $12.5B+ revenue",
   "summary": "Bloomberg: Terminal (325K subscribers), Bloomberg AIM (OEMS), fixed income trading, news, data. $12.5B+ revenue. Private (Michael Bloomberg). Massive technology operation. Terminal modernisation and AI integration.",
   "business_segments": [
     {
@@ -22,14 +22,35 @@
     }
   ],
   "technology": {
-    "ai": "See summary.",
-    "cloud": "Cloud platforms.",
-    "data": "Business data.",
-    "platforms": "Core platforms.",
-    "spend": "Varies."
+    "ai": "AI for news analysis, data extraction, natural language processing, trading signals. Bloomberg GPT (proprietary LLM). AI-powered analytics across Terminal.",
+    "cloud": "Hybrid infrastructure. On-premise data centres for Terminal. Cloud for enterprise products.",
+    "data": "Massive proprietary data: real-time, reference, corporate actions, fixed income pricing, ESG, news. Bloomberg Data License.",
+    "platforms": "Bloomberg Terminal (325K subscribers). Bloomberg AIM (OEMS). MARS (risk analytics). Data License. Bloomberg Intelligence (research). PORT (portfolio analytics). Trade Order Management.",
+    "spend": "Estimated $4B+ annual technology investment. Largest fintech by revenue (private)."
   },
   "operating_model": "See summary.",
-  "people": [],
+  "people": [
+    {
+      "name": "Michael Bloomberg",
+      "role": "Founder and Majority Owner"
+    },
+    {
+      "name": "Steve Merker",
+      "role": "Global Head of Technology"
+    },
+    {
+      "name": "John Alkire",
+      "role": "CTO (Bloomberg Terminal engineering)"
+    },
+    {
+      "name": "Vlad Kliatchko",
+      "role": "Head of Enterprise Products (AIM, MARS)"
+    },
+    {
+      "name": "Brad Foster",
+      "role": "Head of Bloomberg Intelligence"
+    }
+  ],
   "partnerships": [],
   "opportunities": [
     "$12.5B revenue, 20K employees. Terminal engineering, AIM platform, AI integration, and data platform needs."
@@ -42,7 +63,7 @@
     "Cloud",
     "Data analytics"
   ],
-  "coforge_angle": "NN TAL (Boaz). $12.5B revenue, 20K employees. Terminal engineering, AIM platform, AI integration, and data platform needs.",
+  "coforge_angle": "NN TAL (Boaz). Bloomberg is the world's largest financial data company ($12.5B+ revenue). Strong internal engineering culture but vast technology needs. Key opportunities: (1) Bloomberg AIM client implementation, (2) Data License integration for bank clients, (3) Enterprise product engineering, (4) Bloomberg GPT / AI capabilities, (5) Fixed income technology. Challenging to penetrate as a vendor given strong internal culture but AIM implementations for bank clients is a possible angle.",
   "evidence": [],
   "questions": []
 }

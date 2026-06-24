@@ -53,8 +53,24 @@
       "role": "CEO (from Nov 2024)"
     },
     {
+      "name": "Christopher Craig",
+      "role": "CFO"
+    },
+    {
       "name": "Saugata Saha",
       "role": "President, Market Intelligence"
+    },
+    {
+      "name": "Bhavesh Shah",
+      "role": "Chief Technology & AI Officer"
+    },
+    {
+      "name": "Nicole Berman",
+      "role": "Head of Sustainable Finance"
+    },
+    {
+      "name": "Dimitra DeFotis",
+      "role": "Head of Data & Analysis, Commodity Insights"
     }
   ],
   "partnerships": [

@@ -38,8 +38,20 @@
       "role": "CEO"
     },
     {
+      "name": "Edmund Reese",
+      "role": "CFO"
+    },
+    {
       "name": "Vijay Mayadas",
       "role": "President, Capital Markets"
+    },
+    {
+      "name": "Mike Tae",
+      "role": "Head of Digital Innovation"
+    },
+    {
+      "name": "Rob Krugman",
+      "role": "Chief Digital Officer"
     }
   ],
   "partnerships": [

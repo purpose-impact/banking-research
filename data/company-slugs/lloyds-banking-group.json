@@ -42,6 +42,30 @@
     {
       "name": "Charlie Nunn",
       "role": "CEO"
+    },
+    {
+      "name": "William Chalmers",
+      "role": "CFO"
+    },
+    {
+      "name": "Surath Sengupta",
+      "role": "Head of Transaction Banking Products"
+    },
+    {
+      "name": "Peter Left",
+      "role": "Head of Digital Finance"
+    },
+    {
+      "name": "Antonio Lorenzo",
+      "role": "CEO Insurance, Pensions & Investments"
+    },
+    {
+      "name": "David Oldfield",
+      "role": "CEO Commercial Banking"
+    },
+    {
+      "name": "Vim Sherma",
+      "role": "Head of Retail Bank"
     }
   ],
   "partnerships": [

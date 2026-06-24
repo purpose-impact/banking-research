@@ -21,14 +21,43 @@
     }
   ],
   "technology": {
-    "ai": "See summary.",
-    "cloud": "Cloud platforms.",
-    "data": "Business data.",
-    "platforms": "Core platforms.",
-    "spend": "Varies."
+    "ai": "AI for credit risk, fraud detection, customer service, trading. GenAI exploration. BoursoBank AI-driven customer acquisition.",
+    "cloud": "Cloud transformation across group. Multi-country (France, Europe, Africa).",
+    "data": "Customer data analytics. Risk data. Regulatory reporting. ESG data.",
+    "platforms": "BoursoBank (6M+ customers, France's #1 online bank). SG Forge (MiCA-licensed, EUR CoinVertible stablecoin, tokenization). Trading platforms. Retail banking platforms.",
+    "spend": "Significant — 117K employees, multi-billion technology budget."
   },
   "operating_model": "See summary.",
-  "people": [],
+  "people": [
+    {
+      "name": "Slawomir Krupa",
+      "role": "CEO (from May 2023)"
+    },
+    {
+      "name": "Claire Dumas",
+      "role": "CFO"
+    },
+    {
+      "name": "Jean-Marc Etlin",
+      "role": "Deputy CEO, Head of Global Banking & Investor Solutions"
+    },
+    {
+      "name": "Laurent Goutard",
+      "role": "Head of French Retail Banking"
+    },
+    {
+      "name": "Jean-François Grégoire",
+      "role": "CEO SG Forge (digital assets subsidiary)"
+    },
+    {
+      "name": "Carlos Gonçalves",
+      "role": "Head of Bernstein Research (acquired Mar 2025)"
+    },
+    {
+      "name": "Philippe Aymerich",
+      "role": "Deputy CEO, Head of Retail Banking & Insurance"
+    }
+  ],
   "partnerships": [],
   "opportunities": [
     "117K employees. SG Forge digital assets, CIB technology, BoursoBank engineering, and wholesale banking platforms."
@@ -41,7 +70,7 @@
     "Cloud",
     "Data analytics"
   ],
-  "coforge_angle": "NN TAL (Boaz). 117K employees. SG Forge digital assets, CIB technology, BoursoBank engineering, and wholesale banking platforms.",
+  "coforge_angle": "NN TAL (Boaz). SocGen is 117K employees with massive technology needs. SG Forge is MiCA-licensed digital assets subsidiary (EUR CoinVertible stablecoin). BoursoBank is France's largest online bank (6M+ customers). Key opportunities: (1) BoursoBank platform engineering, (2) SG Forge digital assets technology, (3) CIB trading platforms, (4) Risk and compliance technology, (5) Core banking modernisation, (6) Data analytics. Entry points: Slawomir Krupa (CEO), Jean-François Grégoire (SG Forge CEO).",
   "evidence": [],
   "questions": []
 }

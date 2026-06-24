@@ -39,11 +39,11 @@
     }
   ],
   "technology": {
-    "ai": "AI for trading, risk, compliance, customer service. Growing capabilities.",
-    "cloud": "Google Cloud partnership. Major cloud migration.",
-    "data": "Risk data, client data, market data. Data quality improvement.",
-    "platforms": "Trading, banking, wealth, payments platforms. dbX.",
-    "spend": "Major — multi-billion annual technology investment."
+    "ai": "AI for trading, risk management, credit decisioning, compliance monitoring, customer service. Growing GenAI capabilities. Bernd Leukert (ex-SAP) driving data and AI strategy.",
+    "cloud": "Google Cloud strategic partnership (multi-year). Major cloud migration programme. Hybrid approach with on-premises for critical systems.",
+    "data": "Significant data quality and governance improvement programme. Risk data aggregation. Regulatory reporting. Client analytics. Bernd Leukert leading data transformation.",
+    "platforms": "dbX ecosystem (digital banking and API platform). Trading platforms (Autobahn). Postbank retail platform. DWS (Xtrackers). Global Hausbank strategy for corporate clients.",
+    "spend": "Multi-billion annual technology investment. Google Cloud commitment. SAP-grade technology leadership via Bernd Leukert."
   },
   "operating_model": "Multi-year transformation. Google Cloud partnership. Platform consolidation. Cost reduction ongoing. Vendor spend significant.",
   "people": [
@@ -52,8 +52,32 @@
       "role": "CEO"
     },
     {
+      "name": "James von Moltke",
+      "role": "CFO"
+    },
+    {
       "name": "Bernd Leukert",
-      "role": "CTO"
+      "role": "CTO and Member of Management Board. Leads Technology, Data and Innovation. Ex-SAP Executive Board (Products & Innovation)."
+    },
+    {
+      "name": "Ram Nayak",
+      "role": "Head of Investment Bank"
+    },
+    {
+      "name": "Claudio de Sanctis",
+      "role": "Head of Private Bank"
+    },
+    {
+      "name": "Stefan Simon",
+      "role": "Chief Administrative Officer"
+    },
+    {
+      "name": "Jürg Zeltner",
+      "role": "Head of International Private Bank (ex-UBS Wealth CEO)"
+    },
+    {
+      "name": "David Lynne",
+      "role": "CEO Deutsche Bank UK"
     }
   ],
   "partnerships": [
@@ -82,7 +106,18 @@
     "Risk technology",
     "Data engineering"
   ],
-  "coforge_angle": "MHA (Rohit). 90K employees. Multi-billion tech spend. Google Cloud migration, platform engineering, AI, and risk technology needs.",
-  "evidence": [],
+  "coforge_angle": "MHA (Rohit). Deutsche Bank has 90K employees and multi-billion tech spend. Bernd Leukert (CTO, ex-SAP Board) is driving technology transformation. Google Cloud partnership = massive migration. Key opportunities: (1) Google Cloud migration engineering, (2) dbX platform development, (3) Postbank/retail platform modernisation, (4) Risk and regulatory technology, (5) DWS asset management technology, (6) CIB trading platform engineering, (7) Data quality and governance. Entry points: Bernd Leukert (CTO/Board), David Lynne (CEO UK).",
+  "evidence": [
+    {
+      "claim": "Bernd Leukert: CTO and Management Board member. Leads Technology, Data and Innovation. Previously SAP Executive Board member for Products & Innovation.",
+      "source": "Deutsche Bank annual report / management board",
+      "date": "2025"
+    },
+    {
+      "claim": "Google Cloud strategic partnership for cloud migration",
+      "source": "Deutsche Bank / Google Cloud announcement",
+      "date": "2023"
+    }
+  ],
   "questions": []
 }

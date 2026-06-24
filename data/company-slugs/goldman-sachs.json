@@ -46,12 +46,36 @@
       "role": "CEO"
     },
     {
+      "name": "Denis Coleman",
+      "role": "CFO"
+    },
+    {
       "name": "Mathew McDermott",
       "role": "Head of Digital Assets"
     },
     {
-      "name": "Denis Coleman",
-      "role": "CFO"
+      "name": "Ashok Varadhan",
+      "role": "Co-Head Global Banking & Markets"
+    },
+    {
+      "name": "Dan Dees",
+      "role": "Co-Head Global Banking & Markets"
+    },
+    {
+      "name": "Marc Nachmann",
+      "role": "Head of Asset & Wealth Management"
+    },
+    {
+      "name": "Philip Berlinski",
+      "role": "Global Head of Cash Management, Transaction Banking"
+    },
+    {
+      "name": "Marco Argenti",
+      "role": "Co-CIO"
+    },
+    {
+      "name": "George Lee",
+      "role": "Co-CIO"
     }
   ],
   "partnerships": [

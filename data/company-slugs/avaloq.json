@@ -11,7 +11,7 @@
   "revenue": "N/A",
   "profit_metric": "N/A",
   "employees": "~2,500",
-  "key_stat": "NEC subsidiary | Wealth management platform | 160+ banks",
+  "key_stat": "NEC subsidiary | 160+ bank/wealth clients | Core banking + wealth + BPaaS",
   "summary": "Avaloq: wealth management and banking software. 160+ bank/wealth clients. Acquired by NEC (2020). Products: core banking, wealth management, BPaaS. Key competitor to Temenos WealthSuite, ERI Bancaire.",
   "business_segments": [
     {
@@ -21,14 +21,31 @@
     }
   ],
   "technology": {
-    "ai": "See summary.",
-    "cloud": "Cloud platforms.",
-    "data": "Business data.",
-    "platforms": "Core platforms.",
-    "spend": "Varies."
+    "ai": "AI for investment advisory, portfolio analytics, client insights. Avaloq AI engine.",
+    "cloud": "SaaS/BPaaS delivery. Cloud-native platform evolution.",
+    "data": "Wealth management data models. Investment analytics. Regulatory reporting.",
+    "platforms": "Avaloq Banking Suite (core banking). Wealth management platform. BPaaS (outsourced banking operations). 160+ bank and wealth clients.",
+    "spend": "NEC ownership provides investment capacity."
   },
   "operating_model": "See summary.",
-  "people": [],
+  "people": [
+    {
+      "name": "Martin Greweldinger",
+      "role": "CEO (from 2023)"
+    },
+    {
+      "name": "Thomas Beck",
+      "role": "CTO"
+    },
+    {
+      "name": "Fernando Bressane",
+      "role": "Head of Banking Products"
+    },
+    {
+      "name": "Jürg Hunziker",
+      "role": "Head of Ecosystem & Partners"
+    }
+  ],
   "partnerships": [],
   "opportunities": [
     "Wealth management software. Implementation partner opportunity for bank/wealth clients. 160+ clients."
@@ -41,7 +58,7 @@
     "Cloud",
     "Data"
   ],
-  "coforge_angle": "NN TAL (Rohit). Wealth management software. Implementation partner opportunity for bank/wealth clients. 160+ clients.",
+  "coforge_angle": "NN TAL (Rohit). Avaloq serves 160+ banks/wealth managers. Like Temenos, uses SI/implementation partners. Key opportunities: (1) Avaloq Banking Suite implementations, (2) Wealth management platform customisation, (3) BPaaS operations support, (4) Migration from legacy platforms to Avaloq, (5) Integration with market data providers. Entry points: Jürg Hunziker (Ecosystem & Partners), Martin Greweldinger (CEO).",
   "evidence": [],
   "questions": []
 }

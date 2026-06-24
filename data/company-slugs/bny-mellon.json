@@ -29,7 +29,36 @@
     "spend": "Varies."
   },
   "operating_model": "See summary.",
-  "people": [],
+  "people": [
+    {
+      "name": "Robin Vince",
+      "role": "CEO"
+    },
+    {
+      "name": "Dermot McDonogh",
+      "role": "CFO"
+    },
+    {
+      "name": "Caroline Butler",
+      "role": "Global Head of Digital Assets"
+    },
+    {
+      "name": "Carolyn Weinberg",
+      "role": "Chief Product and Innovation Officer"
+    },
+    {
+      "name": "Laide Majiyagbe",
+      "role": "Global Head Liquidity, Financing & Collateral"
+    },
+    {
+      "name": "Jennifer Barker",
+      "role": "Global Head Payments & Trade"
+    },
+    {
+      "name": "Akash Shah",
+      "role": "Chief Growth Officer"
+    }
+  ],
   "partnerships": [],
   "opportunities": [
     "$55.8T AUC/A. Platform model, AI, digital assets. Massive engineering needs across fund services, custody, and data."

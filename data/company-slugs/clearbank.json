@@ -12,7 +12,7 @@
   "revenue": "N/A",
   "profit_metric": "N/A",
   "employees": "~600",
-  "key_stat": "UK's first new clearing bank in 250 years | BaaS | API-first",
+  "key_stat": "UK's first new clearing bank in 250 years | BaaS | 100% cloud-native | Real-time payments",
   "summary": "ClearBank: UK's first new clearing bank in 250 years (2017). Banking-as-a-Service via API. Real-time payments clearing. Serves fintechs, banks, financial institutions. Cloud-native. Growing rapidly.",
   "business_segments": [
     {
@@ -22,14 +22,31 @@
     }
   ],
   "technology": {
-    "ai": "See summary.",
-    "cloud": "Cloud platforms.",
-    "data": "Business data.",
-    "platforms": "Core platforms.",
-    "spend": "Varies."
+    "ai": "AI for fraud detection, AML, customer analytics.",
+    "cloud": "100% cloud-native from inception (Microsoft Azure). No legacy. Purpose-built for modern banking.",
+    "data": "Real-time payments data. AML/fraud data. Client banking data.",
+    "platforms": "Banking-as-a-Service API platform. Real-time payments clearing (Faster Payments, CHAPS, BACS). Multi-currency. EMI/PI licensing.",
+    "spend": "Growing — Series B+ funded. Scaling rapidly."
   },
   "operating_model": "See summary.",
-  "people": [],
+  "people": [
+    {
+      "name": "Charles McManus",
+      "role": "CEO"
+    },
+    {
+      "name": "Simon Jones",
+      "role": "CFO"
+    },
+    {
+      "name": "Gary Winter",
+      "role": "CTO"
+    },
+    {
+      "name": "Becky Maydon",
+      "role": "Chief Customer Officer"
+    }
+  ],
   "partnerships": [],
   "opportunities": [
     "Cloud-native clearing bank. API engineering, payments infrastructure, and BaaS platform scaling."
@@ -42,7 +59,7 @@
     "Cloud",
     "Data"
   ],
-  "coforge_angle": "NN TAL (Rohit). Cloud-native clearing bank. API engineering, payments infrastructure, and BaaS platform scaling.",
+  "coforge_angle": "NN TAL (Rohit). ClearBank is cloud-native and fast-growing. UK's first new clearing bank in 250 years. Key opportunities: (1) API platform scaling, (2) Payments infrastructure engineering, (3) AML/fraud technology, (4) Multi-currency expansion, (5) BaaS platform for fintech clients, (6) Regulatory compliance. Growing company that needs engineering partners. Entry points: Gary Winter (CTO), Charles McManus (CEO).",
   "evidence": [],
   "questions": []
 }

@@ -45,12 +45,32 @@
       "role": "CEO"
     },
     {
-      "name": "John Plansky",
-      "role": "Head of Alpha"
+      "name": "Eric Aboaf",
+      "role": "CFO"
+    },
+    {
+      "name": "Donna Milrod",
+      "role": "Chief Product Officer"
+    },
+    {
+      "name": "Joerg Ambrosius",
+      "role": "President, Investment Services"
+    },
+    {
+      "name": "Anna Paglia",
+      "role": "CBO, Investment Management"
     },
     {
       "name": "Spiros Giannaros",
-      "role": "CEO, Charles River"
+      "role": "CEO, Charles River Development"
+    },
+    {
+      "name": "John Plansky",
+      "role": "Head of State Street Alpha"
+    },
+    {
+      "name": "Francisco Aristeguieta",
+      "role": "Head of International"
     }
   ],
   "partnerships": [

@@ -46,8 +46,28 @@
       "role": "CEO"
     },
     {
+      "name": "Lars Machenil",
+      "role": "CFO"
+    },
+    {
       "name": "Julien Clausse",
-      "role": "Head of AssetFoundry"
+      "role": "Head of AssetFoundry, CIB"
+    },
+    {
+      "name": "Edouard Legrand",
+      "role": "CDDO, Asset Management"
+    },
+    {
+      "name": "Hubert de Lambilly",
+      "role": "Head of Global Markets"
+    },
+    {
+      "name": "Yannick Jung",
+      "role": "Head of CIB EMEA"
+    },
+    {
+      "name": "Thierry Laborde",
+      "role": "Deputy CEO"
     }
   ],
   "partnerships": [

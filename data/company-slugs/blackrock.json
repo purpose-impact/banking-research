@@ -9,10 +9,10 @@
     "UK",
     "Global"
   ],
-  "revenue": "N/A",
-  "profit_metric": "N/A",
+  "revenue": "~$20B annual (2025)",
+  "profit_metric": "Strong — $11.5T AUM (Dec 2025)",
   "employees": "~20,000",
-  "key_stat": "$11.5T AUM | Aladdin platform | BUIDL tokenized fund | iShares",
+  "key_stat": "$11.5T AUM | Aladdin ($21T managed) | BUIDL $2.5B+ tokenized fund | iShares | IBIT (607K BTC)",
   "summary": "BlackRock is the world's largest asset manager ($11.5T AUM). Aladdin platform ($21T managed). iShares ETFs. BUIDL tokenized fund ($2.5B+ via Securitize on 9 chains). IBIT Bitcoin ETF (607K BTC via Coinbase). Massive technology operation.",
   "business_segments": [
     {
@@ -22,14 +22,47 @@
     }
   ],
   "technology": {
-    "ai": "See summary.",
-    "cloud": "Cloud platforms.",
-    "data": "Business data.",
-    "platforms": "Core platforms.",
-    "spend": "Varies."
+    "ai": "Aladdin Copilot (GenAI for portfolio analytics). AI for risk, ESG scoring, client insights. eFront for alternatives.",
+    "cloud": "Aladdin on cloud (Azure/AWS). Massive data infrastructure.",
+    "data": "Aladdin processes $21T across 200+ clients. Risk analytics. ESG data. Alternatives data (eFront).",
+    "platforms": "Aladdin ($21T), iShares, BlackRock Solutions, eFront (alternatives), Cachematrix (cash management), BUIDL (tokenized).",
+    "spend": "Significant — Aladdin is a multi-billion business itself."
   },
   "operating_model": "See summary.",
-  "people": [],
+  "people": [
+    {
+      "name": "Larry Fink",
+      "role": "Chairman and CEO"
+    },
+    {
+      "name": "Rob Goldstein",
+      "role": "COO and Head of BlackRock Solutions"
+    },
+    {
+      "name": "Martin Small",
+      "role": "CFO"
+    },
+    {
+      "name": "Robert Mitchnick",
+      "role": "Head of Digital Assets"
+    },
+    {
+      "name": "Robbie Mitchnick",
+      "role": "Head of Digital Assets (same person, sometimes reported as Robbie)"
+    },
+    {
+      "name": "Carlos Domingo",
+      "role": "CEO, Securitize (BlackRock BUIDL partner)"
+    },
+    {
+      "name": "Rachel Lord",
+      "role": "Head of International (EMEA, APAC)"
+    },
+    {
+      "name": "Stephen Cohen",
+      "role": "Chief Product Officer"
+    }
+  ],
   "partnerships": [],
   "opportunities": [
     "$11.5T AUM. Aladdin platform engineering, BUIDL infrastructure, iShares technology, and data analytics."
@@ -42,7 +75,7 @@
     "Cloud",
     "Data analytics"
   ],
-  "coforge_angle": "NN TAL (Boaz). $11.5T AUM. Aladdin platform engineering, BUIDL infrastructure, iShares technology, and data analytics.",
+  "coforge_angle": "NN TAL (Boaz). $11.5T AUM. Aladdin platform ($21T managed) is one of the largest financial technology platforms globally. Key opportunities: (1) Aladdin engineering and client implementation, (2) BUIDL tokenized fund infrastructure (Securitize, 9 chains), (3) iShares ETF technology, (4) eFront alternatives platform, (5) ESG data engineering, (6) Risk analytics. Entry points: Rob Goldstein (COO/Solutions), Robert Mitchnick (Digital Assets), Stephen Cohen (CPO).",
   "evidence": [],
   "questions": []
 }

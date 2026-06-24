@@ -51,16 +51,32 @@
       "role": "CEO"
     },
     {
-      "name": "Christoph Puhr",
-      "role": "Digital Assets Lead"
-    },
-    {
       "name": "Todd Tuckner",
       "role": "CFO"
     },
     {
       "name": "Mike Dargan",
       "role": "Group CIO"
+    },
+    {
+      "name": "Christoph Puhr",
+      "role": "Digital Assets Lead"
+    },
+    {
+      "name": "Iqbal Khan",
+      "role": "Co-President, Global Wealth Management"
+    },
+    {
+      "name": "Colm Kelleher",
+      "role": "Chairman"
+    },
+    {
+      "name": "Suni Harford",
+      "role": "President Asset Management"
+    },
+    {
+      "name": "Robert Karofsky",
+      "role": "Co-President, Investment Bank"
     }
   ],
   "partnerships": [

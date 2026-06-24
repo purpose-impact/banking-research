@@ -7,58 +7,97 @@
     "UK",
     "Global"
   ],
-  "revenue": "~£8.6B annual (FY2024)",
+  "revenue": "~£8.6B annual (FY2024, ~60% Data & Analytics)",
   "profit_metric": "Strong growth",
   "employees": "~25,000",
-  "key_stat": "Refinitiv integration | Microsoft $2.8B partnership | Workspace, Eikon, FTSE Russell",
+  "key_stat": "44,000 customers in 170+ countries | $2.8B Microsoft partnership | 33 petabytes of data | 30 data systems consolidating",
   "summary": "London Stock Exchange Group is a global financial infrastructure company. Post-Refinitiv acquisition ($27B, 2021). Microsoft 10-year partnership ($2.8B investment for 4% stake). Key products: Workspace (data terminal), FTSE Russell (indices), LCH (clearing), UnaVista (regulatory reporting), Acadia (derivatives). Massive technology transformation underway with Microsoft (Azure cloud, AI integration, Teams integration). Digital assets: limited but exploring via LCH and post-trade.",
   "business_segments": [
     {
       "name": "Data & Analytics",
-      "detail": "Workspace, Eikon, Datastream. Refinitiv integrated. Financial data, news, analytics. ~60% of revenue.",
-      "priority": "core"
-    },
-    {
-      "name": "Capital Markets",
-      "detail": "London Stock Exchange, Borsa Italiana (sold to Euronext), Turquoise. Trading venues.",
-      "priority": "core"
-    },
-    {
-      "name": "Post-Trade",
-      "detail": "LCH (clearing), UnaVista (reporting), Acadia, TORA. Post-trade services.",
+      "detail": "~60% of revenue. Workspace (terminal replacing Eikon). Financial Analytics. ESG. Real-time data. 44K customers, 170+ countries. Microsoft Fabric migration. MCP for agentic AI.",
       "priority": "core"
     },
     {
       "name": "FTSE Russell",
-      "detail": "Index provider. ~$15T benchmarked. ESG indices growing.",
+      "detail": "~$15T benchmarked to indices. ESG indices growing. S&P 500 competitor. Licensing revenue.",
+      "priority": "core"
+    },
+    {
+      "name": "Capital Markets",
+      "detail": "London Stock Exchange. Turquoise (MTF). Trading venues. Borsa Italiana sold to Euronext.",
+      "priority": "core"
+    },
+    {
+      "name": "Post-Trade",
+      "detail": "LCH (clearing — largest in rates). UnaVista (regulatory reporting). Acadia (derivatives margin). TORA (OEMS).",
+      "priority": "core"
+    },
+    {
+      "name": "Digital Markets Infrastructure",
+      "detail": "DMI for private funds. Connected, transparent access to private markets.",
       "priority": "growth"
     }
   ],
   "technology": {
-    "ai": "Microsoft AI partnership. Copilot integration into Workspace. AI-powered analytics. NLP for news.",
-    "cloud": "Microsoft Azure migration (10-year deal). Cloud-native Workspace rebuild. Infrastructure modernisation.",
-    "data": "Massive data estate (Refinitiv). Real-time market data. Reference data. ESG data.",
-    "platforms": "Workspace, Eikon, FTSE Russell, LCH, UnaVista, TORA, Acadia.",
-    "spend": "$2.8B Microsoft partnership. Significant annual tech investment."
+    "ai": "LSEG-Microsoft AI strategy: 'LSEG everywhere' agentic AI. MCP (Model Context Protocol) server for LSEG data in Microsoft Copilot Studio. AI agents built into trading/research workflows. Workspace AI copilot integration. NLP for news and analytics.",
+    "cloud": "Microsoft Azure (10-year, $2.8B minimum spend). Migrating data platform + infrastructure. Microsoft Fabric: consolidating 30 systems, 1,200 datasets, 33 petabytes. Spark on Fabric processing ~80,000 files daily. 50%+ month-on-month consumption growth.",
+    "data": "Massive: 33 petabytes across 30 systems, 1,200 datasets. Unifying on Microsoft Fabric. ESG data products. Financial Analytics. Fundamentals. Real-time market data. Reference data. Product development timelines cut from years to months.",
+    "platforms": "Workspace (terminal), REDI EMS (embedded in Workspace Sep 2025), FTSE Russell (indices), LCH (clearing), UnaVista (regulatory reporting), Acadia (derivatives), TORA (OEMS), Digital Markets Infrastructure (DMI) for private funds.",
+    "spend": "$2.8B minimum Azure commitment. £250-300M incremental 2023-2025. Innovation Forum Nov 2025 showcased engineering transformation."
   },
   "operating_model": "Post-Refinitiv integration. Microsoft partnership driving cloud transformation. Open platform strategy. API-first approach.",
   "people": [
     {
       "name": "Julia Hoggett",
-      "role": "CEO (from Jan 2025)"
+      "role": "CEO (from Jan 2025, prev CEO London Stock Exchange)"
     },
     {
       "name": "David Schwimmer",
-      "role": "Former CEO"
+      "role": "Former Group CEO (led Refinitiv acquisition and Microsoft partnership)"
     },
     {
-      "name": "Andrea Sheridan",
-      "role": "CTO"
+      "name": "Irfan Hussain",
+      "role": "Group CIO (joined Jan 2024). Leads technology team. Engineering leader."
+    },
+    {
+      "name": "Ron Lefferts",
+      "role": "Co-Head Data & Analytics (from Aug 2025). Ex-Protiviti, ex-IBM."
+    },
+    {
+      "name": "Gianluca Biagini",
+      "role": "Co-Head Data & Analytics (from Aug 2025). Ex-S&P Global."
+    },
+    {
+      "name": "Chris Maher",
+      "role": "Group Head of Sales & Account Management (joined Jan 2026, ex-State Street Global Head Sales)"
+    },
+    {
+      "name": "Dave Byrne",
+      "role": "Group Head of Data Platforms"
+    },
+    {
+      "name": "Phil Cheetham",
+      "role": "Group Head of Data Content"
+    },
+    {
+      "name": "Srimanth Rudraraju",
+      "role": "Group Director, Engineering, Data Platforms"
+    },
+    {
+      "name": "Scott Guthrie",
+      "role": "Microsoft EVP Cloud+AI, LSEG Board member (since 2023)"
+    },
+    {
+      "name": "Catherine Johnson",
+      "role": "General Counsel, ExCo member"
     }
   ],
   "partnerships": [
-    "Microsoft ($2.8B, 10-year)",
-    "Accenture (implementation)"
+    "Microsoft ($2.8B, 10-year, 4% equity stake, Scott Guthrie on board)",
+    "AWS (engineering)",
+    "Accenture (implementation)",
+    "State Street (Chris Maher hire)"
   ],
   "opportunities": [
     "Microsoft/Azure partnership work",
@@ -81,9 +120,30 @@
     "Post-trade technology",
     "ESG data engineering"
   ],
-  "coforge_angle": "NN TAL. LSEG spending billions on Microsoft cloud migration and Workspace rebuild. Massive engineering need. Coforge can support Azure migration, platform engineering, data integration, post-trade technology.",
+  "coforge_angle": "NN TAL (Kumar). LSEG is spending $2.8B+ on Microsoft Azure migration and platform engineering. 25K employees. Consolidating 30 data systems into Microsoft Fabric. Key opportunities: (1) Azure migration engineering (massive), (2) Workspace platform development, (3) Microsoft Fabric data engineering (33 petabytes, 1,200 datasets), (4) LCH clearing technology, (5) UnaVista regulatory reporting, (6) FTSE Russell ESG data, (7) DMI private markets, (8) REDI EMS integration, (9) MCP agentic AI development. Entry points: Irfan Hussain (CIO), Dave Byrne (Data Platforms), Ron Lefferts/Gianluca Biagini (D&A leaders), Chris Maher (Sales, ex-State Street).",
   "category": "NN TAL",
-  "evidence": [],
+  "evidence": [
+    {
+      "claim": "LSEG-Microsoft: 10-year, $2.8B Azure commitment. Scott Guthrie (EVP Cloud+AI) on LSEG board.",
+      "source": "Microsoft/LSEG press release, Freshfields case study",
+      "date": "2022-12"
+    },
+    {
+      "claim": "Microsoft Fabric: consolidating 30 systems, 1,200 datasets, 33 petabytes. 80K files/day. Product dev from years to months.",
+      "source": "Microsoft customer story",
+      "date": "2025-11"
+    },
+    {
+      "claim": "MCP server for agentic AI: LSEG data in Microsoft Copilot Studio for custom AI agents.",
+      "source": "The Trade News",
+      "date": "2025-10-13"
+    },
+    {
+      "claim": "Julia Hoggett appointed CEO Jan 2025. Irfan Hussain CIO Jan 2024. Chris Maher joined Jan 2026 from State Street.",
+      "source": "LSEG Executive Team page",
+      "date": "2025-2026"
+    }
+  ],
   "questions": [],
   "owner": "Kumar"
 }

@@ -46,11 +46,31 @@
   "people": [
     {
       "name": "Andreas Andreades",
-      "role": "CEO"
+      "role": "CEO (from Sep 2024, ex-Eurobank Group Deputy CEO)"
+    },
+    {
+      "name": "Takis Spiliopoulos",
+      "role": "CFO"
     },
     {
       "name": "Caline Karouni",
-      "role": "CTO"
+      "role": "Chief Technology Officer"
+    },
+    {
+      "name": "Philip Barnett",
+      "role": "Chief Revenue Officer"
+    },
+    {
+      "name": "Alexa Guenoun",
+      "role": "Chief Client Officer"
+    },
+    {
+      "name": "Martin Frick",
+      "role": "President Americas"
+    },
+    {
+      "name": "Petra Bielenberg",
+      "role": "General Counsel"
     }
   ],
   "partnerships": [
@@ -79,7 +99,7 @@
     "Data migration",
     "Wealth platform"
   ],
-  "coforge_angle": "MHA (Rohit). Temenos uses large implementation partner ecosystem. Coforge can become Temenos SI partner for bank implementations, SaaS migration, testing, and data migration.",
+  "coforge_angle": "MHA (Rohit). Temenos is the world's largest banking software company (3,000+ bank clients, 150 countries). Implementation partner ecosystem is core to Temenos go-to-market. Coforge can become a certified Temenos SI partner. Key opportunities: (1) Transact/T24 implementations for bank clients, (2) SaaS migration projects for existing on-premise clients, (3) Infinity digital banking front-end implementations, (4) Multifonds fund admin (transfer agency, fund accounting), (5) WealthSuite for private banks, (6) Testing and QA (massive need), (7) Data migration from legacy cores. Entry points: Philip Barnett (CRO), Alexa Guenoun (Chief Client Officer), Martin Frick (Americas).",
   "evidence": [],
   "questions": []
 }
